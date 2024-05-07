@@ -1,0 +1,1258 @@
+ITEM#,Resource,WEIGHT (G/SM),Cuttable Width(inch),Fabric  Category,Fabric Type,FABRIC CONTENT 1,FABRIC CONTENT 2,FABRIC CONTENT 3,FABRIC CONTENT 4,FABRIC CONTENT 5,bendingLeftBias,bendingRightBias,bendingWarp,bendingWeft,bucklingRatioLeftBias,bucklingRatioRightBias,bucklingRatioWarp,bucklingRatioWeft,bucklingStiffnessLeftBias,bucklingStiffnessRightBias,bucklingStiffnessWarp,bucklingStiffnessWeft,density,friction,internalDamping,leftShear,rightShear,stretchWarp,stretchWeft,thickness
+1093,KTTA & KOTITI,269,,knit,,PC 43%,wool 37%,polyamide 20%,,,,,,,,,,,,,,,,,,,,,,
+6849,KTTA & KOTITI,269,,woven,,linen 71%, Silk 29%,,,,,,,,,,,,,,,,,,,,,,,
+6978,KTTA & KOTITI,232,,woven,,cotton 34%,"viscose 35%, ",polyester 31%,,,,,,,,,,,,,,,,,,,,,,
+6982,KTTA & KOTITI,86,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+6983,KTTA & KOTITI,361,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+6993,KTTA & KOTITI,167,,Woven,,"wool 60%, ","Silk 25%, ",ME 15%,,,,,,,,,,,,,,,,,,,,,,
+7029,KTTA & KOTITI,134,,Woven,,"cotton 80%, ",PC 20%,,,,,,,,,,,,,,,,,,,,,,,
+7030,KTTA & KOTITI,260,,Woven,,"linen 56%,",cotton 44%,,,,,,,,,,,,,,,,,,,,,,,
+7047,KTTA & KOTITI,184,,Woven,,"Silk 70%, ",wool 30%,,,,,,,,,,,,,,,,,,,,,,,
+7048,KTTA & KOTITI,126,,Woven,,"cotton 75%, ",Silk 25%,,,,,,,,,,,,,,,,,,,,,,,
+7092,KTTA & KOTITI,152,,Woven,,Cupro 66%,polyester 34%,,,,,,,,,,,,,,,,,,,,,,,
+7093,KTTA & KOTITI,249,,woven,,"acylic 66%,"," polyamide 31%, ",EL 3%,,,,,,,,,,,,,,,,,,,,,,
+7096,KTTA & KOTITI,46,,woven,,polyamide 70%,lyocell 30%,,,,,,,,,,,,,,,,,,,,,,,
+7109,KTTA & KOTITI,333,,knit,,Ramie 79%,polyamide 15%,EL 6%,,,,,,,,,,,,,,,,,,,,,,
+7114,KTTA & KOTITI,197,,woven,,polyamide 24%,cotton 76%,,,,,,,,,,,,,,,,,,,,,,,
+7128,KTTA & KOTITI,204,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7137,KTTA & KOTITI,241,,Knit,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7148,KTTA & KOTITI,58,,woven,,viscose 52%,polyester 48%,,,,,,,,,,,,,,,,,,,,,,,
+7168,KTTA & KOTITI,160,,Knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7173,KTTA & KOTITI,210,,Knit,,polyamide 80%,EL 20%,,,,,,,,,,,,,,,,,,,,,,,
+7186,KTTA & KOTITI,270,,Woven,,"polyamide 93%,",Polyurethane 7%,,,,,,,,,,,,,,,,,,,,,,,
+7193,KTTA & KOTITI,138,,Knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7194,KTTA & KOTITI,127,,Woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7197,KTTA & KOTITI,106,,Woven,,"(F) Polyurethane 100%, (B) Polyethylene 100%",,,,,,,,,,,,,,,,,,,,,,,,
+7211,KTTA & KOTITI,236,,Woven,,PolyethyleneT 64% ,cotton 36%,,,,,,,,,,,,,,,,,,,,,,,
+7213,KTTA & KOTITI,159,,woven,,Ramie 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7214,KTTA & KOTITI,241,,woven,,"cotton 78%, ",linen 22%,,,,,,,,,,,,,,,,,,,,,,,
+7215,KTTA & KOTITI,168,,woven,,"polyamide 78%, ","Polyurethane 12%, ",polyester 10%,,,,,,,,,,,,,,,,,,,,,,
+7216,KTTA & KOTITI,87,,woven,,Silk 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7217,KTTA & KOTITI,128,,woven,,polyester 59%,"cotton 37%, ",lyocell 4%,,,,,,,,,,,,,,,,,,,,,,
+7218,KTTA & KOTITI,171,,knit,,acylic 73%,"polyamide 20%, ",EL 7%,,,,,,,,,,,,,,,,,,,,,,
+7226,KTTA & KOTITI,20,,woven,,polyester 50%,", polyamide 50%",,,,,,,,,,,,,,,,,,,,,,,
+7227,KTTA & KOTITI,175,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7231,KTTA & KOTITI,272,,knit,,"Polyurethane 53%, ",polyester 47%,,,,,,,,,,,,,,,,,,,,,,,
+7242,KTTA & KOTITI,128,,woven,,"cotton 55%,", polyamide 45%,,,,,,,,,,,,,,,,,,,,,,,
+7243,KTTA & KOTITI,166,,knit,,polyester 94%,", EL 6%",,,,,,,,,,,,,,,,,,,,,,,
+7244,KTTA & KOTITI,233,,knit,,"polyester 95%,", EL 5%,,,,,,,,,,,,,,,,,,,,,,,
+7254,KTTA & KOTITI,31,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7258,KTTA & KOTITI,296,,knit,,"cotton 55%, ","polyester 43%, ",EL 2%,,,,,,,,,,,,,,,,,,,,,,
+7266,KTTA & KOTITI,127,,woven,,"cotton 55%,", Silk 45%,,,,,,,,,,,,,,,,,,,,,,,
+7268,KTTA & KOTITI,222,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7271,KTTA & KOTITI,199,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7278,KTTA & KOTITI,282,,knit,,"wool 78%, ",cotton 22%,,,,,,,,,,,,,,,,,,,,,,,
+7279,KTTA & KOTITI,87,,woven,,"acylic 51%,", polyamide 49%,,,,,,,,,,,,,,,,,,,,,,,
+7280,KTTA & KOTITI,168,,woven,,Modal70%,", polyester 30%",,,,,,,,,,,,,,,,,,,,,,,
+7281,KTTA & KOTITI,208,,knit,,"polyamide 97%,", EL 3%,,,,,,,,,,,,,,,,,,,,,,,
+7285,KTTA & KOTITI,110,,woven,,"polyester 89%, ",Silk 11%,,,,,,,,,,,,,,,,,,,,,,,
+7286,KTTA & KOTITI,177,,knit,,"polyester 92%, ",Polyurethane 8%,,,,,,,,,,,,,,,,,,,,,,,
+7287,KTTA & KOTITI,256,,woven,,"cotton 52%, ","ME 5%, ",polyester 43%,,,,,,,,,,,,,,,,,,,,,,
+7288,KTTA & KOTITI,196,,knit,,polyester 95%,", EL 5%",,,,,,,,,,,,,,,,,,,,,,,
+7298,KTTA & KOTITI,272,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7306,KTTA & KOTITI,213,,woven,,"polyester 92% (CHANEL 62%),", ME 8%,,,,,,,,,,,,,,,,,,,,,,,
+7306,KTTA & KOTITI,38,,woven,,"cotton 75%, ",Silk 25%,,,,,,,,,,,,,,,,,,,,,,,
+7307,KTTA & KOTITI,187,,woven,,"polyester 69%, ","cotton 25%, ",linen 6%,,,,,,,,,,,,,,,,,,,,,,
+7307,KTTA & KOTITI,66,,woven,,acylic 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7321,KTTA & KOTITI,77,,woven,,"Silk 51%, ",polyester 49%,,,,,,,,,,,,,,,,,,,,,,,
+7327,KTTA & KOTITI,43,,Woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7329,KTTA & KOTITI,82,,Woven,,acylic 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7329,KTTA & KOTITI,176,,Woven,twill,"polyamide 76%, ",polyester 24%,,,,,,,,,,,,,,,,,,,,,,,
+7330,KTTA & KOTITI,152,,Woven,,polyamide 84%,Polyurethane 16%,,,,,,,,,,,,,,,,,,,,,,,
+7330,KTTA & KOTITI,303,,knit,,"polyester 78%,"," viscose 16%, ",EL 6%,,,,,,,,,,,,,,,,,,,,,,
+7331,KTTA & KOTITI,304,,knit,,"cotton 55%,","polyester 43%,",EL 2%,,,,,,,,,,,,,,,,,,,,,,
+7331,KTTA & KOTITI,148,,woven,,"polyamide 84%,",Polyurethane16%,,,,,,,,,,,,,,,,,,,,,,,
+7338,KTTA & KOTITI,345,,woven,twill,"polyester 95%, ",EL 5%,,,,,,,,,,,,,,,,,,,,,,,
+7361,KTTA & KOTITI,123,,woven,,"cotton 75%, ","polyamide 22%, ",EL 3%,,,,,,,,,,,,,,,,,,,,,,
+7361,KTTA & KOTITI,129,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7362,KTTA & KOTITI,354,,knit,,polyester 90%,", EL 10%",,,,,,,,,,,,,,,,,,,,,,,
+7365,KTTA & KOTITI,222,,woven,,"cotton 63%,"," lyocell 33%,", EL 4%,,,,,,,,,,,,,,,,,,,,,,
+7365,KTTA & KOTITI,315,,woven,,"viscose 67%, ","linen 22%, ",cotton 11%,,,,,,,,,,,,,,,,,,,,,,
+7378,KTTA & KOTITI,363,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7378,KTTA & KOTITI,136,,woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7379,KTTA & KOTITI,75,,woven,,"lyocell 55%, ",polyamide 45%,,,,,,,,,,,,,,,,,,,,,,,
+7379,KTTA & KOTITI,334,,woven,,"(F) Polyurethane 100%, (B) polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+7380,KTTA & KOTITI,108,,knit,,"polyamide 87%, ","ME 8%,",EL 5%,,,,,,,,,,,,,,,,,,,,,,
+7380,KTTA & KOTITI,151,,knit,,"viscose 60%, ",polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+7381,KTTA & KOTITI,215,,knit,,"viscose 58%, ","polyester 38%,",EL 4%,,,,,,,,,,,,,,,,,,,,,,
+7381,KTTA & KOTITI,379,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7399,KTTA & KOTITI,212,,knit,,polyester 95%,", Polyurethane 5%",,,,,,,,,,,,,,,,,,,,,,,
+7399,KTTA & KOTITI,179,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7406,KTTA & KOTITI,195,,woven,,"polyester 48%, ",cotton 52%,,,,,,,,,,,,,,,,,,,,,,,
+7406,KTTA & KOTITI,197,,woven,,Ramie 71%,Silk 29%,,,,,,,,,,,,,,,,,,,,,,,
+7411,KTTA & KOTITI,167,,knit,,"polyester 58%, ","polyamide 29%,",EL 13%,,,,,,,,,,,,,,,,,,,,,,
+7411,KTTA & KOTITI,200,,woven,,"polyester 61%, ","Silk 33%,",polyamide 6%,,,,,,,,,,,,,,,,,,,,,,
+7430,KTTA & KOTITI,261,,woven,,"polyamide 92%,", Polyurethane 8%,,,,,,,,,,,,,,,,,,,,,,,
+7431,KTTA & KOTITI,148,,knit,,"polyester 95%,",Polyurethane 5%,,,,,,,,,,,,,,,,,,,,,,,
+7432,KTTA & KOTITI,57,,woven,,"viscose 52%,",polyester 48%,,,,,,,,,,,,,,,,,,,,,,,
+7434,KTTA & KOTITI,166,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7434,KTTA & KOTITI,102,,woven,,acylic 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7435,KTTA & KOTITI,137,,woven,,"cotton 38%, ","Polyethylene 32%, ",ME 30%,,,,,,,,,,,,,,,,,,,,,,
+7436,KTTA & KOTITI,67,,woven,,polyester 68%,", polyamide 32%",,,,,,,,,,,,,,,,,,,,,,,
+7440,KTTA & KOTITI,244,,woven,,"wool 58%, ","polyester 21%, ","cotton 19%,",ME 2%,,,,,,,,,,,,,,,,,,,,,
+7441,KTTA & KOTITI,265,,knit,,,,,,,,,,,,,,,,,,,,,,,,,,
+7442,KTTA & KOTITI,316,,knit,,"polyester 78%, ","viscose 16%, ",EL 6%,,,,,,,,,,,,,,,,,,,,,,
+34238,KTTA & KOTITI,215,,woven,,"viscose 53%,",cotton 47%,,,,,,,,,,,,,,,,,,,,,,,
+160135,KTTA & KOTITI,121,,woven,,"polyester 82%,",polyamide 18%,,,,,,,,,,,,,,,,,,,,,,,
+518221,KTTA & KOTITI,162,,woven,,"cotton 60%,",polyamide 40%,,,,,,,,,,,,,,,,,,,,,,,
+578244,KTTA & KOTITI,326,,knit,,"PC 68%, ",polyester 32%,,,,,,,,,,,,,,,,,,,,,,,
+618260,KTTA & KOTITI,388,,woven,,"polyester 69%,"," ME 25%,",PC 6%,,,,,,,,,,,,,,,,,,,,,,
+627708,KTTA & KOTITI,206,,woven,,"cotton 62%, ",polyester 38%,,,,,,,,,,,,,,,,,,,,,,,
+678122,KTTA & KOTITI,278,,knit,,"Modal97%,",EL 3%,,,,,,,,,,,,,,,,,,,,,,,
+6877-1,KTTA & KOTITI,280,,Woven,,"polyester 94%,",EL 6%,,,,,,,,,,,,,,,,,,,,,,,
+6984-2,KTTA & KOTITI,54,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+6985-1,KTTA & KOTITI,292,,woven,,"CTA 56%, ",polyester 44%,,,,,,,,,,,,,,,,,,,,,,,
+6994-2,KTTA & KOTITI,195,,knit,,"polyester 48%,"," polyamide 45%, ",EL 6%,,,,,,,,,,,,,,,,,,,,,,
+7082-4,KTTA & KOTITI,193,,woven,,"polyester 69%, ","viscose 29%, ",Polyurethane 2%,,,,,,,,,,,,,,,,,,,,,,
+7082-5,KTTA & KOTITI,253,,Woven,,"(F) Polyurethane 100%, (B) polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+7082-8,KTTA & KOTITI,38,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7082-9,KTTA & KOTITI,326,,woven,,"polyester 41%, ","polyamide 29%, ","viscose 22%, ",PU 8%,,,,,,,,,,,,,,,,,,,,,
+7082-10,KTTA & KOTITI,98,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7082-11,KTTA & KOTITI,123,,woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7089-1,KTTA & KOTITI,347,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7089-2,KTTA & KOTITI,183,,woven,,"polyamide 86%,",EL 14%,,,,,,,,,,,,,,,,,,,,,,,
+7109-1,KTTA & KOTITI,144,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7109-2,KTTA & KOTITI,175,,woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7110-1,KTTA & KOTITI,160,,woven,,"cotton 60%,",polyamide 40%,,,,,,,,,,,,,,,,,,,,,,,
+7111-3,KTTA & KOTITI,237,,knit,,"polyester 31%, ","R 34%,","ME 27%, ",EL 8%,,,,,,,,,,,,,,,,,,,,,
+7117-1,KTTA & KOTITI,253,,knit,,"polyester 94%,", EL 6%,,,,,,,,,,,,,,,,,,,,,,,
+7130-2,KTTA & KOTITI,73,,woven,,viscose 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7166-1,KTTA & KOTITI,248,,knit,,"cotton 92%, ",EL 8%,,,,,,,,,,,,,,,,,,,,,,,
+7170-2,KTTA & KOTITI,298,,woven,,"woolOL 87%,", Silk 13%,,,,,,,,,,,,,,,,,,,,,,,
+7171-1,KTTA & KOTITI,128,,woven,,"cotton 55%,",Silk 45%,,,,,,,,,,,,,,,,,,,,,,,
+7172-3,KTTA & KOTITI,245,,woven,,"polyamide 54%, ","polyester 36%,", Polyurethane 10%,,,,,,,,,,,,,,,,,,,,,,
+7215-1,KTTA & KOTITI,216,,Woven,,"lyocell 79%, ",linen 21%,,,,,,,,,,,,,,,,,,,,,,,
+7215-3,KTTA & KOTITI,361,,Woven,,polyamide 89%,Polyurethane 11%,,,,,,,,,,,,,,,,,,,,,,,
+7216-1,KTTA & KOTITI,348,,Woven,,"polyamide 88%, ",Polyurethane 12%,,,,,,,,,,,,,,,,,,,,,,,
+7217-1,KTTA & KOTITI,203,,knit,,"polyester 90%, ",EL 10%,,,,,,,,,,,,,,,,,,,,,,,
+7218-1,KTTA & KOTITI,252,,knit,,"polyester 53%, ",PC 47%,,,,,,,,,,,,,,,,,,,,,,,
+7229-1,KTTA & KOTITI,182,,knit,,"polyester 50%,"," polyamide 46%,",EL 4%,,,,,,,,,,,,,,,,,,,,,,
+7229-2,KTTA & KOTITI,245,,knit,,"(F) polyester 95%, EL 5%, (B) polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+7230-2,KTTA & KOTITI,165,,knit,,"polyester 83%, ",EL 17%,,,,,,,,,,,,,,,,,,,,,,,
+7231-1,KTTA & KOTITI,150,,woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7259-2,KTTA & KOTITI,129,,woven,,"polyester 57%,"," ME 19%, ","Silk 14%,",PA 10%,,,,,,,,,,,,,,,,,,,,,
+7259-3,KTTA & KOTITI,53,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7278-1,KTTA & KOTITI,81,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7278-1,KTTA & KOTITI,266,,Knit,,"polyester 95%, ",EL 5%,,,,,,,,,,,,,,,,,,,,,,,
+7298-1,KTTA & KOTITI,104,,woven,,"(F) polyamide 76%, ","polyester 17%, ",Polyurethane 7%,,,,,,,,,,,,,,,,,,,,,,
+7322-1,KTTA & KOTITI,128,,knit,,polyester 99%,", polyamide 1%",,,,,,,,,,,,,,,,,,,,,,,
+7324-1,KTTA & KOTITI,334,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7326-1,KTTA & KOTITI,299,,woven,,"polyester 90%,",EL 10%,,,,,,,,,,,,,,,,,,,,,,,
+7338-1,KTTA & KOTITI,145,,knit,,"polyamide 70%, ","polyester 21%,",EL 9%,,,,,,,,,,,,,,,,,,,,,,
+7340-1,KTTA & KOTITI,249,,woven,,"viscose 50%, ","Silk 18%, ","cotton 29%,"," ME 2%,",PA 1%,,,,,,,,,,,,,,,,,,,,
+7346-1,KTTA & KOTITI,47,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7371-1,KTTA & KOTITI,225,,woven,,"cotton 74%, ",polyester 26%,,,,,,,,,,,,,,,,,,,,,,,
+7371-2,KTTA & KOTITI,162,,knit,,"polyamide 48%, ","polyester 45%, ",EL 7%,,,,,,,,,,,,,,,,,,,,,,
+7371-2,KTTA & KOTITI,250,,knit,,"polyamide 88%, ",EL 12%,,,,,,,,,,,,,,,,,,,,,,,
+7405-1,KTTA & KOTITI,185,,woven,,"polyester 65%,",cotton 35%,,,,,,,,,,,,,,,,,,,,,,,
+7405-1,KTTA & KOTITI,382,,knit,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+(G)H170470,KTTA & KOTITI,138,,woven,,"polyester 59%,","cotton 37%,",lyocell 4%,,,,,,,,,,,,,,,,,,,,,,
+#1001 SKIN+CIRE,KTTA & KOTITI,281,,woven,twill,"cotton 73%, ",polyester 27%,,,,,,,,,,,,,,,,,,,,,,,
+#1025 SKIN+,KTTA & KOTITI,217,,knit,,"polyamide 80%, ",EL 20%,,,,,,,,,,,,,,,,,,,,,,,
+#1128 C2L,KTTA & KOTITI,180,,knit,,PC 100%,,,,,,,,,,,,,,,,,,,,,,,,
+#1754 WR,KTTA & KOTITI,208,,knit,,"cotton 60%,",polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+#1840,KTTA & KOTITI,164,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+#4509 PU2,KTTA & KOTITI,120,,woven,,"cotton 55%, ",Silk 45%,,,,,,,,,,,,,,,,,,,,,,,
+#4707 W3L,KTTA & KOTITI,293,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+#4820 PU2,KTTA & KOTITI,195,,knit,,"polyamide 85%, ",EL 15%,,,,,,,,,,,,,,,,,,,,,,,
+#7123 PU2,KTTA & KOTITI,300,,knit,,"polyester 95%, ",EL 5%,,,,,,,,,,,,,,,,,,,,,,,
+#7172 TEF,KTTA & KOTITI,189,,woven,twill,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+#8102P,KTTA & KOTITI,272,,woven,,"lyocell 70%, ",polyester 30%,,,,,,,,,,,,,,,,,,,,,,,
+12014MS,KTTA & KOTITI,136,,woven,twill,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+12045-2S,KTTA & KOTITI,74,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+121917MS3,KTTA & KOTITI,298,,knit,,"polyester 80%, ",EL 20%,,,,,,,,,,,,,,,,,,,,,,,
+14028A,KTTA & KOTITI,316,,knit,,"polyester 65%, ",cotton 35%,,,,,,,,,,,,,,,,,,,,,,,
+160076-1,KTTA & KOTITI,57,,woven,,"viscose 52%, ",polyester 48%,,,,,,,,,,,,,,,,,,,,,,,
+17CJS1287,KTTA & KOTITI,197,,woven,,"cotton 60%, ",Modal40%,,,,,,,,,,,,,,,,,,,,,,,
+18399 DTP(PP),KTTA & KOTITI,131,,woven,,"Silk 20%, ","wool 46%, ",polyester 34%,,,,,,,,,,,,,,,,,,,,,,
+34200-1S1,KTTA & KOTITI,129,,knit,,"R 50%, ","polyester 45%, ",Polyurethane 5%,,,,,,,,,,,,,,,,,,,,,,
+7073-2A,KTTA & KOTITI,245,,knit,,"polyester 94%, ",EL 6%,,,,,,,,,,,,,,,,,,,,,,,
+7113-2A,KTTA & KOTITI,104,,woven,,Silk 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7113-2B,KTTA & KOTITI,223,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7114-2A,KTTA & KOTITI,61,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7114-2B,KTTA & KOTITI,388,,woven,,polyamide 91%,", Polyurethane 9%",,,,,,,,,,,,,,,,,,,,,,,
+7259-1A,KTTA & KOTITI,52,,woven,,Silk 15%,", cotton 85%",,,,,,,,,,,,,,,,,,,,,,,
+7259-1B,KTTA & KOTITI,239,,woven,,"acylic 70%,",polyester 30%,,,,,,,,,,,,,,,,,,,,,,,
+7259-1C,KTTA & KOTITI,217,,knit,,"polyester 48%, ","polyamide 44%, ",EL 8%,,,,,,,,,,,,,,,,,,,,,,
+"7259-2A
+",KTTA & KOTITI,170,,knit,,"R 62%, ","polyester 32%, ",Polyurethane 6%,,,,,,,,,,,,,,,,,,,,,,
+7295-1B,KTTA & KOTITI,189,,knit,,"viscose 86%, ","LUREX 9%, ",EL 5%,,,,,,,,,,,,,,,,,,,,,,
+"7295-1C
+",KTTA & KOTITI,81,,woven,,"polyamide 82%, ",EL 18%,,,,,,,,,,,,,,,,,,,,,,,
+"7296-1B
+",KTTA & KOTITI,421,,woven,,"polyamide 92% (KEVLAR 14%), ",Polyurethane 8%,,,,,,,,,,,,,,,,,,,,,,,
+7296-1C,KTTA & KOTITI,203,,knit,,"polyester 94%, ",EL 6%,,,,,,,,,,,,,,,,,,,,,,,
+7296-2C,KTTA & KOTITI,123,,knit,,"polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+7308-1A,KTTA & KOTITI,145,,knit,,"polyester 97%, ",EL 3%,,,,,,,,,,,,,,,,,,,,,,,
+7308-1B,KTTA & KOTITI,186,,knit,,"polyester 83%, ",Polyurethane 17%,,,,,,,,,,,,,,,,,,,,,,,
+7324-1A,KTTA & KOTITI,258,,woven,,"polyamide 89%, ",Polyurethane 11%,,,,,,,,,,,,,,,,,,,,,,,
+7326-1A,KTTA & KOTITI,285,,knit,,"polyester 93%, ",EL 7%,,,,,,,,,,,,,,,,,,,,,,,
+7339-1A,KTTA & KOTITI,36,,woven,,polyamide 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7339-1A,KTTA & KOTITI,184,,woven,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7339-1B,KTTA & KOTITI,335,,Woven,,"wool 83.8%, ","polyamide 10.8%, ","polyester 4.6%,",PU 0.8%,,,,,,,,,,,,,,,,,,,,,
+7339-1B,KTTA & KOTITI,142,,knit,,"polyamide 46%, ",polyester 43%,", EL 11%",,,,,,,,,,,,,,,,,,,,,,
+7340-1A,KTTA & KOTITI,299,,knit,Ferry Terry,"cotton 85%,",polyester 15%,,,,,,,,,,,,,,,,,,,,,,,
+7340-2A,KTTA & KOTITI,81,,Woven,twill,"acylic 52%, ",viscose 48%,,,,,,,,,,,,,,,,,,,,,,,
+7340-2B,KTTA & KOTITI,363,,knit,,polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7A7542,KTTA & KOTITI,275,,knit,,"polyester 86%, ",EL 14%,,,,,,,,,,,,,,,,,,,,,,,
+7A7542C,KTTA & KOTITI,161,,Woven,,"cotton 60%, ",polyamide 40%,,,,,,,,,,,,,,,,,,,,,,,
+7A7557,KTTA & KOTITI,83,,Woven,Poplin,Silk 100%,,,,,,,,,,,,,,,,,,,,,,,,
+7A7815,KTTA & KOTITI,355,,Woven,Twill,"wool 26%, ","cotton 44%, ",polyamide 9%,,,,,,,,,,,,,,,,,,,,,,
+AC-291 BR-3L,KTTA & KOTITI,215,,knit,,"Modal60%,",polyester 40%,,,,NaN,NaN,24996.95,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,280.8081,0.03,1.00E-04,NaN,NaN,148015.6,165639.9,0.44
+AD14139 FD,KTTA & KOTITI,189,,Woven,,"polyester 57%, ",cotton 30%,", ME 13%",,,NaN,NaN,14059.45,9378.052,NaN,NaN,NaN,0,NaN,NaN,0,0,361.1111,0.03,1.00E-04,NaN,NaN,596273.3,797363.9,0.72
+AE-1508 BO,KTTA & KOTITI,95,,knit,,polyester 100%,,,,,NaN,NaN,973.5107,3030.396,NaN,NaN,NaN,0,NaN,NaN,0,0,161.6162,0.03,1.00E-04,NaN,NaN,108976,173539.3,0.24
+AE-1586 JVW1,KTTA & KOTITI,212,,Woven,,polyester 100%,,,,,NaN,NaN,9378.052,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,161.1111,0.03,1.00E-04,NaN,NaN,53664.46,205435.9,0.25
+AMBER,KTTA & KOTITI,131,,Woven,,polyester 80%,", cotton 20%",,,,NaN,NaN,6246.948,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,189.3939,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.317
+ATTIVO-K1046-P,KTTA & KOTITI,165,,knit,,"polyester 92%, ",Polyurethane 8%,,,,NaN,NaN,607.2998,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,128.7879,0.03,1.00E-04,NaN,NaN,539847.3,1000000,0.233
+AVIS 4300,KTTA & KOTITI,299,,knit,,"polyamide 47%, 
+","polyester 31%,",EL 22%,,,NaN,NaN,1370.239,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,80.30303,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.13
+BACK SULUB F-TERRY,KTTA & KOTITI,171,,knit,,"polyamide 75%, ",EL 25%,,,,NaN,NaN,3903.198,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,298.4848,0.03,1.00E-04,NaN,NaN,33197.14,46255.92,0.982
+BACK TWIST F-TERRY,KTTA & KOTITI,385,,knit,,"polyester 87%,",EL 13%,,,,NaN,NaN,1370.239,5471.802,NaN,NaN,NaN,0,NaN,NaN,0,0,381.8182,0.03,1.00E-04,NaN,NaN,488198.9,522712.1,1.37
+BB0070A-1,KTTA & KOTITI,27,,Woven,,polyamide 100%,,,,,NaN,NaN,149.5361,2151.489,NaN,NaN,NaN,0,NaN,NaN,0,0,120.202,0.03,1.00E-04,NaN,NaN,97166.38,106237.6,0.34
+BB0070A-2,KTTA & KOTITI,345,,knit,,"polyester 95%, ",EL 5%,,,,NaN,NaN,119.0186,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,127.2727,0.03,1.00E-04,NaN,NaN,48976.04,104741,0.328
+BB0070A-3,KTTA & KOTITI,184,,Woven,,"polyester 82%, ",cotton 18%,,,,NaN,NaN,173.9502,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,127.7778,0.03,1.00E-04,NaN,NaN,23535.45,41155.25,0.312
+BD-0120,KTTA & KOTITI,113,,Woven,,cotton 100%,,,,,NaN,NaN,137.3291,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,138.3838,0.03,1.00E-04,NaN,NaN,40146.74,34103.02,0.52
+BIG STRIPE,KTTA & KOTITI,244,,knit,,"cotton 64%, ",polyester 36%,,,,NaN,NaN,4690.552,10940.55,NaN,NaN,NaN,0,NaN,NaN,0,0,201.0101,0.03,1.00E-04,NaN,NaN,721678.8,655370.2,0.47
+BM-3651Z4,KTTA & KOTITI,112,,Woven,,cotton 100%,,,,,NaN,NaN,2346.802,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,85.35354,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.1
+BONTEX-1153,KTTA & KOTITI,187,,Woven,,"polyamide 88%, ",Polyurethane 12%,,,,NaN,NaN,12496.95,14059.45,NaN,NaN,NaN,0,NaN,NaN,0,0,344.9495,0.03,1.00E-04,NaN,NaN,546344.9,709277.8,1.164
+BPT-829HZ,KTTA & KOTITI,184,,knit,,"wool 48%, ","Modal47%, ",polyamide 5%,,,NaN,NaN,6246.948,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,212.6263,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.271
+BPTS-81089,KTTA & KOTITI,166,,knit,,"cotton 56%, ",polyamide 34%,,,,NaN,NaN,216.6748,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,186.8687,0.03,1.00E-04,NaN,NaN,28858.16,13994.27,0.54
+BPTS-PE16202,KTTA & KOTITI,205,,knit,,"cotton 48%, ","polyester 38%, ","linen 10%,", EL 4%,,NaN,NaN,387.5732,344.8486,NaN,NaN,NaN,0,NaN,NaN,0,0,143.4343,0.03,1.00E-04,NaN,NaN,307497.4,450882.8,0.27
+BPTS-PN11319,KTTA & KOTITI,106,,knit,,"polyamide 84%,",EL 16%,,,,NaN,NaN,631.7139,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,148.9899,0.03,1.00E-04,NaN,NaN,621856.3,357317.8,0.31
+BPTS-PN11340,KTTA & KOTITI,39,,Woven,,polyamide 100%,,,,,NaN,NaN,827.0264,540.1611,NaN,NaN,NaN,0,NaN,NaN,0,0,150,0.03,1.00E-04,NaN,NaN,352408.1,210454.5,0.33
+BPTS-PN14262,KTTA & KOTITI,187,,knit,,"polyester 77%, ",EL 23%,,,,NaN,NaN,485.2295,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,135.8586,0.03,1.00E-04,NaN,NaN,404060.3,437163.4,0.25
+BPTS-PN16090,KTTA & KOTITI,270,,Woven,,"polyester 95%, ",EL 5%,,,,NaN,NaN,485.2295,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,167.6768,0.03,1.00E-04,NaN,NaN,396269.4,653162.8,0.31
+BPTS-PN17092,KTTA & KOTITI,203,,knit,,"PTT 65%, ",polyester 35%,,,,NaN,NaN,411.9873,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,148.4848,0.03,1.00E-04,NaN,NaN,390875.3,415263.9,0.28
+BPTS-PN17153,KTTA & KOTITI,336,,Woven,,"acylic 60%,",polyester 40%,,,,NaN,NaN,1174.927,973.5107,NaN,NaN,NaN,0,NaN,NaN,0,0,151.0101,0.03,1.00E-04,NaN,NaN,335396,531666.1,0.32
+C180007-1,KTTA & KOTITI,137,,Woven,,"polyester 35%, ","cotton 30%, ","viscose 30%, ",SE 5%,,NaN,NaN,173.9502,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,164.6465,0.03,1.00E-04,NaN,NaN,111221.2,38283.97,0.41
+CD90SP20(MELANGE),KTTA & KOTITI,161,,Woven,,polyamide 100%(KEVLAR 19%),,,,,NaN,NaN,241.0889,76.29395,NaN,NaN,NaN,0,NaN,NaN,0,0,177.2727,0.03,1.00E-04,NaN,NaN,143483,342335.7,0.42
+CHANNEL STRIPE,KTTA & KOTITI,151,,Woven,,"Modal54%, ",polyester 46%,,,,NaN,NaN,485.2295,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,134.3434,0.03,1.00E-04,NaN,NaN,494664.4,852438.3,0.42
+CL-010,KTTA & KOTITI,200,,Woven,Twill,"polyester 97%, ",EL 3%,,,,NaN,NaN,149.5361,173.9502,NaN,NaN,NaN,0,NaN,NaN,0,0,165.6566,0.03,1.00E-04,NaN,NaN,117883.2,136282,0.39
+COCOA,KTTA & KOTITI,244,,Woven,Twill,"wool 88%,",Silk 12%,,,,NaN,NaN,6246.948,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,135.8586,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.208
+COMO METAL,KTTA & KOTITI,85,,Woven,,polyester 100%,,,,,NaN,NaN,5471.802,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,129.2929,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.53
+COMO TWEED,KTTA & KOTITI,326,,knit,,"polyester 96%,",EL 4%,,,,NaN,NaN,13278.2,37503.05,NaN,NaN,NaN,0,NaN,NaN,0,0,213.6364,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.773
+CONSTELLATION,KTTA & KOTITI,163,,Woven,,"polyester 91%, ",Silk 9%,,,,NaN,NaN,973.5107,540.1611,NaN,NaN,NaN,0,NaN,NaN,0,0,111.1111,0.03,1.00E-04,NaN,NaN,545102.4,616357.6,0.24
+D0411,KTTA & KOTITI,201,,Woven,,"wool 91%, ","Silk 7%, ","ME 1%,",VI 1%,,NaN,NaN,3897.095,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,249.4949,0.03,1.00E-04,NaN,NaN,890994.7,30357.51,0.446
+D0600-1,KTTA & KOTITI,135,,Woven,,"cotton 89%, ",polyamide 3%,,,,NaN,NaN,3512.573,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,335.3535,0.03,1.00E-04,NaN,NaN,400358.1,103269.1,0.63
+DG-9926,KTTA & KOTITI,149,,Woven,,"Modal52%, ",polyester 48%,,,,NaN,NaN,296.0205,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,53.0303,0.03,1.00E-04,NaN,NaN,206493.7,869917.8,0.176
+DG-9947,KTTA & KOTITI,142,,knit,,"polyester 83%, ","EL 11%, ",ME 6%,,,NaN,NaN,344.8486,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,200,0.03,1.00E-04,NaN,NaN,165020.4,116197.4,0.37
+DJ-174,KTTA & KOTITI,153,,knit,,"polyester 90%, ",EL 10%,,,,NaN,NaN,4690.552,1321.411,NaN,NaN,NaN,0,NaN,NaN,0,0,326.2626,0.03,1.00E-04,NaN,NaN,479410.5,122044.3,1.175
+DK-2728-14,KTTA & KOTITI,144,,Woven,,"polyamide 61%, ","polyester 33%, ",Polyurethane 6%,,,,,,,,,,,,,,,,,,,,,,
+DK-2741-1S,KTTA & KOTITI,115,,knit,,"polyester 93%,",EL 7%,,,,,,,,,,,,,,,,,,,,,,,
+DK-2743-6A,KTTA & KOTITI,136,,Woven,,"Modal60%, ",polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+DK-2746-1,KTTA & KOTITI,149,,Woven,,"Modal85%,",polyester 15%,,,,,,,,,,,,,,,,,,,,,,,
+DK-2749-1,KTTA & KOTITI,111,,Woven,,cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+DK-2749-1W,KTTA & KOTITI,242,,Woven,,"polyester 96%, ",EL 4%,,,,,,,,,,,,,,,,,,,,,,,
+"DK-2749-4W
+",KTTA & KOTITI,150,,Woven,,"Modal72%, ",polyester 28%,,,,,,,,,,,,,,,,,,,,,,,
+DK-2771-1,KTTA & KOTITI,118,,Woven,,polyamide 95%,", Polyurethane 5%",,,,,,,,,,,,,,,,,,,,,,,
+"DK-2799-1
+",KTTA & KOTITI,109,,Woven,,"cottontton 80%, ","Silk 11%, ",polyamide 9%,,,,,,,,,,,,,,,,,,,,,,
+DK-2799-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DK-2799-11,SwatchOn,344,,knit,Dobby/Jacquard,"Acrylinenc(50%), ","Polyester(40%), ",woolol(10%),,,,,,,,,,,,,,,,,,,,,,
+DK-2799-12,SwatchOn,261,,knit,rib,"Polyester(71%), ","Cotton(24%),",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,,
+"DK-2799-13
+",SwatchOn,368,,knit,interlock,"Polyester(57%), ","Acrylinenc(22%), ","Viscose Rayon(10%), ","Cotton(8%), ",PU (Polyurethane)(3%),,,,,,,,,,,,,,,,,,,,
+DK-2799-6,SwatchOn,315,,knit,interlock,"Polyester(64%), ","Cotton(34%), ",PU (Polyurethane)(2%),,,,,,,,,,,,,,,,,,,,,,
+DK-2799-7,SwatchOn,285,,Others,Vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2799-8,SwatchOn,284,,knit,Pique,"Cotton(64%),"," Polyester(34%), ",PU (Polyurethane)(2%),,,,,,,,,,,,,,,,,,,,,,
+DK-2799-9,SwatchOn,256,,knit,interlock,"Polyester(63%), ","Viscose Rayon(34%), ",PU (Polyurethane)(3%),,,,,,,,,,,,,,,,,,,,,,
+DK-2804-1S,SwatchOn,416,,knit,rib,"Cotton(94%), ",PU (Polyurethane)(6%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2806-1A,SwatchOn,509,,knit,French Terry,"Cotton(100%), ",,,,,,,,,,,,,,,,,,,,,,,,
+DK-2806-6,SwatchOn,240,,knit,Fleece,"Polyester(85%),", Cotton(15%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2806-7,SwatchOn,169,,knit,single jersey,"linennen(55%), ",Viscose Rayon(45%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2806-8B,SwatchOn,200,,knit, Ponte,"Cotton(54%), ","Polyester(31%), ","Lyocell(10%), ",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,
+DK-2807-6,SwatchOn,280,,knit,single jersey,"Polyester(86%), ",PU (Polyurethane)(14%),,,,,,,,,,,,,,,,,,,,,,,
+"DK-2807-7
+",SwatchOn,228,,knit,single jersey,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2809-2,SwatchOn,244,,knit,rib,"Cotton(96%), ",PU (Polyurethane)(4%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2810-1A,SwatchOn,231,,knit,single jersey,"Polyester(91%), ",PU (Polyurethane)(9%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2810-1B,SwatchOn,265,,Others,Vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2813-1,SwatchOn,245,,woven,plain,PU (Polyurethane)(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2813-4,SwatchOn,200,,knit,rib,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2814-1,SwatchOn,222,,Others,Vegan Leather,PU (Polyurethane)(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2817-1A,SwatchOn,280,,knit,Pique,"Cotton(64%),","Polyester(34%), ",PU (Polyurethane)(2%),,,,,,,,,,,,,,,,,,,,,,
+DK-2822-1,SwatchOn,284,,knit,rib,"Cotton(96%), ",PU (Polyurethane)(4%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2823-1,SwatchOn,184,,knit,single jersey,"Cotton(80%), ",Polyester(20%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2824-4,SwatchOn,460,,Woven ,Boucle,"Acrylinenc(50%), ","woolol(27%), ",Nylon(23%),,,,,,,,,,,,,,,,,,,,,,
+DK-2825-1,SwatchOn,356,,knit,interlock,"Polyester(81%), ","Viscose Rayon(16%), ",PU (Polyurethane)(3%),,,,,,,,,,,,,,,,,,,,,,
+DK-2830-1,SwatchOn,354,,Others,Vegan Leather,PU (Polyurethane)(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2831-1,SwatchOn,208,,knit,Dobby/Jacquard,"Cotton(66%),","Polyester(25%), ",PU (Polyurethane)(9%),,,,,,,,,,,,,,,,,,,,,,
+DK-2833-2,SwatchOn,288,,knit,interlock,"Polyester(90%), ",Viscose Rayon(10%),,,,,,,,,,,,,,,,,,,,,,,
+"DK-2833-3
+",SwatchOn,184,,knit,French Terry,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2834-1,SwatchOn,176,,Others,Vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+"DK-2835-1
+",SwatchOn,315,,knit, Ponte,"Polyester(85%), ","Viscose Rayon(10%), ",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,,
+DK-2838-1,SwatchOn,410,,knit,interlock,"Cotton(53%),"," Polyester(38%), ",TENCEL™(9%),,,,,,,,,,,,,,,,,,,,,,
+DK-2838-2,SwatchOn,366,,knit,interlock,"Polyester(87%), ","Viscose Rayon(10%), ",PU (Polyurethane)(3%),,,,,,,,,,,,,,,,,,,,,,
+DK-2841-1A,SwatchOn,152,,knit,Velvet,"Viscose Rayon(60%), ",Polyester(40%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2842-3,SwatchOn,200,,knit,rib,"Acrylinenc(60%),",Viscose Rayon(40%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2842-4,SwatchOn,294,,knit,interlock,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-1,SwatchOn,288,,knit,single jersey,"Polyester(44%),","Nylon(41%), ",PU (Polyurethane)(15%),,,,,,,,,,,,,,,,,,,,,,
+DK-2844-1,SwatchOn,360,,knit,rib,"Cotton(93%), ",PU (Polyurethane)(7%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-2,SwatchOn,161,,knit,single jersey,"Cotton(60%), ",Polyester(40%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-2,SwatchOn,330,,Others,Vegan Leather,PU (Polyurethane)(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-3,SwatchOn,716,,woven,plain,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-3,SwatchOn,282,,Others,Vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-4,SwatchOn,276,,knit,interlock,"Polyester(78%), ",Cotton(22%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2844-4,SwatchOn,156,,woven,plain,Cork(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2848-1,SwatchOn,204,,Others,Vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+"DK-2848-1
+",SwatchOn,150,,knit,jersey,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2849-1,SwatchOn,172,,knit,rib,"Cotton(56%), ","TENCEL™(38%), ",PU (Polyurethane)(6%),,,,,,,,,,,,,,,,,,,,,,
+DK-2849-2,SwatchOn,120,,knit,jersey,"Cotton(94%), ",PU (Polyurethane)(6%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2850-1,SwatchOn,198,,knit,interlock,"Cotton(59%), ",Polyester(41%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2850-1,SwatchOn,396,,knit,rib,"Cotton(95%), ",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,,,
+DK-2850-2,SwatchOn,649,,woven,plain,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2850-2,SwatchOn,256,,knit,jersey,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+DK-2850-3,SwatchOn,324,,knit,interlock,"Viscose Rayon(55%), ","Polyester(36%), ",PU (Polyurethane)(9%),,,,,,,,,,,,,,,,,,,,,,
+"DK-2850-3
+",SwatchOn,212,,knit,jersey,"Viscose Rayon(95%), ",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,,,
+DN-7724SD,SwatchOn,349,,Others,Vegan Leather,Polyester(100%),,,,,NaN,NaN,576.7822,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,194.9495,0.03,1.00E-04,NaN,NaN,32946.95,282518.6,0.44
+DN-7748-J,SwatchOn,296,,Knit ,Neoprene/Scuba,"Viscose Rayon(40%), ","Polyester(30%), ",Cotton(30%),,,NaN,NaN,436.4014,271.6064,NaN,NaN,NaN,0,NaN,NaN,0,0,186.8687,0.03,1.00E-04,NaN,NaN,175324.9,201512.9,0.452
+DNN-4034-OP-6-2L,SwatchOn,228,,knit,interlock,Cotton(100%),,,,,NaN,NaN,241.0889,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,171.2121,0.03,1.00E-04,NaN,NaN,267178.5,464928.2,0.33
+DNN-4150FD BRUSHED,SwatchOn,334,,knit,jersey,Cotton(100%),,,,,NaN,NaN,1516.724,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,217.1717,0.03,1.00E-04,NaN,NaN,272082.9,137538.9,0.69
+DNPD-4022,,,,,,,,,,,NaN,NaN,1077.271,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,185.8586,0.03,1.00E-04,NaN,NaN,269291.1,113098.2,0.55
+DONGYANG SILK #2,SwatchOn,366,,knit,interlock,"Polyester(87%),"," Viscose Rayon(10%), ",PU (Polyurethane)(3%),,,NaN,NaN,4592.896,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,243.9394,0.03,1.00E-04,NaN,NaN,519885.1,464913.9,0.462
+DOWN SKIN,SwatchOn,328,,knit,Fleece,"Polyester(78%), ",Cotton(22%),,,,NaN,NaN,1559.448,497.4365,NaN,NaN,NaN,0,NaN,NaN,0,0,253.0303,0.03,1.00E-04,NaN,NaN,650440.9,205781.8,0.51
+DP-J02008-SR01,SwatchOn,175,,knit,jersey,"Polyester(88%), ",PU (Polyurethane)(12%),,,,NaN,NaN,149.5361,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,151.0101,0.03,1.00E-04,NaN,NaN,12403.3,7350.22,0.372
+DP-J03647-SR02,SwatchOn,265,,knit,jersey,"Polyester(62%), ","Viscose Rayon(34%), ",PU (Polyurethane)(4%),,,NaN,NaN,485.2295,271.6064,NaN,NaN,NaN,0,NaN,NaN,0,0,207.5758,0.03,1.00E-04,NaN,NaN,130502.1,168782.8,0.79
+DP-J50997-SC30,SwatchOn,156,,Woven ,Embroidered+Lace,"Nylon(50%),", Cotton(50%),,,,NaN,NaN,119.0186,119.0186,NaN,NaN,NaN,0,NaN,NaN,0,0,214.6465,0.03,1.00E-04,NaN,NaN,12439.43,8844.164,0.462
+DP-J50998-SR30,SwatchOn,201,,knit,Dobby/Jacquard,"Cotton(57%), ","TENCEL™(38%), ",PU (Polyurethane)(5%),,,NaN,NaN,192.2607,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,188.8889,0.03,1.00E-04,NaN,NaN,105544,230324.8,0.47
+DP-J52014-SD30,SwatchOn,303,,knit,jersey,"Polyester(44%),"," Nylon(41%),",PU (Polyurethane)(15%),,,NaN,NaN,802.6123,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,204.5455,0.03,1.00E-04,NaN,NaN,55658.61,30391.74,0.534
+DRAGONFLY METAL JQD,SwatchOn,232,,Knit ,Velvet,"Polyester(91%),",PU (Polyurethane)(9%),,,,NaN,NaN,6057.739,49996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,249.4949,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.574
+DSS-01,SwatchOn,104,,woven,poplin,Cotton(100%),,,,,NaN,NaN,12496.95,87503.05,NaN,NaN,NaN,0,NaN,NaN,0,0,354.5454,0.03,1.00E-04,NaN,NaN,726391.2,1000000,1.038
+DSS-02,SwatchOn,200,,knit,interlock,"Cotton(74%),"," Lyocell(15%), ",Nylon(11%),,,NaN,NaN,6246.948,49996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,256.0606,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.626
+DSS-04,SwatchOn,194,,knit,jersey,"Polyester(69%),"," Viscose Rayon(16%), ","Cotton(10%), ",PU (Polyurethane)(5%),,NaN,NaN,3121.948,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,184.3434,0.03,1.00E-04,NaN,NaN,183413,423530.2,0.552
+DSS-05,SwatchOn,303,,Others,Vegan Leather,PU (Polyurethane)(100%),,,,,NaN,NaN,4690.552,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,224.7475,0.03,1.00E-04,NaN,NaN,493986.3,1000000,0.687
+DSS-06,SwatchOn,96,,Others ,Tyvek,"PU (Polyurethane)(50%),",PE (Polyethylene)(50%),,,,NaN,NaN,9378.052,48440.55,NaN,NaN,NaN,0,NaN,NaN,0,0,188.8889,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.57
+DSS-08,SwatchOn,36,,woven,plain,Polyester(100%),,,,,NaN,NaN,1467.896,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,130.8081,0.03,1.00E-04,NaN,NaN,273205.4,301309.9,0.374
+DSS-11,SwatchOn,408,,knit,interlock,"Polyester(82%), ","Viscose Rayon(14%), ",PU (Polyurethane)(4%),,,NaN,NaN,7809.448,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,297.4747,0.03,1.00E-04,NaN,NaN,141163.9,1000000,0.785
+DSS-12,SwatchOn,468,,knit,Fleece,Cotton(100%),,,,,NaN,NaN,1998.901,12112.43,NaN,NaN,NaN,0,NaN,NaN,0,0,167.1717,0.03,1.00E-04,NaN,NaN,670963.6,1000000,0.466
+DSS-13,SwatchOn,284,,other,vegan Leather,PU (Polyurethane)(100%),,,,,NaN,NaN,1174.927,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,206.0606,0.03,1.00E-04,NaN,NaN,513246,771302.3,0.6
+DSS-17,SwatchOn,368,,woven, Tweed,"Acrylinenc(45%), ","woolol(29%), ","Polyester(15%), ",Nylon(11%),,NaN,NaN,2346.802,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,231.8182,0.03,1.00E-04,NaN,NaN,344290.4,1000000,0.828
+DSS-20,SwatchOn,252,,knit,interlock,"Acrylinenc(60%), ",Viscose Rayon(40%),,,,NaN,NaN,296.0205,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,163.1313,0.03,1.00E-04,NaN,NaN,427848.2,676050.3,0.43
+DSS-21,SwatchOn,264,,woven,Jacquard/Brocade,"woolol(50%), ","Polyester(25%),"," Acrylinenc(15%), ",Nylon(10%),,NaN,NaN,1657.104,12405.4,NaN,NaN,NaN,0,NaN,NaN,0,0,244.4444,0.03,1.00E-04,NaN,NaN,406354.6,1000000,0.84
+DSS-24,SwatchOn,308,,knit,French Terry,"Acrylinenc(85%), ",Polyester(15%),,,,NaN,NaN,2346.802,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,135.3535,0.03,1.00E-04,NaN,NaN,476793.8,933563.8,0.563
+DSS-25,SwatchOn,344,,knit,Dobby/Jacquard,Acrylinenc(100%),,,,,NaN,NaN,3121.948,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,136.8687,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.37
+EJ0011-1MS1,SwatchOn,140,,Others,PVC,Cork(100%),,,,,,,,,,,,,,,,,,,,,,,,
+EJ0013,SwatchOn,160,,Knit ,Mesh/Tulle,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+"EJ0312-2MS
+",SwatchOn,372,,knit,Dobby/Jacquard,"Polyester(82%), ","Viscose Rayon(14%), ",PU (Polyurethane)(4%),,,,,,,,,,,,,,,,,,,,,,
+EJ8655-1M,SwatchOn,197,,knit,jersey,"Polyester(88%),",PU (Polyurethane)(12%),,,,,,,,,,,,,,,,,,,,,,,
+ELA-73F P,,,,,,,,,,,NaN,NaN,1370.239,827.0264,NaN,NaN,NaN,0,NaN,NaN,0,0,252.5253,0.03,1.00E-04,NaN,NaN,53356.15,44746.41,0.816
+F-119,SwatchOn,215,,knit,jersey,Cotton(100%),,,,,NaN,NaN,283.8135,399.7803,NaN,NaN,NaN,0,NaN,NaN,0,0,144.4444,0.03,1.00E-04,NaN,NaN,31382.24,29820.17,0.534
+FK-1056-1A,SwatchOn,416,,knit,jersey,"Acrylinenc(73%), ","woolol(12%), ","Cotton(8%), ",Nylon(7%),,,,,,,,,,,,,,,,,,,,,
+"FK-1059-2
+",SwatchOn,308,,knit,rib,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1092,SwatchOn,172,,knit,Mesh/Tulle,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1094,SwatchOn,894,,other,vegan Leather,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1098,SwatchOn,311,,knit,interlock,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FK-1101,SwatchOn,178,,knit,jersey,"Cotton(57%), ","Polyester(38%), ",PU (Polyurethane)(5%),,,,,,,,,,,,,,,,,,,,,,
+FK-1102,SwatchOn,268,,knit,jersey,Cotton(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1103,SwatchOn,316,,other,vegan Leather,"Viscose Rayon(50%),", PU (Polyurethane)(50%),,,,,,,,,,,,,,,,,,,,,,,
+FK-1108,SwatchOn,248,,knit,jersey,"PU (Polyurethane)(50%), ",Polyester(50%),,,,,,,,,,,,,,,,,,,,,,,
+FK-1108,SwatchOn,239,,other,PVC,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1111,SwatchOn,244,,knit,interlock,"Cotton(93%), ",Nylon(7%),,,,,,,,,,,,,,,,,,,,,,,
+FK-1111,SwatchOn,306,,knit,Dobby/Jacquard,"Acrylinenc(81%), ","Cotton(8%), ","Polyester(6%), ",Modal(5%),,,,,,,,,,,,,,,,,,,,,
+FK-1117,SwatchOn,244,,knit,jersey,"Acrylinenc(61%), ","Nylon(21%), ","woolol(15%), ",PU (Polyurethane)(3%),,,,,,,,,,,,,,,,,,,,,
+FK-1118,SwatchOn,480,,Woven ,Melton/Boiled,"woolol(80%), ",Nylon(20%),,,,,,,,,,,,,,,,,,,,,,,
+FK-1119,SwatchOn,192,,Woven ,Memory,Polyester(100%),,,,,,,,,,,,,,,,,,,,,,,,
+FK-1120,SwatchOn,274,,knit,jersey,"Polyester(62%),"," Viscose Rayon(34%), ",PU (Polyurethane)(4%),,,,,,,,,,,,,,,,,,,,,,
+Fleece Pile 1-2,SwatchOn,372,,other, Vegan Fur,Polyester(100%),,,,,NaN,NaN,3903.198,9378.052,NaN,NaN,NaN,0,NaN,NaN,0,0,212.1212,0.03,1.00E-04,NaN,NaN,152007.1,65384.28,0.904
+GA9435CXL,SwatchOn,511,,knit,interlock,"Polyester(67%), ","Viscose Rayon(22%), ","Cotton(9%), ",PU (Polyurethane)(2%),,NaN,NaN,3121.948,790.4053,NaN,NaN,NaN,0,NaN,NaN,0,0,97.9798,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.21
+GF038SBW,SwatchOn,296,,knit,interlock,"Cotton(84%), ",PE (Polyethylene)(16%),,,,NaN,NaN,1950.073,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,128.2828,0.03,1.00E-04,NaN,NaN,307299.5,202063.8,0.412
+GKS-554XL3-C,SwatchOn,80,,Woven,Crepe/CDC,Polyester(100%),,,,,NaN,NaN,3903.198,3512.573,NaN,NaN,NaN,0,NaN,NaN,0,0,361.1111,0.03,1.00E-04,NaN,NaN,330639.8,489515.3,0.914
+GKS-590XL3,SwatchOn,156,,knit,jersey,"Cotton(54%), ","Polyester(40%), ",PU (Polyurethane)(6%),,,NaN,NaN,1950.073,1608.276,NaN,NaN,NaN,0,NaN,NaN,0,0,244.4444,0.03,1.00E-04,NaN,NaN,368058.9,332759.7,0.63
+GM514TXL,SwatchOn,332,,knit,fleece,"Polyester(81%), ","Viscose Rayon(16%), ",PU (Polyurethane)(3%),,,NaN,NaN,7028.198,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,176.2626,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.334
+GQ020XL,SwatchOn,312,,knit,rib,"Acrylinenc(69%),"," Polyester(28%), ",PU (Polyurethane)(3%),,,NaN,NaN,6246.948,6295.776,NaN,NaN,NaN,0,NaN,NaN,0,0,241.4142,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.35
+H2O-M24B,SwatchOn,256,,knit,rib,"Viscose Rayon(96%), ",PU (Polyurethane)(4%),,,,NaN,NaN,15621.95,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,292.4242,0.03,1.00E-04,NaN,NaN,1000000,829791.6,0.71
+H2O-N567,SwatchOn,288,,knit,Waffle,"Polyester(47%), ","Viscose Rayon(46%),",PU (Polyurethane)(7%),,,NaN,NaN,39.67285,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,86.36364,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.13
+H2O-TH-55,SwatchOn,280,,knit,ponte,"Cotton(71%), ","Nylon(25%), ",PU (Polyurethane)(4%),,,NaN,NaN,192.2607,1950.073,NaN,NaN,NaN,0,NaN,NaN,0,0,167.6768,0.03,1.00E-04,NaN,NaN,474127.4,194082.5,0.39
+H2O-XC117,SwatchOn,140,,knit,jersey,"Viscose Rayon(85%),",linennen(15%),,,,NaN,NaN,3121.948,1657.104,NaN,NaN,NaN,0,NaN,NaN,0,0,325.7576,0.03,1.00E-04,NaN,NaN,373669.3,120882.7,0.59
+H2O-XN205,SwatchOn,308,,knit,rib,"Cotton(96%), ",PU (Polyurethane)(4%),,,,NaN,NaN,1754.761,3219.604,NaN,NaN,NaN,0,NaN,NaN,0,0,270.7071,0.03,1.00E-04,NaN,NaN,407893.9,616559.1,0.688
+H2O-XN306,SwatchOn,539,,knit,interlock,Polyester(100%),,,,,NaN,NaN,1077.271,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,186.8687,0.03,1.00E-04,NaN,NaN,497006.3,347789,0.404
+H2O-XN494,SwatchOn,216,,knit,jersey,"Acrylinenc(60%), ",Viscose Rayon(40%),,,,NaN,NaN,485.2295,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,147.9798,0.03,1.00E-04,NaN,NaN,376863.7,580825.5,0.28
+HF-7209,SwatchOn,280,,knit,Neoprene/Scuba,"Polyester(87%), ",PU (Polyurethane)(13%),,,,NaN,NaN,436.4014,119.0186,NaN,NaN,NaN,0,NaN,NaN,0,0,147.4748,0.03,1.00E-04,NaN,NaN,18416.14,80951.16,0.51
+HICOZY-AS-0960,SwatchOn,216,,knit,French Terry,Cotton(100%),,,,,NaN,NaN,540.1611,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,298.4848,0.03,1.00E-04,NaN,NaN,93095.31,54841.61,0.48
+HN 2870,SwatchOn,133,,knit,jersey,Viscose Rayon(100%),,,,,NaN,NaN,2334.595,1126.099,NaN,NaN,NaN,0,NaN,NaN,0,0,222.7273,0.03,1.00E-04,NaN,NaN,202969.8,207878.4,0.61
+HP-5202,SwatchOn,440,,knit,interlock,"Polyester(92%), ",PU (Polyurethane)(8%),,,,NaN,NaN,973.5107,216.6748,NaN,NaN,NaN,0,NaN,NaN,0,0,198.4848,0.03,1.00E-04,NaN,NaN,45500.73,29907.64,0.51
+HS-RD1179,SwatchOn,244,,knit,rib,"Acrylinenc(61%),"," Nylon(21%), ","woolol(15%), ",PU (Polyurethane)(3%),,NaN,NaN,735.4736,973.5107,NaN,NaN,NaN,0,NaN,NaN,0,0,158.5859,0.03,1.00E-04,NaN,NaN,106193.9,194894,0.3
+HS360 SUEDE,SwatchOn,176,,knit,jersey,"Polyester(47%), ","Viscose Rayon(47%),",PU (Polyurethane)(6%),,,NaN,NaN,14059.45,6057.739,NaN,NaN,NaN,0,NaN,NaN,0,0,354.0404,0.03,1.00E-04,NaN,NaN,320120.3,58833.71,0.99
+ITARY FLOWER JACQUARD,SwatchOn,236,,knit,interlock,"Acrylinenc(60%), ",Viscose Rayon(40%),,,,NaN,NaN,7809.448,37503.05,NaN,NaN,NaN,0,NaN,NaN,0,0,199.4949,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.63
+J-P7503-1,SwatchOn,184,,knit,jersey,"Cotton(81%), ","Lyocell(14%), ",PU (Polyurethane)(5%),,,NaN,NaN,1370.239,3512.573,NaN,NaN,NaN,0,NaN,NaN,0,0,121.2121,0.03,1.00E-04,NaN,NaN,59887.55,1000000,0.209
+J17-0880,SwatchOn,373,,other,PVC,PU (Polyurethane)(100%),,,,,NaN,NaN,3121.948,875.8545,NaN,NaN,NaN,0,NaN,NaN,0,0,243.9394,0.03,1.00E-04,NaN,NaN,178998.6,176271.2,1.04
+JQ 0900 D,SwatchOn,212,,woven,twill,Lyocell(100%),,,,,NaN,NaN,1174.927,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,74.24242,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.1
+JQ 1515,SwatchOn,260,,knit,jersey,Cotton(100%),,,,,NaN,NaN,1583.862,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,66.16161,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.11
+JQ 2611,SwatchOn,198,,other,PVC,PU (Polyurethane)(100%),,,,,NaN,NaN,875.8545,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,87.37373,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.12
+JQ 3800,SwatchOn,334,,knit,jersey,Cotton(100%),,,,,NaN,NaN,1950.073,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,81.31313,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.128
+JQ 4040,SwatchOn,272,,knit,interlock,"Cotton(77%), ","TENCEL™(13%), ",Nylon(10%),,,NaN,NaN,2346.802,802.6123,NaN,NaN,NaN,0,NaN,NaN,0,0,102.0202,0.03,1.00E-04,NaN,NaN,1000000,800260.9,0.15
+KBR-6338PZ,SwatchOn,284,,knit,Fleece,"Polyester(90%), ",Viscose Rayon(10%),,,,NaN,NaN,3121.948,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,203.5354,0.03,1.00E-04,NaN,NaN,152023.8,213725,0.25
+KCF-16-123,SwatchOn,227,,knit,jersey,"Cotton(96%), ",PU (Polyurethane)(4%),,,,NaN,NaN,1950.073,411.9873,NaN,NaN,NaN,0,NaN,NaN,0,0,245.4545,0.03,1.00E-04,NaN,NaN,55496.41,27224.58,1.19
+KCF-2067 CD,SwatchOn,260,,knit,jersey,Cotton(100%),,,,,NaN,NaN,12496.95,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,326.2626,0.03,1.00E-04,NaN,NaN,391635.4,22404.05,1.42
+KCS-5010 A,SwatchOn,301,,knit,rib,"Polyester(70%), ","Viscose Rayon(27%),",PU (Polyurethane)(3%),,,NaN,NaN,18753.05,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,362.6263,0.03,1.00E-04,NaN,NaN,164991,416000.2,1.57
+KCS-5060,SwatchOn,140,,other,PVC,Cork(100%),,,,,NaN,NaN,18753.05,4495.239,NaN,NaN,NaN,0,NaN,NaN,0,0,363.1313,0.03,1.00E-04,NaN,NaN,349527.3,184212.6,1.56
+KIRA-110,SwatchOn,127,,woven,plain,"Nylon(72%), ",Cotton(28%),,,,NaN,NaN,296.0205,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,210.101,0.03,1.00E-04,NaN,NaN,367758.3,110255.4,0.52
+KKC,SwatchOn,282,,knit,interlock,Polyester(100%),,,,,NaN,NaN,1553.345,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,264.6465,0.03,1.00E-04,NaN,NaN,374279.4,592840.3,0.93
+KPC-1502,SwatchOn,282,,other,vegan Leather,Polyester(100%),,,,,NaN,NaN,10940.55,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,236.3636,0.03,1.00E-04,NaN,NaN,149765.1,244296.6,0.31
+KS-074E,SwatchOn,356,,knit,Dobby/Jacquard,"Polyester(88%), ","Viscose Rayon(7%), ",PU (Polyurethane)(5%),,,NaN,NaN,387.5732,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,30.80808,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.04
+KSP-0420,SwatchOn,265,,knit,French Terry,"Cotton(40%), ","TENCEL™(27%), ","Polyester(27%), ",PU (Polyurethane)(6%),,NaN,NaN,6637.573,6637.573,NaN,NaN,NaN,0,NaN,NaN,0,0,182.8283,0.03,1.00E-04,NaN,NaN,377666.3,356787.1,0.301
+LC008,SwatchOn,269,,knit,interlock,Polyester(100%),,,,,NaN,NaN,21.3623,686.6455,NaN,NaN,NaN,0,NaN,NaN,0,0,37.87879,0.03,1.00E-04,NaN,NaN,259050,472725.3,0.14
+LYNN-CY-0138,SwatchOn,116,,knit,velvet,"Viscose Rayon(60%), ",Polyester(40%),,,,NaN,NaN,973.5107,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,186.8687,0.03,1.00E-04,NaN,NaN,240359.3,274034.4,0.33
+M-C2086,SwatchOn,276,,Knit ,Ponte,"Polyester(68%), ","Viscose Rayon(30%),",PU (Polyurethane)(2%),,,NaN,NaN,4495.239,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,165.6566,0.03,1.00E-04,NaN,NaN,411067.6,231753.6,0.267
+MF-FD288,SwatchOn,288,,knit,Ponte,"Cotton(60%), ","Polyester(35%),",PU (Polyurethane)(5%),,,NaN,NaN,12496.95,5862.427,NaN,NaN,NaN,0,NaN,NaN,0,0,300,0.03,1.00E-04,NaN,NaN,647833.9,514265.6,1.27
+MIKARO,SwatchOn,352,,knit,Neoprene/Scuba,"Polyester(72%), ","Viscose Rayon(18%), ",PU (Polyurethane)(10%),,,NaN,NaN,3903.198,7028.198,NaN,NaN,NaN,0,NaN,NaN,0,0,184.3434,0.03,1.00E-04,NaN,NaN,465599.5,469515.3,0.37
+Moleskin-3M-M,SwatchOn,276,,knit,interlock,"Polyester(76%), ","Viscose Rayon(19%), ",PU (Polyurethane)(5%),,,NaN,NaN,2346.802,735.4736,NaN,NaN,NaN,0,NaN,NaN,0,0,271.7172,0.03,1.00E-04,NaN,NaN,476574.7,21721.55,1.089
+NFS728,SwatchOn,151,,knit,jersey,"Polyester(50%), ","Cotton(38%), ",Viscose Rayon(12%),,,NaN,NaN,45.77637,39.67285,NaN,NaN,NaN,0,NaN,NaN,0,0,47.47475,0.03,1.00E-04,NaN,NaN,423909.2,94301.41,0.14
+NMD170 ISC,,,,,,,,,,,NaN,NaN,3903.198,1754.761,NaN,NaN,NaN,0,NaN,NaN,0,0,222.7273,0.03,1.00E-04,NaN,NaN,84599.3,81989.66,0.47
+OP-4680NP-1,VMOD 3D Library,160,,woven,Gauze/Double Gauze,Cotton 100%,,,,,NaN,NaN,149.5361,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,167.1717,0.03,1.00E-04,NaN,NaN,249169.8,88038.45,0.33
+ORG-LEOPARD,VMOD 3D Library,196,,woven,Plaid,Polyester 65%,PU 3%,Viscose Rayon 32%,,,NaN,NaN,588.9893,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,20.20202,0.03,1.00E-04,NaN,NaN,110564,104332.9,0.09
+ORGANIC 60_S SOLID,VMOD 3D Library,56,,woven,Satin,Metallinenc 35%,Polyester 65%,,,,NaN,NaN,3121.948,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,150.5051,0.03,1.00E-04,NaN,NaN,408266.8,338541.1,0.25
+PAPI-A201-XM,VMOD 3D Library,332,,knit,Waffle,"Polyester 68%,","PU 5%, ",Viscose Rayon 27%,,,NaN,NaN,51.87988,39.67285,NaN,NaN,NaN,0,NaN,NaN,0,0,26.76768,0.03,1.00E-04,NaN,NaN,220552.7,1000000,0.04
+"PD-00010975
+
+",VMOD 3D Library,92,,knit,Lace,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00013959,VMOD 3D Library,86,,Woven,Twill,Nylon 15%,Viscose Rayon 85%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00022452,VMOD 3D Library,104,,Woven ,Georgette,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00030858,VMOD 3D Library,136,,knit,Lace,Nylon 95%,PU 5%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00051366,VMOD 3D Library,248,,woven,Canvas,Nylon 12%,Polyester 29%,Cotton 59%,,,,,,,,,,,,,,,,,,,,,,
+PD-00052164,VMOD 3D Library,252,,woven,TRS,"Acrylinenc 40%, ","Polyester 37%, ","PU 2%, ","Viscose Rayon 19%, ",Wool 2%,,,,,,,,,,,,,,,,,,,,
+PD-00068188,VMOD 3D Library,196,,woven,TRS,"Polyester 65%,","PU 3%, ",Viscose Rayon 32%,,,,,,,,,,,,,,,,,,,,,,
+PD-00107896,VMOD 3D Library,199,,woven,TRS,"Polyester 86%, ","PU 2%, ",Viscose Rayon 12%,,,,,,,,,,,,,,,,,,,,,,
+PD-00121828,VMOD 3D Library,188,,woven,Double Weave,"Cotton 50%,",Polyester 50%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00121834,VMOD 3D Library,180,,woven,Gauze/Double Gauze,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00183126
+
+",VMOD 3D Library,176,,woven,Double Weave,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00183127,VMOD 3D Library,200,,woven,Ripstop,"
+Cotton 74%, ",Nylon 26%,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00183128
+
+",VMOD 3D Library,44,,woven,Ripstop,"Nylon 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00236435,VMOD 3D Library,84,,woven,Taffeta,Polyester 34%,Cupro 66%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00236443,VMOD 3D Library,196,,woven,Memory,"Nylon 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00236448,VMOD 3D Library,196,,"Woven 
+",Crepe/CDC,"Polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00236625,VMOD 3D Library,160,,knit,Velvet,"
+Polyester 45%,",Viscose Rayon 55%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00247050,VMOD 3D Library,124,,knit,Velvet,"Polyester 75%, ",Viscose Rayon 25%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00247052,VMOD 3D Library,112,,"Woven 
+",Crepe/CDC,"Polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00247054,VMOD 3D Library,68,,"Woven 
+",Chiffon,"Polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00249420,VMOD 3D Library,231,,knit,Tricot,"Polyester 95%, ",PU 5%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00249423,VMOD 3D Library,120,,"Woven 
+",Challis,"Viscose Rayon 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00253671,VMOD 3D Library,48,,"Woven 
+",Dewspo,Recycled Nylon 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00253673
+",VMOD 3D Library,152,,"Woven 
+",Chiffon,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00258443,VMOD 3D Library,200,,knit,Tricot,Nylon 80%,PU 20%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00260402,VMOD 3D Library,60,,"Woven 
+",Challis,"Viscose Rayon 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00281566,VMOD 3D Library,64,,"Woven 
+",Chiffon,"Polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00289790,VMOD 3D Library,76,,"Woven 
+",Chiffon,"Polyester 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00292007,VMOD 3D Library,180,,"Woven 
+",Canvas,"Cotton 100%
+",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00327797
+",VMOD 3D Library,44,,"Woven 
+",Dewspo,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00343352
+",VMOD 3D Library,40,,"Woven 
+",Dewspo,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00348154
+",VMOD 3D Library,96,,"Others 
+",Tyvek,PE 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00349016,VMOD 3D Library,316,,knit,Waffle,"Cotton 60%,",Polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00353467
+",VMOD 3D Library,132,,"
+Others ",Vegan Suede,"Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00369784
+",VMOD 3D Library,192,,"
+Woven ",Clip Jacquard,"
+Polyester 55%, ","Viscose from Bamboo 39%, ",Metallinenc 6%,,,,,,,,,,,,,,,,,,,,,,
+PD-00373369,VMOD 3D Library,192,,"
+Woven ",Eyelet,"
+Cotton 100%",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00377067,VMOD 3D Library,239,,Others ,PVC,"
+Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+PD-00377368,VMOD 3D Library,120,,Knit, Mesh/Tulle,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00377369,VMOD 3D Library,328,,Knit ,Neoprene/Scuba,"
+Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00379313
+",VMOD 3D Library,428,,Woven ,Tweed,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00383380,VMOD 3D Library,152,,Woven ,Flannel,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00383381,VMOD 3D Library,192,,Woven ,Denim,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00383385,VMOD 3D Library,192,,Woven , Clip Jacquard,"
+Polyester 55%,"," Viscose from Bamboo 39%,",Metallinenc 6%,,,,,,,,,,,,,,,,,,,,,,
+PD-00383511,VMOD 3D Library,120,,Woven ,Twill,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00383512,VMOD 3D Library,362,,Woven ,Corduroy,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00383891,VMOD 3D Library,76,,Woven ,Ripstop,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00385676
+",VMOD 3D Library,272,,Woven ,Tweed,"
+Acrylinenc 74%,"," Polyester 23%, ",Metallinenc 3%,,,,,,,,,,,,,,,,,,,,,,
+"PD-00388238
+",VMOD 3D Library,292,,knit,Dobby/Jacquard,"
+Cotton 80%, ","Polyester 15%,",PU 5%,,,,,,,,,,,,,,,,,,,,,,
+PD-00390420,VMOD 3D Library,288,,knit,Pointelle,"
+Cotton 97%,",PU 3%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00391755,VMOD 3D Library,452,,Others ,"
+ Sequin","
+Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00391891
+",VMOD 3D Library,72,,knit,Lace,"
+Nylon 60%,",Polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00393608,VMOD 3D Library,452,,Others ,"
+ Sequin",Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00396299
+",VMOD 3D Library,666,,Others ,Vegan Leather,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00396648,VMOD 3D Library,120,,Woven ,Seersucker,"
+Cotton 35%",Polyester 65%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00397584,VMOD 3D Library,172,,Woven ,Jacquard/Brocade,"
+Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00399985
+",VMOD 3D Library,352,,"
+Others ",Vegan Fur,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00400827,VMOD 3D Library,192,,Woven ,Clip Jacquard,"
+Polyester 55%,","Viscose from Bamboo 39%,",Metallinenc 6%,,,,,,,,,,,,,,,,,,,,,,
+PD-00400828,VMOD 3D Library,72,,knit,Lace,"
+Nylon 60%, ",Polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00402559
+",VMOD 3D Library,196,,knit, Mesh/Tulle,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00402974,VMOD 3D Library,344,,other,Vegan Fur,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00403621,VMOD 3D Library,272,,knit,Dobby/Jacquard,"
+Polyester 90%,",PU 10%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00409064,VMOD 3D Library,380,,other,Sequin,"
+Polyester 92%,", PU 8%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00410284,VMOD 3D Library,536,,other,Vegan Fur,"
+Acrylic 80%,", Polyester 20%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00410368,VMOD 3D Library,196,,knit,Dobby/Jacquard,"
+Polyester 94%, ",PU 6%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00410625,VMOD 3D Library,666,,other,Vegan Leather,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00410636,VMOD 3D Library,72,,"
+Warp Knit ", Lace,"
+Nylon 60%,",Polyester 40%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00410731,VMOD 3D Library,196,,"
+Warp Knit ",Dobby/Jacquard,"Polyester 94%,",PU 6%,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00414070
+",VMOD 3D Library,192,,woven,Eyelet,Cotton 100%,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00415463
+
+",VMOD 3D Library,666,,other,Vegan Leather,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00416844,VMOD 3D Library,380,,other, Sequin,"
+Polyester 92%,",PU 8%,,,,,,,,,,,,,,,,,,,,,,,
+PD-00417533,VMOD 3D Library,272,,woven, Tweed,"
+Acrylic 74%, ","Polyester 23%,",Metallic 3%,,,,,,,,,,,,,,,,,,,,,,
+"PD-00418197
+",VMOD 3D Library,175,,other,Vegan Leather,"
+Metallic 10%,",Viscose Rayon 90%,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00418216
+",VMOD 3D Library,196,,"
+Warp Knit ",Mesh/Tulle,Polyester 100%,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00418776,VMOD 3D Library,152,,woven, Flannel,"
+Cotton 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00418857
+",VMOD 3D Library,344,,other,Vegan Fur,"
+Polyester 100%",,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00420037
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00420059
+",CottonWork,207,,woven,Twill,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+PD-00423001,CottonWork,231,,woven,Twill - 2/2 Right Hand,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"PD-00432684
+",CottonWork,187,,woven,Plain,99% Cotton,1% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+PE-187048P-4,CottonWork,214,,woven,Twill - 1/3 Right Hand,100% Cotton,,,,,NaN,NaN,8987.427,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,285.3535,0.03,1.00E-04,NaN,NaN,138727.6,47193.99,0.67
+PICASO,CottonWork,214,,woven,Plain,100% Cotton,,,,,NaN,NaN,173.9502,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,170.202,0.03,1.00E-04,NaN,NaN,130496.9,46173.88,0.386
+PK-BD9026-01,CottonWork,285,,woven,Dobby,100% Cotton,,,,,NaN,NaN,6057.739,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,316.1616,0.03,1.00E-04,NaN,NaN,578328.4,192680.7,1.092
+POWCOAT-1296,CottonWork,234,,woven,Dobby,100% Cotton,,,,,NaN,NaN,973.5107,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,179.2929,0.03,1.00E-04,NaN,NaN,186251.5,51600.3,0.4
+PTK-1338,CottonWork,312,,woven,Dobby,100% Cotton,,,,,NaN,NaN,43753.05,12112.43,NaN,NaN,NaN,0,NaN,NaN,0,0,379.2929,0.03,1.00E-04,NaN,NaN,602404,543946.1,2.13
+QL-004766,CottonWork,347,,woven,Dobby,100% Cotton,,,,,NaN,NaN,479.126,411.9873,NaN,NaN,NaN,0,NaN,NaN,0,0,267.6768,0.03,1.00E-04,NaN,NaN,19645.65,15809.24,0.96
+QL-004974,CottonWork,180,,woven,Plain,100% Cotton,,,,,NaN,NaN,283.8135,1950.073,NaN,NaN,NaN,0,NaN,NaN,0,0,157.0707,0.03,1.00E-04,NaN,NaN,92157.41,304718,0.86
+QL-004977,CottonWork,190,,woven,Twill - 1/2 Left Hand,100% Cotton,,,,,NaN,NaN,173.9502,1541.138,NaN,NaN,NaN,0,NaN,NaN,0,0,127.7778,0.03,1.00E-04,NaN,NaN,390000,390000,0.28
+QL-005006,CottonWork,254,,woven,Basket - 2 X 2,100% Cotton,,,,,NaN,NaN,2737.427,2737.427,NaN,NaN,NaN,0,NaN,NaN,0,0,260.101,0.03,1.00E-04,NaN,NaN,281278.5,107124.1,1.64
+QL-005104,CottonWork,312,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,1559.448,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,276.7677,0.03,1.00E-04,NaN,NaN,168508.2,148919.1,1.07
+QL-005115,CottonWork,346,,woven,Twill - Broken,98% Cotton,2% Spolyamidendex,,,,NaN,NaN,7028.198,3903.198,NaN,NaN,NaN,0,NaN,NaN,0,0,385.3535,0.03,1.00E-04,NaN,NaN,284467.8,112214.4,1.66
+QL-005254,CottonWork,254,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,18753.05,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,361.6161,0.03,1.00E-04,NaN,NaN,388147.1,397696.4,1.98
+QL-005260,CottonWork,231,,woven,Dobby,100% Cotton,,,,,NaN,NaN,1559.448,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,223.7374,0.03,1.00E-04,NaN,NaN,146153,86136.72,0.86
+QL-005274,CottonWork,326,,woven,Dobby,100% Cotton,,,,,NaN,NaN,6246.948,5471.802,NaN,NaN,NaN,0,NaN,NaN,0,0,429.798,0.03,1.00E-04,NaN,NaN,450546.3,131440.2,1.34
+QL-005302,CottonWork,373,,woven,Dobby,100% Cotton,,,,,NaN,NaN,12496.95,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,343.4344,0.03,1.00E-04,NaN,NaN,344297.2,92609.7,2.2
+QL-005410,CottonWork,244,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,3512.573,314.3311,NaN,NaN,NaN,0,NaN,NaN,0,0,289.899,0.03,1.00E-04,NaN,NaN,124276.1,30028.77,1.26
+QL-005424,CottonWork,251,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,12496.95,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,491.9192,0.03,1.00E-04,NaN,NaN,396375.1,239134.1,2.51
+QL-005604,CottonWork,332,,woven,Twill - 3/1 Right Hand,74% Cotton,26% woolol,,,,NaN,NaN,12496.95,5075.073,NaN,NaN,NaN,0,NaN,NaN,0,0,507.0707,0.03,1.00E-04,NaN,NaN,208186.7,116168.6,2.33
+QL-005631,CottonWork,346,,woven,Twill - 3/1 Right Hand,80% Cotton,18% woolol,2% Spolyamidendex,,,NaN,NaN,387.5732,497.4365,NaN,NaN,NaN,0,NaN,NaN,0,0,290.9091,0.03,1.00E-04,NaN,NaN,62522.31,50760.21,0.9
+QL-005719,CottonWork,258,,woven,Twill - 3/1 Right Hand,Cotton/Invista T420 Nylon 6/Spolyamidendex,,,,,NaN,NaN,241.0889,186.1572,NaN,NaN,NaN,0,NaN,NaN,0,0,213.6364,0.03,1.00E-04,NaN,NaN,54709.45,24431.78,1.13
+QL-005721,CottonWork,197,,woven,Oxford,84% Cotton/,15% Nylon/,1% Spolyamidendex,,,NaN,NaN,3170.776,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,402.5252,0.03,1.00E-04,NaN,NaN,395185.2,120944.9,2.04
+QL-005729,CottonWork,315,,woven,Herringbone,100% Cotton,,,,,NaN,NaN,827.0264,216.6748,NaN,NaN,NaN,0,NaN,NaN,0,0,188.8889,0.03,1.00E-04,NaN,NaN,138158.1,25580.21,1.32
+QL-005731,CottonWork,125,,woven,Waffle,70% Cotton,30% woolol,,,,NaN,NaN,1950.073,2297.974,NaN,NaN,NaN,0,NaN,NaN,0,0,333.3333,0.03,1.00E-04,NaN,NaN,41555.13,37813.45,2.32
+QL-005783,CottonWork,129,,woven,Waffle,70% Cotton,30% woolol,,,,NaN,NaN,686.6455,875.8545,NaN,NaN,NaN,0,NaN,NaN,0,0,286.8687,0.03,1.00E-04,NaN,NaN,72264.64,27643.86,2.21
+QL-006052,CottonWork,132,,woven,Waffle,70% Cotton,30% woolol,,,,NaN,NaN,9378.052,10940.55,NaN,NaN,NaN,0,NaN,NaN,0,0,352.0202,0.03,1.00E-04,NaN,NaN,366601.3,222800.6,2.47
+QL-006120,CottonWork,122,,woven,Dobby,82% Cotton,18% woolol,,,,NaN,NaN,18753.05,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,284.8485,0.03,1.00E-04,NaN,NaN,217733,224732.6,1.71
+QL-006183,CottonWork,61,,woven,Double Cloth,82% Cotton,18% woolol,,,,NaN,NaN,18753.05,2737.427,NaN,NaN,NaN,0,NaN,NaN,0,0,233.3333,0.03,1.00E-04,NaN,NaN,350000,117251.9,1.48
+QL-006291,CottonWork,197,,woven,Oxford,100% Cotton,,,,,NaN,NaN,1174.927,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,209.596,0.03,1.00E-04,NaN,NaN,65520.61,57568.47,0.74
+QL-006364,CottonWork,197,,woven,Oxford,100% Cotton,,,,,NaN,NaN,24996.95,11721.8,NaN,NaN,NaN,0,NaN,NaN,0,0,216.1616,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.87
+QL-006411,CottonWork,109,,woven,Seersucker,63% Cotton/,37% Nylon,,,,NaN,NaN,399.7803,790.4053,NaN,NaN,NaN,0,NaN,NaN,0,0,272.2222,0.03,1.00E-04,NaN,NaN,135170.3,102647.1,1.21
+QL-006634,CottonWork,109,,woven,Seersucker,63% Cotton/,37% Nylon,,,,NaN,NaN,125.1221,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,261.1111,0.03,1.00E-04,NaN,NaN,16682.4,5791.3,1.17
+QL-006672,CottonWork,183,,woven,Plain,85% Cotton/,15% Nylon,,,,NaN,NaN,37503.05,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,240.4041,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.76
+QL-006736,CottonWork,366,,woven,Dobby,100% Cotton,,,,,NaN,NaN,198.3643,51.87988,NaN,NaN,NaN,0,NaN,NaN,0,0,163.1313,0.03,1.00E-04,NaN,NaN,72288.39,68530.6,0.45
+QL-006761,CottonWork,207,,woven,Twill - 3/1 Left Hand,95% Cotton/,5% Nylon,,,,NaN,NaN,53121.95,49996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,449.4949,0.03,1.00E-04,NaN,NaN,176352.9,147270.1,3.15
+QL-006830,CottonWork,390,,woven,Twill - 3/1 Right Hand,97% Cotton/,3% Spolyamidendex,,,,NaN,NaN,4690.552,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,318.6869,0.03,1.00E-04,NaN,NaN,51720.4,51746.5,1.75
+QL-006831,CottonWork,322.1,,woven,Dobby,100% Cotton,,,,,NaN,NaN,588.9893,2151.489,NaN,NaN,NaN,0,NaN,NaN,0,0,402.5252,0.03,1.00E-04,NaN,NaN,127483.6,106738.1,1.77
+QL-006988,CottonWork,224,,woven,"Dobby - Deflected
+",81% Cotton/,14% Poly/,5% Rayon,,,NaN,NaN,2737.427,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,275.2525,0.03,1.00E-04,NaN,NaN,153853.3,154037,1.01
+QL-007144,CottonWork,251,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,18753.05,49996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,393.9394,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.38
+QL-007275,CottonWork,254,,woven,"Mock Leno
+",100% Cotton,,,,,NaN,NaN,778.1982,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,293.4343,0.03,1.00E-04,NaN,NaN,127754.6,105884.8,0.74
+QL-007293,CottonWork,258,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,588.9893,88.50098,NaN,NaN,NaN,0,NaN,NaN,0,0,284.8485,0.03,1.00E-04,NaN,NaN,33196.07,13836.84,0.92
+QL-007312,CottonWork,509,,woven,Matelassé,100% Cotton,,,,,NaN,NaN,1754.761,393.6768,NaN,NaN,NaN,0,NaN,NaN,0,0,297.4747,0.03,1.00E-04,NaN,NaN,41768.34,22306.74,1.96
+QL-007515,CottonWork,217,,woven,Dobby,94% Cotton/,4% Polyester/,2% Rayon,,,NaN,NaN,49996.95,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,272.2222,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.93
+QL-007672,CottonWork,492,,woven,Matelassé,"75% Cotton/
+",25% Polyester,,,,NaN,NaN,21878.05,23440.55,NaN,NaN,NaN,0,NaN,NaN,0,0,316.6667,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.72
+QL-007880,CottonWork,139,,woven,Plain,60% Cotton/,40% Nylon,,,,NaN,NaN,3903.198,1754.761,NaN,NaN,NaN,0,NaN,NaN,0,0,303.5354,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.61
+QL-007957,CottonWork,136,,woven,Satin - Warp Face 5 Harness,60% Cotton/,40% Nylon,,,,NaN,NaN,45.77637,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,147.9798,0.03,1.00E-04,NaN,NaN,28993.69,18697.54,0.6
+QL-008151,CottonWork,135,,woven,Plain,100% Cotton,,,,,NaN,NaN,778.1982,100.708,NaN,NaN,NaN,0,NaN,NaN,0,0,163.1313,0.03,1.00E-04,NaN,NaN,146851.5,81697.34,0.65
+QL-008154,CottonWork,98,,woven,Plain,100% Cotton,,,,,NaN,NaN,778.1982,137.3291,NaN,NaN,NaN,0,NaN,NaN,0,0,160.101,0.03,1.00E-04,NaN,NaN,87388.66,53673.77,0.61
+QL-008259,CottonWork,78,,woven,Twill - 2/1 Right Hand,100% Cotton,,,,,NaN,NaN,6246.948,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,278.2829,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.8
+QL-008279,CottonWork,95,,woven,Plain,97% Cotton/,3% Spolyamidendex,,,,NaN,NaN,6246.948,5471.802,NaN,NaN,NaN,0,NaN,NaN,0,0,202.5253,0.03,1.00E-04,NaN,NaN,919999.9,919999.9,0.62
+QL-008362,CottonWork,95,,woven,Plain,97% Cotton/,3% Spolyamidendex,,,,NaN,NaN,759.8877,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,300,0.03,1.00E-04,NaN,NaN,172190.8,184600.6,0.93
+QL-008572,CottonWork,112,,woven,Plain,97% Cotton/,3% Spolyamidendex,,,,NaN,NaN,973.5107,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,190.404,0.03,1.00E-04,NaN,NaN,58886.76,26376.29,0.84
+QL-008867,CottonWork,129,,woven,Satin - Warp Face 5 Harness,98% Cotton/,2% Spolyamidendex,,,,NaN,NaN,51.87988,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,150.5051,0.03,1.00E-04,NaN,NaN,28286.4,17534.61,0.38
+QL-008894,CottonWork,129,,woven,Satin,98% Cotton/,2% Spolyamidendex,,,,NaN,NaN,2438.354,735.4736,NaN,NaN,NaN,0,NaN,NaN,0,0,295.4546,0.03,1.00E-04,NaN,NaN,191500.5,154707.2,0.9
+QL-008921,CottonWork,153,,woven,Ripstop,99% Cotton/,1% Spolyamidendex,,,,NaN,NaN,24221.8,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,259.0909,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.93
+QL-008965,CottonWork,127,,woven,Ripstop,99% Cotton/,1% Spolyamidendex,,,,NaN,NaN,149.5361,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,174.7475,0.03,1.00E-04,NaN,NaN,40353.12,38888.91,0.6
+QL-008982,CottonWork,125,,woven,Twill - 2/1 Left Hand,99% Cotton/,1% Spolyamidendex,,,,NaN,NaN,6057.739,1077.271,NaN,NaN,NaN,0,NaN,NaN,0,0,371.2121,0.03,1.00E-04,NaN,NaN,324356.3,34265.61,1.24
+QL-009034,CottonWork,146,,woven,"Twill - 2/1 Left Hand
+",99% Cotton/,1% Spolyamidendex,,,,NaN,NaN,827.0264,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,278.7879,0.03,1.00E-04,NaN,NaN,50084.9,23725.85,1.4
+QL-009040,CottonWork,51,,woven,Plain,100% Cotton,,,,,NaN,NaN,241.0889,3903.198,NaN,NaN,NaN,0,NaN,NaN,0,0,194.4444,0.03,1.00E-04,NaN,NaN,53799.39,41604.07,0.68
+QL-009084,CottonWork,102,,woven,Plain,100% Cotton,,,,,NaN,NaN,45.77637,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,138.3838,0.03,1.00E-04,NaN,NaN,52312.14,16147.69,0.5
+QL-009109,CottonWork,309,,woven,Bedford Cord,100% Cotton,,,,,NaN,NaN,381.4697,76.29395,NaN,NaN,NaN,0,NaN,NaN,0,0,157.5757,0.03,1.00E-04,NaN,NaN,88190.77,23067.95,0.67
+QL-009398,CottonWork,305,,woven,Bedford Cord,100% Cotton,,,,,NaN,NaN,1150.513,857.5439,NaN,NaN,NaN,0,NaN,NaN,0,0,312.1212,0.03,1.00E-04,NaN,NaN,253072.9,60685.67,1.1
+QL-009845,CottonWork,319,,woven,Twill - 2/2 Right Hand,100% Cotton,,,,,NaN,NaN,387.5732,296.0205,NaN,NaN,NaN,0,NaN,NaN,0,0,120.7071,0.03,1.00E-04,NaN,NaN,120000,120000,0.8
+QL-010177,CottonWork,227,,woven,Dobby,100% Cotton,,,,,NaN,NaN,24996.95,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,254.5454,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.22
+QL-010461,CottonWork,220,,woven,Dobby,100% Cotton,,,,,NaN,NaN,1370.239,2932.739,NaN,NaN,NaN,0,NaN,NaN,0,0,190.9091,0.03,1.00E-04,NaN,NaN,590000,590000,0.25
+QL-010482,CottonWork,142,,woven,Twill - 2/2 Right Hand,70% Cotton,30% woolol,,,,NaN,NaN,70.19043,436.4014,NaN,NaN,NaN,0,NaN,NaN,0,0,234.8485,0.03,1.00E-04,NaN,NaN,183475.1,30305.04,0.74
+QL-011157,CottonWork,146,,woven,Twill - 2/2 Right Hand,70% Cotton,30% woolol,,,,NaN,NaN,49221.8,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,262.6263,0.03,1.00E-04,NaN,NaN,740000,740000,0.9
+QL-011169,CottonWork,146,,woven,Herringbone,70% Cotton,30% woolol,,,,NaN,NaN,875.8545,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,361.1111,0.03,1.00E-04,NaN,NaN,95394.05,68090.59,1.14
+QL-011421,CottonWork,159,,woven,Sateen,,,,,,NaN,NaN,49996.95,43753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,134.8485,0.03,1.00E-04,NaN,NaN,140000,140000,0.44
+QL-011616,CottonWork,220,,woven,Twill - Tricotine,98% Cotton/,2%Spolyamidendex,,,,NaN,NaN,24996.95,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,276.2626,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.71
+QL-011794,CottonWork,220,,woven,Twill - Tricotine,98% Cotton/,2%Spolyamidendex,,,,NaN,NaN,99996.95,49996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,244.9495,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.47
+QL-011809,CottonWork,220,,woven,Twill - Tricotine,98% Cotton/,2%Spolyamidendex,,,,NaN,NaN,99996.95,99996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,183.8384,0.03,1.00E-04,NaN,NaN,830000,830000,0.8
+QL-011827,CottonWork,309,,woven,Twill - Tricotine,100% Cotton,,,,,NaN,NaN,12496.95,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,159.0909,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.61
+QL-012222,CottonWork,285,,woven,Twill - Tricotine,100% Cotton,,,,,NaN,NaN,99996.95,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,210.101,0.03,1.00E-04,NaN,NaN,740000,740000,0.27
+QL-012566,CottonWork,258,,woven,Twill - Tricotine,100% Cotton,,,,,NaN,NaN,997.9248,9378.052,NaN,NaN,NaN,0,NaN,NaN,0,0,287.3737,0.03,1.00E-04,NaN,NaN,700000,700000,0.58
+QL-012640,CottonWork,251,,woven,Dobby - Crowsfoot,100% Cotton,,,,,NaN,NaN,1559.448,173.9502,NaN,NaN,NaN,0,NaN,NaN,0,0,261.1111,0.03,1.00E-04,NaN,NaN,128787.2,31170.49,0.94
+QL-012662,CottonWork,176,,woven,Dobby,Cotton/Metallinenc,,,,,NaN,NaN,411.9873,76.29395,NaN,NaN,NaN,0,NaN,NaN,0,0,196.4646,0.03,1.00E-04,NaN,NaN,91631.44,3603.609,0.96
+QL-012663,CottonWork,234,,woven,Dobby - Crowsfoot,Cotton/Metallinenc,,,,,NaN,NaN,241.0889,88.50098,NaN,NaN,NaN,0,NaN,NaN,0,0,157.0707,0.03,1.00E-04,NaN,NaN,62169.8,15903.01,0.89
+QL-012664,CottonWork,271,,woven,Dobby - Grecian Honeycomb,100% Cotton,,,,,NaN,NaN,216.6748,76.29395,NaN,NaN,NaN,0,NaN,NaN,0,0,207.0707,0.03,1.00E-04,NaN,NaN,92920.96,6844.338,1.2
+QL-012665,CottonWork,434,,woven,Dobby,100% Cotton,,,,,NaN,NaN,1754.761,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,243.9394,0.03,1.00E-04,NaN,NaN,183305.9,81754.11,1.02
+QL-012666,CottonWork,271,,woven,Dobby - Grecian Honeycomb,100% Cotton,,,,,NaN,NaN,3219.604,3512.573,NaN,NaN,NaN,0,NaN,NaN,0,0,409.5959,0.03,1.00E-04,NaN,NaN,417850,133625.8,1.29
+QL-012667,CottonWork,271,,woven,Dobby - Grecian Honeycomb,100% Cotton,,,,,NaN,NaN,18753.05,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,501.0101,0.03,1.00E-04,NaN,NaN,271256.4,139334.8,2.87
+QL-012668,CottonWork,325,,woven,Dobby - Deflected,100% Cotton,,,,,NaN,NaN,6246.948,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,251.0101,0.03,1.00E-04,NaN,NaN,235849.1,218088,1.67
+QL-012673,CottonWork,136,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,37503.05,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,340.9091,0.03,1.00E-04,NaN,NaN,519934.3,210194.5,1.99
+QL-012675,CottonWork,136,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,2365.112,1126.099,NaN,NaN,NaN,0,NaN,NaN,0,0,309.5959,0.03,1.00E-04,NaN,NaN,167008.1,87388.41,1.36
+QL-012676,CottonWork,136,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,37503.05,70.19043,NaN,NaN,NaN,0,NaN,NaN,0,0,305.5555,0.03,1.00E-04,NaN,NaN,218822.4,6097.601,1.64
+QL-012679,CottonWork,136,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,1559.448,100.708,NaN,NaN,NaN,0,NaN,NaN,0,0,225.2525,0.03,1.00E-04,NaN,NaN,116469.3,35493.61,1.01
+QL-012680,CottonWork,214,,woven,Canvas,100% Cotton,,,,,NaN,NaN,2346.802,119.0186,NaN,NaN,NaN,0,NaN,NaN,0,0,260.101,0.03,1.00E-04,NaN,NaN,229440.1,77890.28,0.93
+QL-012681,CottonWork,217,,woven,Canvas,100% Cotton,,,,,NaN,NaN,485.2295,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,237.8788,0.03,1.00E-04,NaN,NaN,132610.6,36577.66,1.21
+QL-012683,CottonWork,305,,woven,Canvas,100% Cotton,,,,,NaN,NaN,1950.073,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,221.2121,0.03,1.00E-04,NaN,NaN,169698.2,82497.94,0.74
+QL-012684,CottonWork,315,,woven,Canvas,100% Cotton,,,,,NaN,NaN,973.5107,735.4736,NaN,NaN,NaN,0,NaN,NaN,0,0,334.8485,0.03,1.00E-04,NaN,NaN,107302,25095.49,1.49
+QL-012685,CottonWork,309,,woven,Canvas,100% Cotton,,,,,NaN,NaN,3903.198,1950.073,NaN,NaN,NaN,0,NaN,NaN,0,0,284.8485,0.03,1.00E-04,NaN,NaN,321051.6,149670.7,1.1
+QL-012686,CottonWork,495,,woven,Basket - 2 X 2,100% Cotton,,,,,NaN,NaN,6246.948,6057.739,NaN,NaN,NaN,0,NaN,NaN,0,0,281.8182,0.03,1.00E-04,NaN,NaN,234497.8,212862.6,0.94
+QL-012687,CottonWork,170,,woven,Twill - 3/1 Left Hand,100% Cotton,,,,,NaN,NaN,3219.604,1467.896,NaN,NaN,NaN,0,NaN,NaN,0,0,281.8182,0.03,1.00E-04,NaN,NaN,288814.9,137677.2,1.14
+QL-012688,CottonWork,668,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,1541.138,772.0947,NaN,NaN,NaN,0,NaN,NaN,0,0,268.1818,0.03,1.00E-04,NaN,NaN,80518.15,11487.88,1.17
+QL-012689,CottonWork,671,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,588.9893,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,197.9798,0.03,1.00E-04,NaN,NaN,214040,58800.14,0.8
+QL-012690,CottonWork,190,,woven,Plain,100% Cotton,,,,,NaN,NaN,1174.927,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,383.8384,0.03,1.00E-04,NaN,NaN,44483.77,11058.15,2.31
+QL-012691,CottonWork,288,,woven,Twill - 3/1 Left Hand,100% Cotton,,,,,NaN,NaN,869.751,1266.479,NaN,NaN,NaN,0,NaN,NaN,0,0,343.4344,0.03,1.00E-04,NaN,NaN,37063.07,18622.14,2.24
+QL-012692,CottonWork,288,,woven,Dobby,100% Cotton,,,,,NaN,NaN,3903.198,3146.362,NaN,NaN,NaN,0,NaN,NaN,0,0,294.4444,0.03,1.00E-04,NaN,NaN,172954.1,188592.9,1.04
+QL-012694,CottonWork,288,,woven,Dobby,100% Cotton,,,,,NaN,NaN,778.1982,204.4678,NaN,NaN,NaN,0,NaN,NaN,0,0,282.3232,0.03,1.00E-04,NaN,NaN,67353.18,25136.73,2.34
+QL-012696,CottonWork,156,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,119.0186,344.8486,NaN,NaN,NaN,0,NaN,NaN,0,0,368.6869,0.03,1.00E-04,NaN,NaN,57401.61,32191.89,1.62
+QL-012699,CottonWork,92,,woven,Plain,100% Cotton,,,,,NaN,NaN,778.1982,857.5439,NaN,NaN,NaN,0,NaN,NaN,0,0,344.4445,0.03,1.00E-04,NaN,NaN,95426.68,70057.66,1.87
+QL-012700,CottonWork,156,,woven,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,2737.427,296.0205,NaN,NaN,NaN,0,NaN,NaN,0,0,228.2828,0.03,1.00E-04,NaN,NaN,40451.15,20131.46,1.7
+QL-012701,CottonWork,125,,woven,Ripstop,100% Cotton,,,,,NaN,NaN,2438.354,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,243.4343,0.03,1.00E-04,NaN,NaN,126912.9,46685.51,1
+QL-012702,CottonWork,183,,woven,Oxford,100% Cotton,,,,,NaN,NaN,2737.427,686.6455,NaN,NaN,NaN,0,NaN,NaN,0,0,244.4444,0.03,1.00E-04,NaN,NaN,136906.8,29786.05,1.03
+QL-012703,CottonWork,183,,woven,Oxford,100% Cotton,,,,,NaN,NaN,3030.396,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,292.9293,0.03,1.00E-04,NaN,NaN,70613.48,12158.94,1.98
+QL-012704,CottonWork,170,,woven,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,1950.073,173.9502,NaN,NaN,NaN,0,NaN,NaN,0,0,281.3131,0.03,1.00E-04,NaN,NaN,147928.1,8417.288,1.2
+QL-012705,CottonWork,170,,woven,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,216.6748,827.0264,NaN,NaN,NaN,0,NaN,NaN,0,0,302.5252,0.03,1.00E-04,NaN,NaN,347319.2,140323.3,1.19
+QL-012708,CottonWork,220,,woven,Herringbone,100% Cotton,,,,,NaN,NaN,6246.948,2536.011,NaN,NaN,NaN,0,NaN,NaN,0,0,269.697,0.03,1.00E-04,NaN,NaN,729999.9,388144.6,1.52
+QL-012726,CottonWork,220,,woven,Herringbone,100% Cotton,,,,,NaN,NaN,296.0205,173.9502,NaN,NaN,NaN,0,NaN,NaN,0,0,37.37374,0.03,1.00E-04,NaN,NaN,300000,300000,0.08
+QL-012734,CottonWork,214,,woven,Herringbone,100% Cotton,,,,,NaN,NaN,1467.896,27.46582,NaN,NaN,NaN,0,NaN,NaN,0,0,173.7374,0.03,1.00E-04,NaN,NaN,68247.09,50752.09,0.68
+QL-012738,CottonWork,217,,woven,Herringbone,100% Cotton,,,,,NaN,NaN,588.9893,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,154.5455,0.03,1.00E-04,NaN,NaN,78498.66,57825.41,0.52
+QL-012878,CottonWork,373,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,198.3643,51.87988,NaN,NaN,NaN,0,NaN,NaN,0,0,195.4545,0.03,1.00E-04,NaN,NaN,47062.96,72257.36,0.51
+QL-013106,CottonWork,163,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,973.5107,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,183.3333,0.03,1.00E-04,NaN,NaN,198271.4,120368.9,0.8
+QL-013111,CottonWork,231,,woven,Plain,100% Cotton,,,,,NaN,NaN,94.60449,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,200.5051,0.03,1.00E-04,NaN,NaN,16344.85,9766.705,0.69
+QL-013112,CottonWork,407,,woven,Terry,100% Cotton,,,,,NaN,NaN,45.77637,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,238.8889,0.03,1.00E-04,NaN,NaN,20606.14,9142.594,0.84
+QL-013174,CottonWork,302,,woven,Twill - 3/1 Right Hand,85% Cotton/,15% Polyester,,,,NaN,NaN,173.9502,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,321.7172,0.03,1.00E-04,NaN,NaN,84371.3,19173.63,1.33
+QL-013180,CottonWork,298,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,1174.927,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,143.9394,0.03,1.00E-04,NaN,NaN,166198.3,43078.55,0.54
+QL-013201,CottonWork,85,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,1559.448,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,217.6768,0.03,1.00E-04,NaN,NaN,152276.5,34539.82,1.22
+QL-013202,CottonWork,85,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,1174.927,296.0205,NaN,NaN,NaN,0,NaN,NaN,0,0,227.2727,0.03,1.00E-04,NaN,NaN,271010.2,49882,0.95
+QL-013233,CottonWork,85,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,43753.05,14059.45,NaN,NaN,NaN,0,NaN,NaN,0,0,304.5455,0.03,1.00E-04,NaN,NaN,799999.9,799999.9,0.76
+QL-013234,CottonWork,85,,woven,Mock Leno,100% Cotton,,,,,NaN,NaN,7809.448,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,288.3838,0.03,1.00E-04,NaN,NaN,580000,508878.9,0.99
+QL-013285,CottonWork,191,,woven,Plain,100% Cotton,,,,,NaN,NaN,1174.927,125.1221,NaN,NaN,NaN,0,NaN,NaN,0,0,221.7172,0.03,1.00E-04,NaN,NaN,84110.9,72767.63,0.67
+QL-013297,CottonWork,556,,woven,Terry,100% Cotton,,,,,NaN,NaN,3512.573,216.6748,NaN,NaN,NaN,0,NaN,NaN,0,0,256.0606,0.03,1.00E-04,NaN,NaN,310869.7,172874.2,0.76
+QL-013298,CottonWork,197,,woven,Jacquard,100% Cotton,,,,,NaN,NaN,4690.552,564.5752,NaN,NaN,NaN,0,NaN,NaN,0,0,273.2323,0.03,1.00E-04,NaN,NaN,329813,141548.8,0.87
+QL-013300,CottonWork,393,,woven,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,9378.052,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,333.3333,0.03,1.00E-04,NaN,NaN,680000,569123.9,0.86
+QL-013301,CottonWork,254,,woven,Twill - 3/1 Left Hand,100% Cotton,,,,,NaN,NaN,6637.573,686.6455,NaN,NaN,NaN,0,NaN,NaN,0,0,321.2121,0.03,1.00E-04,NaN,NaN,502466.3,251801.9,0.98
+QL-013303,CottonWork,323,,knit,Spacer Fabric,67% Cotton/,21% Nylon/,12% Spolyamidendex,,,NaN,NaN,497.4365,39.67285,NaN,NaN,NaN,0,NaN,NaN,0,0,182.8283,0.03,1.00E-04,NaN,NaN,218729.3,166799,0.6
+QL-014078,CottonWork,200,,knit,Pique,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+QL-014251,CottonWork,176,,knit,Tuck Mesh,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+QL-014987,CottonWork,139,,Knits,Jacquard,100% Cotton,,,,,NaN,NaN,711.0596,875.8545,NaN,NaN,NaN,0,NaN,NaN,0,0,363.6364,0.03,1.00E-04,NaN,NaN,620000,363467.1,1.57
+QL-015676,CottonWork,146,,Knits,Interlock,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+QL-016321,CottonWork,139,,Knits,Interlock,100% Cotton,,,,,NaN,NaN,875.8545,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,156.0606,0.03,1.00E-04,NaN,NaN,530000,530000,2.25
+QL-018497,CottonWork,129,,Knits,Tuck Mesh Double Knit,100% Cotton,,,,,NaN,NaN,1754.761,15621.95,NaN,NaN,NaN,0,NaN,NaN,0,0,396.9697,0.03,1.00E-04,NaN,NaN,659999.9,275681.4,3.36
+QL-018953,CottonWork,190,,Knits,1x1 Rib Double Knit,100% Cotton,,,,,NaN,NaN,778.1982,57.9834,NaN,NaN,NaN,0,NaN,NaN,0,0,161.1111,0.03,1.00E-04,NaN,NaN,19525.3,7935.455,1
+QL-019306,CottonWork,98,,Knit,Jacquard,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+QL-019494,CottonWork,125,,Knit,Spada,100% Cotton,,,,,NaN,NaN,1370.239,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,223.2323,0.03,1.00E-04,NaN,NaN,232924,74028,0.93
+QL-019555,CottonWork,142,,Knit,Jacquard,60% Cotton,40% Polyester,,,,NaN,NaN,296.0205,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,150,0.03,1.00E-04,NaN,NaN,360000,360000,1.1
+QL-019666,CottonWork,112,,Knit,Jacquard,71% Cotton,29% Polyester,,,,NaN,NaN,99996.95,99996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,658.0808,0.03,1.00E-04,NaN,NaN,1000000,1000000,1.14
+QL-019667,CottonWork,153,,Knit,Crepe,100% Cotton,,,,,NaN,NaN,49996.95,49954.22,NaN,NaN,NaN,0,NaN,NaN,0,0,567.1718,0.03,1.00E-04,NaN,NaN,890000,890000,1.35
+QL-019775,CottonWork,119,,Knit,Spada,100% Cotton,,,,,NaN,NaN,99996.95,99996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,689.3939,0.03,1.00E-04,NaN,NaN,130000,130000,1.32
+QL-019783,CottonWork,88,,Knit,Spada,84% Cotton,16% Polyester,,,,NaN,NaN,1559.448,24996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,281.8182,0.03,1.00E-04,NaN,NaN,979999.9,979999.9,0.8
+QL-019857,CottonWork,136,,Knit,Spada,100% Cotton,,,,,NaN,NaN,588.9893,436.4014,NaN,NaN,NaN,0,NaN,NaN,0,0,221.2121,0.03,1.00E-04,NaN,NaN,90200.55,98342.09,0.45
+QL-020396,CottonWork,122,,Knit,Spada,100% Cotton,,,,,NaN,NaN,99996.95,99996.95,NaN,NaN,NaN,0,NaN,NaN,0,0,892.4243,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.76
+QL-020403,CottonWork,207,,Knits,Interlock,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+QL-021029,CottonWork,176,,Knits,Jacquard,65% Cotton,31% Polyester,4% Spolyamidendex,,,NaN,NaN,70.19043,15.25879,NaN,NaN,NaN,0,NaN,NaN,0,0,80.80808,0.03,1.00E-04,NaN,NaN,250000,130675,0.2
+QL-021108,CottonWork,129,,Knits,Jacquard,100% Cotton,,,,,NaN,NaN,9378.052,5471.802,NaN,NaN,NaN,0,NaN,NaN,0,0,308.0808,0.03,1.00E-04,NaN,NaN,770000,731430.2,0.79
+QL-021110,CottonWork,102,,Knits,Jacquard,100% Cotton,,,,,NaN,NaN,23440.55,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,327.7778,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.63
+QL-021858,CottonWork,241,,Knits,Jacquard,87% Cotton,13% Spolyamidendex,,,,NaN,NaN,7809.448,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,113.1313,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.3
+QL-021881,CottonWork,200,,Knits,Flatback Thermal,70% Cotton,20% Polyester,10% Rayon,,,NaN,NaN,6246.948,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,380.8081,0.03,1.00E-04,NaN,NaN,260000,260000,2.2
+"QLT-1238
+",CottonWork,190,,Knits,Flatback Thermal Double Knit,80% Cotton,18% Polyester,2% Rayon,,,NaN,NaN,37503.05,37503.05,NaN,NaN,NaN,0,NaN,NaN,0,0,344.4445,0.03,1.00E-04,NaN,NaN,1000000,425977.7,1.122
+RAINBOW,CottonWork,244,,Knits,Blister Double Knit,98% Cotton,2% Spolyamidendex,,,,NaN,NaN,485.2295,57.9834,NaN,NaN,NaN,0,NaN,NaN,0,0,180.303,0.03,1.00E-04,NaN,NaN,106547.8,202426.1,0.608
+REO287#NV01,CottonWork,292,,Knit,Ponte di Roma Double Knit,95% Cotton,5% Spolyamidendex,,,,NaN,NaN,3121.948,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,272.2222,0.03,1.00E-04,NaN,NaN,298723.2,82958.08,0.57
+RMESH2,cottonWork,288,,Knits,Ponte di Roma,95% Cotton,5% Spolyamidendex,,,,NaN,NaN,94.60449,106.8115,NaN,NaN,NaN,0,NaN,NaN,0,0,128.7879,0.03,1.00E-04,NaN,NaN,258745.7,393816,0.374
+S BOLT,CottonWork,329,,Knits,Interlock,76% Cotton,24% Spolyamidendex,,,,NaN,NaN,198.3643,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,160.6061,0.03,1.00E-04,NaN,NaN,179989.8,143397.7,0.38
+S-C3033PTPU,CottonWork,441,,Knits,Double Face,66% Cotton,20% Spolyamidendex,14% Polyester,,,NaN,NaN,1559.448,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,130.8081,0.03,1.00E-04,NaN,NaN,671639.4,1000000,0.206
+SA-36GPWW,CottonWork,207,,Knits,1x1 Rib,97% Cotton,3% Spolyamidendex,,,,NaN,NaN,2346.802,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,159.596,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.27
+SD-4134 (L),CottonWork,187,,Knit,Interlock,100% Cotton,,,,,NaN,NaN,778.1982,436.4014,NaN,NaN,NaN,0,NaN,NaN,0,0,250.5051,0.03,1.00E-04,NaN,NaN,403832,245326.1,0.582
+SD13361RS-B,CottonWork,200,,Knit,Interlock,80% Cotton,20% woolol,,,,NaN,NaN,3903.198,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,244.4444,0.03,1.00E-04,NaN,NaN,156100.9,308782,0.79
+SD14040,CottonWork,251,,Knits,Ponte di Roma,80% Cotton,20% woolol,,,,NaN,NaN,3121.948,2932.739,NaN,NaN,NaN,0,NaN,NaN,0,0,144.4444,0.03,1.00E-04,NaN,NaN,1000000,552315.8,0.402
+SD15163SD,CottonWork,132,,Knit,Interlock,100% Cotton,,,,,NaN,NaN,12112.43,8987.427,NaN,NaN,NaN,0,NaN,NaN,0,0,348.4848,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.691
+SF-311FBWXWS,CottonWork,188,,Knit,Interlock,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SFT-WKG-010#2,CottonWork,171,,Knit,Jacquard,61% Cotton,27% Polyester,12% Nylon,,,,,,,,,,,,,,,,,,,,,,
+SFT-WKL-003-045,CottonWork,224,,Knit,Jacquard,100% Cotton,,,,,NaN,NaN,94.60449,39.67285,NaN,NaN,NaN,0,NaN,NaN,0,0,36.36364,0.03,1.00E-04,NaN,NaN,1000000,615581.7,0.07
+SFT-WKL-004-009,CottonWork,119,,Knits,1x1 Rib,67% Cotton,17% Polyester,16% Nylon,,,NaN,NaN,94.60449,27.46582,NaN,NaN,NaN,0,NaN,NaN,0,0,37.87879,0.03,1.00E-04,NaN,NaN,322969.2,169437.2,0.1
+SFT-WKL-006-038,CottonWork,125,,Knits,1x1 Rib,63% Cotton,21% Polyester,16% Nylon,,,NaN,NaN,778.1982,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,112.6263,0.03,1.00E-04,NaN,NaN,548044.4,465306.4,0.17
+SFT-WKL-011-039,CottonWork,178,,Knits,Jacquard,62% Cotton,38% Nylon,,,,NaN,NaN,1559.448,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,112.6263,0.03,1.00E-04,NaN,NaN,479251.4,638513.9,0.19
+SFT-WMY-060-025,CottonWork,197,,Knits,Jacquard,100% Cotton,,,,,NaN,NaN,45.77637,15.25879,NaN,NaN,NaN,0,NaN,NaN,0,0,54.04041,0.03,1.00E-04,NaN,NaN,217817.3,142334.4,0.15
+SHSF-001,CottonWork,159,,Knits,Blister,65% Cotton,35% Nylon,,,,NaN,NaN,875.8545,973.5107,NaN,NaN,NaN,0,NaN,NaN,0,0,315.6566,0.03,1.00E-04,NaN,NaN,63313.45,161133.3,0.84
+SHSF-002,CottonWork,200,,Knits,Blister,69% Cotton,31% Nylon,,,,NaN,NaN,485.2295,735.4736,NaN,NaN,NaN,0,NaN,NaN,0,0,302.5252,0.03,1.00E-04,NaN,NaN,255930.5,356391.3,0.9
+SHSF-016,CottonWork,193,,Knits,Double Face,Cotton/Graphene Nylon,,,,,NaN,NaN,3121.948,875.8545,NaN,NaN,NaN,0,NaN,NaN,0,0,295.9596,0.03,1.00E-04,NaN,NaN,390948.7,306899.9,1.01
+SHSF-017,CottonWork,214,,Knits,Tuck Mesh,100% Cotton,,,,,NaN,NaN,3317.261,802.6123,NaN,NaN,NaN,0,NaN,NaN,0,0,304.5455,0.03,1.00E-04,NaN,NaN,50790.32,53144.62,1.15
+SI-4795,CottonWork,366,,Knits,Tuck Mesh,91% Cotton,9% Spolyamidendex,,,,NaN,NaN,100.708,100.708,NaN,NaN,NaN,0,NaN,NaN,0,0,117.6768,0.03,1.00E-04,NaN,NaN,54585.55,267715,0.34
+SJ-1168,CottonWork,309,,Knits,Jacquard,91% Cotton,9% Spolyamidendex,,,,NaN,NaN,3903.198,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,165.6566,0.03,1.00E-04,NaN,NaN,138927.7,124017.5,0.309
+SJ-1220,CottonWork,329,,Knits,Double Face Jacquard,90% Cotton,10% Spolyamidendex,,,,NaN,NaN,2438.354,7028.198,NaN,NaN,NaN,0,NaN,NaN,0,0,260.101,0.03,1.00E-04,NaN,NaN,267132.2,301449.1,0.553
+SJ-391,CottonWork,261,,Knits,Double Face Jacquard,100% Cotton,,,,,NaN,NaN,1266.479,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,180.303,0.03,1.00E-04,NaN,NaN,185100.8,143288.9,0.82
+SJ-483,CottonWork,210,,Knits,Double Knit Links-Links,,,,,,NaN,NaN,9378.052,5862.427,NaN,NaN,NaN,0,NaN,NaN,0,0,315.1515,0.03,1.00E-04,NaN,NaN,729055.8,528974.1,0.97
+SJ-564,CottonWork,207,,Knits,Double Knit,100% Cotton,,,,,NaN,NaN,2346.802,2389.526,NaN,NaN,NaN,0,NaN,NaN,0,0,216.1616,0.03,1.00E-04,NaN,NaN,96996.78,250156.5,0.299
+SJ-719-TP7030,CottonWork,207,,Knits,Double Knit,100% Cotton,,,,,NaN,NaN,3121.948,1565.552,NaN,NaN,NaN,0,NaN,NaN,0,0,272.2222,0.03,1.00E-04,NaN,NaN,85905.18,297124.9,0.41
+SJ-742-B,CottonWork,332,,Knits,Sweater Knit Flat Knit,100% Cotton,,,,,NaN,NaN,6442.261,1950.073,NaN,NaN,NaN,0,NaN,NaN,0,0,222.2222,0.03,1.00E-04,NaN,NaN,887807.3,213761,0.394
+SJ-942,CottonWork,709,,Knits,Ottoman,100% Cotton,,,,,NaN,NaN,790.4053,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,152.5252,0.03,1.00E-04,NaN,NaN,172689.3,190059.2,0.236
+SJC-1608,CottonWork,373,,Knits,Pointelle,92% Cotton/,8% Nylon,,,,NaN,NaN,485.2295,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,126.2626,0.03,1.00E-04,NaN,NaN,372727.8,380274,0.3
+SJC-18004J,CottonWork,98,,Knits,Pointelle,95% Cotton,3.5% Nylon,1.5% Polyester,,,NaN,NaN,3121.948,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,135.8586,0.03,1.00E-04,NaN,NaN,386374.5,522055.3,0.28
+SJC-18008J,CottonWork,370,,Knits,Inlay,100% Cotton,,,,,NaN,NaN,296.0205,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,136.8687,0.03,1.00E-04,NaN,NaN,83798.08,103615,0.3
+SJQ-1061P,CottonWork,389.9,,Knits,Jacquard Blister,74% Cotton,26% woolol,,,,NaN,NaN,76.29395,70.19043,NaN,NaN,NaN,0,NaN,NaN,0,0,123.2323,0.03,1.00E-04,NaN,NaN,333953.2,387471.8,0.386
+SJS-180012D,CottonWork,376,,Knits,Flat Knit Pointelle,100% Cotton,,,,,NaN,NaN,149.5361,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,122.7273,0.03,1.00E-04,NaN,NaN,384674.3,437963.8,0.22
+SK-1838-1S,CottonWork,404,,Knits,"Flat Knit Pointelle
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1839-17
+",CottonWork,285,,Knits,Jacquard,92% Cotton,8% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-1839-4,CottonWork,251,,Knits,"Jacquard Flat Knit
+",85% Cotton,15% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-1861-2,CottonWork,587,,Knits,Jersey,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-1866-1W,CottonWork,499,,Knits,Flat Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-1876-2W,CottonWork,,,Knits,"Three End Fleece Single Knit
+",80% Cotton,20% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-1923-1,CottonWork,153,,Knits,Jacquard,84% Cotton,10% Spolyamidendex,6% Polyester,,,,,,,,,,,,,,,,,,,,,,
+SK-1930-2,CottonWork,359,,Knits,French Terry,60% Cotton,25% Nylon,15% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,
+SK-1931-1,CottonWork,471,,Knits,Three End Fleece Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-1931-2,CottonWork,173,,Knits,"Plated Single Jersey Single Knit
+",93% Cotton,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1931-2
+",CottonWork,146,,Knits,Plated Single Jersey Single Knit,98% Cotton,2%Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-1931-3,CottonWork,61,,Knits,"Crepe Knit Single Knit
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-1931-3,CottonWork,332,,Knits,"Inlay Single Knit
+",89% Cotton,11% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-1965-1A,CottonWork,254,,Knits,Jacquard Terry Single Knit,60% Cotton,40% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1965-1W
+",CottonWork,271,,Knits,"Jacquard Terry Single Knit
+",68% Cotton,32% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1975-8
+",CottonWork,264,,Knits,Jacquard Terry Single Knit,65% Cotton,35% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-1983-5,CottonWork,187,,Knits,Jersey Single Knit,"100% Cotton
+",,,,,,,,,,,,,,,,,,,,,,,,
+SK-1986-2,CottonWork,168,,Knits,"Jersey Single Knit
+","100% Cotton
+",,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1991-2A
+",CottonWork,268,,Knits,Plated Single Jersey Single Knit,94% Cotton,6% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-1995-2,CottonWork,563,,Knits,"Jacquard Blister Single Knit
+",96% Cotton,4% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-1998-3
+",CottonWork,142,,Knits,"Jersey Single Knit
+","100% Cotton
+",,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2000-3
+",CottonWork,176,,Knits,"Jacquard Single Knit
+",77% Cotton,15% Spolyamidendex,8% Polyester,,,,,,,,,,,,,,,,,,,,,,
+SK-2004-1,CottonWork,190,,Knits,"Plated Single Jersey Single Knit
+",93% Cotton,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2038-4,CottonWork,326,,Knits,"French Terry Single Knit
+",99% Cotton,1% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2045-1
+",CottonWork,173,,Knits,"Plated Single Jersey Single Knit
+",94% Cotton,6% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2046-2,CottonWork,173,,Knits,"Plated Single Jersey Single Knit
+",92% Cotton,8% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2055-1A
+",CottonWork,254,,Knits,Jacquard Blister,94% Cotton,6% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2055-2,CottonWork,173,,Knits,"Single Cross Tuck Single Knit
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2055-2A
+",CottonWork,404,,Knits,Three End Fleece Single Knit,97% Cotton,3% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2055-5E,CottonWork,363,,Knits,"Three End Fleece Single Knit
+",76% Cotton,24% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2055-6E
+",CottonWork,339,,Knits,"Single Knit Three End French Terry
+",76% Cotton,24% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2056-2A
+",CottonWork,356,,Knits,Three End Fleece Single Knit,76% Cotton,24% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2056-3A
+",CottonWork,349,,Knits,"Three End Fleece Single Knit
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2057-1A,CottonWork,203,,Knits,"Mock Plated Jersey Single Knit
+","100% Cotton
+",,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2059-7
+",CottonWork,203,,Knits,"Terry Single Knit
+",75% Cotton,25% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2059-8,CottonWork,366,,Knits,"Terry Single Knit
+",85% Cotton,15% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2060-7
+",CottonWork,157,,Knits,"Jersey Single Knit
+",96% Cotton,4% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2060-9
+",CottonWork,153,,Knits,"Jacquard Single Knit
+",61% Cotton,34% Polyester,5% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,
+"SK-2062-2P
+",CottonWork,346,,Knits,Jacquard Single Knit,95% Cotton,5% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2063-1
+",CottonWork,225,,Knits,French Terry Single Knit,98% Cotton,2% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2063-2
+",CottonWork,286,,Knits,French Terry Single Knit,93% Cotton,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2072-2
+",CottonWork,251,,Knits,"Jersey Single Knit
+",96% Cotton,4% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2085-1A
+",CottonWork,115,,Knits,Plated Single Jersey Single Knit,95% Cotton,5% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2085-2
+",CottonWork,129,,Knits,"Jersey Single Knit
+",95% Cotton,5% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2085-3,CottonWork,146,,Knits,Jersey,"Cotton/Modal
+",,,,,,,,,,,,,,,,,,,,,,,,
+SK-2085-4,CottonWork,315,,Knits,"Three End French Terry Single Knit
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2085-5
+",CottonWork,387,,Knits,Three End Fleece Single Knit,87% Cotton,13% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2085-6
+",CottonWork,393,,Knits,Three End Fleece Single Knit,84% Cotton,16% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2088-1A
+",CottonWork,376,,Knits,"Three End Fleece Single Knit
+",84% Cotton,16% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2088-1B
+",CottonWork,372,,Knits,Three End Fleece Single Knit,91% Cotton,9% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2099-1B
+",CottonWork,414,,Knits,Three End Fleece Single Knit,78% Cotton,13% Nylon,9% Polyester,,,,,,,,,,,,,,,,,,,,,,
+"SK-2099-4
+",CottonWork,383,,Knits,Three End Fleece Single Knit,77% Cotton,23% woolol,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2099-7A
+",CottonWork,417,,Knits,"Three End Fleece Single Knit
+",77% Cotton,23% woolol,,,,,,,,,,,,,,,,,,,,,,,
+SK-2100-1,CottonWork,488,,Knits,Sherpa Single Knit,80% Cotton,15% woolol,5% Spolyamidende,,,,,,,,,,,,,,,,,,,,,,
+"SK-2100-2
+",CottonWork,278,,Knits,"Sherpa Single Knit
+",84% Cotton,16% woolol,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2100-3
+",CottonWork,268,,Knits,"Terry Single Knit
+","100% Cotton
+",,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2101-2
+",CottonWork,234,,Knits,"Inlay Single Knit
+",66% Cotton,16% Polyester,12% Spolyamidendex,6% Rayon,,,,,,,,,,,,,,,,,,,,,
+SK-2107-1,CottonWork,237,,Knits,Inlay Single Knit,83% Cotton,12% Spolyamidendex,4% Polyester,1% Rayon,,,,,,,,,,,,,,,,,,,,,
+SK-2107-2,CottonWork,251,,Knits,"Inlay Jacquard Single Knit
+",89% Cotton,11% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2107-3
+",CottonWork,387,,Knits,"Jacquard Single Knit
+",100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2107-4,CottonWork,281,,Knits,Triple Plated Jersey Single Knit,79% Cotton,14% Nylon,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,
+"SK-2109-1
+",CottonWork,346,,Knits,Triple Plated Jersey Single Knit,93% Cotton,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2109-1A,CottonWork,227,,Knits,Plated Single Jersey Single Knit,85% Cotton,15% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+SK-2109-1B,CottonWork,200,,Knits,Plated Single Jersey Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2111-2,CottonWork,115,,Knits,Jersey Single Knit,87% Cotton,13% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2111-3
+",CottonWork,125,,Knits,Plated Single Jersey Single Knit,87% Cotton,13% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2111-4
+",CottonWork,116,,Knits,Plated Single Jersey Single Knit,87% Cotton,13% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2111-5
+",CottonWork,112,,Knits,Jersey Single Knit,87% Cotton,13% XT2® Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2116-2,CottonWork,142,,Knits,Jersey Single Knit,76% Cotton,12% XT2® Polyester,11% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,
+SK-2116-2,CottonWork,223,,Knits,Jersey Single Knit,"Cotton/Ionic+™ Polyester/Spolyamidendex
+",,,,,,,,,,,,,,,,,,,,,,,,
+SK-2116-2A,CottonWork,117,,Knits,Jacquard Single Knit,81% Cotton,10% XT2® Polyester,9% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,
+"SK-2119-1
+",CottonWork,366,,Knits,Three End French Terry Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2131-1
+",CottonWork,336,,Knits,Three End French Terry Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+"SK-2135-1
+",CottonWork,318,,Knits,"Three End French Terry Single Knit
+",79% Cotton,15% Polyester,6% Rayon,,,,,,,,,,,,,,,,,,,,,,
+"SK-2138-1
+",CottonWork,227,,Knits,Plated Single Jersey Single Knit,78% Cotton,16% Spolyamidendex,"6% Polyester
+",,,,,,,,,,,,,,,,,,,,,,
+"SK-2138-2
+",CottonWork,214,,Knits,"Jacquard Single Knit
+",82% Cotton,18% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+SK-2143-1,CottonWork,84,,Knits,Jacquard Single Knit,76% Cotton,24% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+SK-2146-2,CottonWork,88,,Knits,Jacquard Single Knit,79% Cotton,21% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+SK-2147-1,CottonWork,200,,Knits,French Terry Single Knit,68% Cotton,32% Cupro,,,,,,,,,,,,,,,,,,,,,,,
+SK-2149-1B,CottonWork,227,,Knits,French Terry Single Knit,92% Cotton,6% Spolyamidendex,2% Polyester,,,,,,,,,,,,,,,,,,,,,,
+SK-2150-1,CottonWork,373,,Knits,Terry Single Knit,72% Cotton,27% Polyester,1% Nylon,,,,,,,,,,,,,,,,,,,,,,
+SK-2151-1,CottonWork,654,,Knits,Single Knit Sinker Loop Terry,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2153-1A,CottonWork,332,,Knits,Terry Single Knit,79% Cotton,14% Polyester,7% XT2® Polyester,,,,,,,,,,,,,,,,,,,,,,
+SK-2154-1,CottonWork,410,,Knits,Single Knit Sinker Loop Terry,80% Cotton,20% Kevlar,,,,,,,,,,,,,,,,,,,,,,,
+SK-2157-1,CottonWork,394,,Knits,Single Knit Sinker Loop Terry,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2157-2,CottonWork,241,,Knits,Jacquard,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2160-1,CottonWork,217,,Knits,Jersey Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2161-1A,CottonWork,342,,Knits,French Terry Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2161-1B,CottonWork,170,,Knits,Jersey Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2162-1,CottonWork,214,,Knits,Jersey Single Knit,77% Cotton,23% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2162-2,CottonWork,251,,Knits,Jersey Single Knit,93% Cotton,7% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2166-1,CottonWork,388,,Knits,Three End Fleece,91% Cotton,9% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2166-2,CottonWork,383,,Knits,Three End Fleece,91% Cotton,9% Spolyamidendex,,,,,,,,,,,,,,,,,,,,,,,
+SK-2167-1,CottonWork,214,,Knits,Jersey Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2167-1,CottonWork,292,,Knits,Three End Fleece Single Knit,67% Cotton,33% woolol,,,,,,,,,,,,,,,,,,,,,,,
+SK-2169-1,CottonWork,254,,Knits,Jacquard Terry,63% Cotton,37% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2170-2,CottonWork,376,,Knits,Jacquard Single Knit,89% Cotton,11% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2183-2,CottonWork,380,,Knits,Single Knit Sculptured Terry,74% Cotton,26% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2184-1,CottonWork,295,,Knits,Single Knit Three End French Terry,90% Cotton,10% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+SK-2186-1,CottonWork,197,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-1,CottonWork,187,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-1,CottonWork,149,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-2,CottonWork,203,,Knits,Warp Knit Lace,66% Cotton,34% Nylon,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-2,CottonWork,176,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-3,CottonWork,163,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2187-3,CottonWork,193,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2192-1,CottonWork,200,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2194-1,CottonWork,200,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2194-2,CottonWork,187,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2194-3,CottonWork,220,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SK-2194-4,CottonWork,227,,Knits,Twill - Tricot,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+SM-2548-5,CottonWork,309,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,296.0205,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,237.3737,0.03,1.00E-04,NaN,NaN,56376.05,30392.38,0.607
+SMKW-5711-1,CottonWork,302,,Knits,Twill - Tricot,67% Cotton,29% Polyester,4% Spolyamidendex,,,NaN,NaN,1559.448,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,203.0303,0.03,1.00E-04,NaN,NaN,144724.5,105087.6,0.61
+SMM-125,,,,,,,,,,,NaN,NaN,686.6455,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,184.3434,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.24
+SMR-142,bpt3d,170,, Knit ,Tricot Jersey,80%锦纶 ,20%氨纶,,,,NaN,NaN,5471.802,2346.802,NaN,NaN,NaN,0,NaN,NaN,0,0,194.4444,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.31
+SOFT WOOLDAL,bpt3d,127,, Knit ,Jersey,84%锦纶 ,16%氨纶,,,,NaN,NaN,973.5107,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,183.8384,0.03,1.00E-04,NaN,NaN,252165,129421.9,0.52
+SOLARI PU,bpt3d,180,, Knit ,Tricot Jersey,82%锦纶 ,18%氨纶,,,,NaN,NaN,9378.052,564.5752,NaN,NaN,NaN,0,NaN,NaN,0,0,334.3434,0.03,1.00E-04,NaN,NaN,1000000,185756.6,0.378
+SP-03727P,bpt3d,75,, Knit ,Tricot Mesh Fabric,95%锦纶 ,5%氨纶,,,,NaN,NaN,173.9502,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,166.1616,0.03,1.00E-04,NaN,NaN,238086.3,43131.61,0.39
+SP-1006,bpt3d,130,, Knit ,Tricot Mesh Fabric,87%锦纶 ,13%氨纶,,,,,,,,,,,,,,,,,,,,,,,
+SP-1007,bpt3d,100,, Knit ,Jersey,79%涤纶 ,21%氨纶%,,,,,,,,,,,,,,,,,,,,,,,
+SP-2285NP,bpt3d,195,, Knit ,Jersey,82%锦纶 ,18%氨纶,,,,NaN,NaN,94.60449,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,144.9495,0.03,1.00E-04,NaN,NaN,46710.66,131191.7,0.374
+SP-5107NP,bpt3d,190,, Knit ,Jersey,87%锦纶 ,13%氨纶,,,,NaN,NaN,204.4678,204.4678,NaN,NaN,NaN,0,NaN,NaN,0,0,161.6162,0.03,1.00E-04,NaN,NaN,166274.4,243489.1,0.39
+SP-5430NP,bpt3d,135,, Knit ,Tricot Mesh Fabric,86%锦纶 ,14%氨纶,,,,NaN,NaN,2151.489,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,194.4444,0.03,1.00E-04,NaN,NaN,306887.5,284985.6,0.47
+SP-5431NP,bpt3d,165,, Knit ,Jersey,78%回收锦纶 ,22%氨纶,,,,NaN,NaN,1217.651,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,217.1717,0.03,1.00E-04,NaN,NaN,186132.1,235373,0.586
+SP-5511P-1,FABRICAST™,5.9 oz/yd² - 200 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,588.9893,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,233.3333,0.03,1.00E-04,NaN,NaN,134353.5,207682,0.69
+SP-5686NP,FABRICAST™,12.8 oz/yd² - 434 g/m²,,Wovens,Dobby,100% Cotton,,,,,NaN,NaN,192.2607,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,181.8182,0.03,1.00E-04,NaN,NaN,138590.4,120765.7,0.456
+SP-5816P-F,FABRICAST™,1.9 oz/yd² - 64 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,51.87988,106.8115,NaN,NaN,NaN,0,NaN,NaN,0,0,114.6465,0.03,1.00E-04,NaN,NaN,246411.7,317858.6,0.344
+SP-6935P,FABRICAST™,2.3 oz/yd² - 78 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,1754.761,2737.427,NaN,NaN,NaN,0,NaN,NaN,0,0,202.5253,0.03,1.00E-04,NaN,NaN,338444.8,179429.4,0.61
+SP-7029P,FABRICAST™,14.6 oz/yd² - 495 g/m²,,Wovens,Basket - 2 X 2,100% Cotton,,,,,NaN,NaN,192.2607,216.6748,NaN,NaN,NaN,0,NaN,NaN,0,0,175.2525,0.03,1.00E-04,NaN,NaN,184202.5,68440.16,0.47
+SP-7093N,FABRICAST™,5.0 oz/yd² - 170 g/m²,,Wovens,Twill - 3/1 Left Hand,100% Cotton,,,,,NaN,NaN,485.2295,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,208.0808,0.03,1.00E-04,NaN,NaN,154957.5,63788.79,0.582
+SP-Q018 BR,FABRICAST™,1.8 oz/yd² - 61 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,6344.604,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,298.9899,0.03,1.00E-04,NaN,NaN,572943.1,330366.4,1.027
+SP-T002,FABRICAST™,1.9 oz/yd² - 61 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,192.2607,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,202.5253,0.03,1.00E-04,NaN,NaN,273952.1,141355.2,0.57
+SP11119B,FABRICAST™,2.7 oz/yd² - 92 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,1193.237,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,104.0404,0.03,1.00E-04,NaN,NaN,1000000,247195.5,0.195
+SP123612B,FABRICAST™,4.6 oz/yd² - 156 g/m²,,Wovens,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,5471.802,3903.198,NaN,NaN,NaN,0,NaN,NaN,0,0,258.0808,0.03,1.00E-04,NaN,NaN,544836.8,420565,0.49
+SP123910-IT,FABRICAST™,3.7 oz/yd² - 125 g/m²,,Wovens,Ripstop,100% Cotton,,,,,NaN,NaN,973.5107,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,152.0202,0.03,1.00E-04,NaN,NaN,326306.1,264220.2,0.27
+SP44466D,FABRICAST™,5 oz/yd² - 170 g/m²,,Wovens,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,4690.552,3903.198,NaN,NaN,NaN,0,NaN,NaN,0,0,185.3535,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.348
+SPH-50N-S,FABRICAST™,5.0 oz/yd² - 170 g/m²,,Wovens,Twill - 2/1 Left Hand,100% Cotton,,,,,NaN,NaN,94.60449,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,105.5555,0.03,1.00E-04,NaN,NaN,315652.8,61465.61,0.262
+SPH-557NP,FABRICAST™,4.8 oz/yd² - 163 g/m²,,Wovens,Jacquard,100% Cotton,,,,,NaN,NaN,149.5361,45.77637,NaN,NaN,NaN,0,NaN,NaN,0,0,142.4242,0.03,1.00E-04,NaN,NaN,81709.31,92939.83,0.352
+SS 130,FABRICAST™,12.0 oz/yd² - 407 g/m²,,Wovens,Terry,100% Cotton,,,,,NaN,NaN,1077.271,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,82.82828,0.03,1.00E-04,NaN,NaN,1000000,216017.4,0.22
+SS 150A,FABRICAST™,8.8 oz/yd² - 298 g/m²,,Wovens,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,973.5107,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,76.76768,0.03,1.00E-04,NaN,NaN,376992.1,419040.9,0.21
+SS 351,FABRICAST™,2.5 oz/yd² - 85 g/m²,,Wovens,Mock Leno,100% Cotton,,,,,NaN,NaN,344.8486,12496.95,NaN,NaN,NaN,0,NaN,NaN,0,0,119.697,0.03,1.00E-04,NaN,NaN,416933.2,191847.4,0.257
+SUPRA-49AC,FABRICAST™,2.5 oz/yd² - 85 g/m²,,Wovens,Mock Leno,100% Cotton,,,,,NaN,NaN,125.1221,973.5107,NaN,NaN,NaN,0,NaN,NaN,0,0,67.17172,0.03,1.00E-04,NaN,NaN,170462.9,1000000,0.1
+TD0632,FABRICAST™,2.5 oz/yd² - 85 g/m²,,Wovens,Mock Leno,100% Cotton,,,,,NaN,NaN,3121.948,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,291.9192,0.03,1.00E-04,NaN,NaN,239566.8,182057.2,0.638
+TEJ80091,FABRICAST™,2.5 oz/yd² - 85 g/m²,,Wovens,Mock Leno,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+TEX-5801,FABRICAST™,5.62 oz/yd² - 191 g/m²,,Wovens,Plain,100% Cotton,,,,,NaN,NaN,399.7803,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,214.6465,0.03,1.00E-04,NaN,NaN,65284.02,21817.71,0.48
+TEX-6061,FABRICAST™,16.4 oz/yd² - 556 g/m²,,Wovens,Terry,100% Cotton,,,,,NaN,NaN,772.0947,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,240.9091,0.03,1.00E-04,NaN,NaN,78353.08,25625.71,0.694
+TEX-6736,FABRICAST™,5.8 oz/yd² - 197 g/m²,,Wovens,Jacquard,100% Cotton,,,,,NaN,NaN,1370.239,1467.896,NaN,NaN,NaN,0,NaN,NaN,0,0,277.7778,0.03,1.00E-04,NaN,NaN,15519.47,15951.03,0.73
+TF-22365,FABRICAST™,4.2 oz/yd² - 142 g/m²,,Wovens,Jacquard,100% Cotton,,,,,NaN,NaN,3121.948,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,247.9798,0.03,1.00E-04,NaN,NaN,105307.7,178369.4,0.7
+TN237,FABRICAST™,4.3 oz/yd² - 146 g/m²,,Wovens,Jacquard,100% Cotton,,,,,NaN,NaN,289.917,302.124,NaN,NaN,NaN,0,NaN,NaN,0,0,269.697,0.03,1.00E-04,NaN,NaN,154280.6,131244.8,0.63
+TN253,FABRICAST™,11.6 oz/yd² - 393 g/m²,,Wovens,Twill - 3/1 Right Hand,100% Cotton,,,,,NaN,NaN,485.2295,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,196.4646,0.03,1.00E-04,NaN,NaN,51499.74,178658,0.556
+TN285,FABRICAST™,4.3 oz/yd² - 146 g/m²,,Wovens,Jacquard,100% Cotton,,,,,NaN,NaN,387.5732,540.1611,NaN,NaN,NaN,0,NaN,NaN,0,0,279.798,0.03,1.00E-04,NaN,NaN,82642.3,71522.2,0.658
+TN290,FABRICAST™,7.5 oz/yd² - 254 g/m²,,Wovens,Twill - 3/1 Left Hand,100% Cotton,,,,,NaN,NaN,283.8135,94.60449,NaN,NaN,NaN,0,NaN,NaN,0,0,266.1616,0.03,1.00E-04,NaN,NaN,535693.8,64172.93,0.646
+TPR-1069,FABRICAST™,5.8 oz/yd² - 197 g/m²,,Wovens,Twill - 2/2 Left Hand,100% Cotton,,,,,NaN,NaN,45.77637,57.9834,NaN,NaN,NaN,0,NaN,NaN,0,0,80.80808,0.03,1.00E-04,NaN,NaN,1000000,252925.5,0.15
+TULIP DOUBLE KNIT,FABRICAST™,5.7 oz/yd² - 193 g/m²,,Wovens,Twill - 2/2 Left Hand,100% Cotton,,,,,NaN,NaN,3317.261,9378.052,NaN,NaN,NaN,0,NaN,NaN,0,0,196.9697,0.03,1.00E-04,NaN,NaN,481760.2,565752.9,0.57
+TYVEK-FOIL18,FABRICAST™,8.9 oz/yd² - 302 g/m²,,Wovens,Twill - 2/2 Right Hand,100% Cotton,,,,,NaN,NaN,24996.95,11721.8,NaN,NaN,NaN,0,NaN,NaN,0,0,54.54546,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.116
+V5164,FABRICAST™,8.9 oz/yd² - 302 g/m²,,Wovens,Twill - 2/2 Right Hand,100% Cotton,,,,,NaN,NaN,973.5107,302.124,NaN,NaN,NaN,0,NaN,NaN,0,0,197.4748,0.03,1.00E-04,NaN,NaN,423869.7,235256.7,0.33
+VEN0091,FABRICAST™,9.0 oz/yd² - 305 g/m²,,Wovens,Twill - 2/2 Right Hand,100% Cotton,,,,,NaN,NaN,45.77637,241.0889,NaN,NaN,NaN,0,NaN,NaN,0,0,74.74747,0.03,1.00E-04,NaN,NaN,224450.4,427943.2,0.15
+VERTICAL SILK,FABRICAST™,10.3 oz/yd² - 349 g/m²,,Knits,Double Face Double Knit,60% Cotton,33% Nylon,7% Spandex,,,NaN,NaN,3103.638,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,104.0404,0.03,1.00E-04,NaN,NaN,310340.1,676361.4,0.206
+VISTER 1313,FABRICAST™,9.4 oz/yd² - 319 g/m²,,Knits,Double Face Double Knit,62% Cotton,30% Nylon,8% Spandex,,,NaN,NaN,588.9893,216.6748,NaN,NaN,NaN,0,NaN,NaN,0,0,58.58586,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.08
+VISTER 1315,FABRICAST™,6.3 oz/yd² - 214 g/m²,,Knits,Double Knit Tuck Mesh,100% Cotton,,,,,NaN,NaN,436.4014,479.126,NaN,NaN,NaN,0,NaN,NaN,0,0,57.07071,0.03,1.00E-04,NaN,NaN,1000000,876440.1,0.09
+W-327,FABRICAST™,9.1 oz/yd² - 309 g/m²,,Knits,Double Face Jacquard Double Knit,91% Cotton,9% Spandex,,,,NaN,NaN,3903.198,3317.261,NaN,NaN,NaN,0,NaN,NaN,0,0,335.3535,0.03,1.00E-04,NaN,NaN,126268.6,196641.7,1.008
+WK-1000-2,FABRICAST™,9.7 oz/yd² - 329 g/m²,,Knits,Double Face Jacquard Double Knit,90% Cotton,10% Spandex,,,,,,,,,,,,,,,,,,,,,,,
+WK-1001,FABRICAST™,7.7 oz/yd² - 261 g/m²,,Knits,Double Face Jacquard Double Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1001,FABRICAST™,8.6 oz/yd² - 292 g/m²,,Knits,Blister Double Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1002,FABRICAST™,10.0 oz/yd² - 339 g/m²,,Knits,Blister Double Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1002,FABRICAST™,6.2 oz/yd² - 210 g/m²,,Knits,Double Knit Links-Links,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1003,FABRICAST™,6.1 oz/yd² - 207 g/m²,,Knits,Double Knit Links-Links,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1003,FABRICAST™,6.1 oz/yd² - 207 g/m²,,Knits,Double Knit Links-Links,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1004,FABRICAST™,17.3 oz/yd² - 587 g/m²,,Knits,Jersey Flat Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1004,FABRICAST™,14.7 oz/yd² - 499 g/m²,,Knits,Flat Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1005,FABRICAST™,22.2 oz/yd² - 753 g/m²,,Knits,Double Face Jacquard Flat Knit,85% Cotton,15% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+WK-1005,FABRICAST™,17.8 oz/yd² - 604 g/m²,,Knits,Rib Variation Flat Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1006,FABRICAST™,16.9 oz/yd² - 573 g/m²,,Knits,Rib Variation Flat Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1006,FABRICAST™,11.6 oz/yd² - 393 g/m²,,Knits,Double Face Jacquard Flat Knit,84% Cotton,16% Polyester,,,,,,,,,,,,,,,,,,,,,,,
+WK-1007,FABRICAST™,10.8 oz/yd² - 366 g/m²,,Knits,Three End French Terry Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1007,FABRICAST™,14.7 oz/yd² - 498 g/m²,,Knits,Sinker Loop Terry Single Knit,67% Cotton,33% Wool,,,,,,,,,,,,,,,,,,,,,,,
+WK-1008,FABRICAST™,14.4 oz/yd² - 488 g/m²,,Knits,Sinker Loop Terry Single Knit,67% Cotton,33% Wool,,,,,,,,,,,,,,,,,,,,,,,
+WK-1008,FABRICAST™,6.3 oz/yd² - 214 g/m²,,Knits,Jersey Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1009,FABRICAST™,11.0 oz/yd² - 373 g/m²,,Knits,Terry Corduroy Single Knit,63% Cotton,21% Polyester,16% Wool,,,,,,,,,,,,,,,,,,,,,,
+WK-1009,FABRICAST™,7.8 oz/yd² - 266 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1010,FABRICAST™,7.8 oz/yd² - 264 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WK-1010,FABRICAST™,7.8 oz/yd² - 266 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,,,,,,,,,,,,,,,,,,,,
+WOOL COTTON,FABRICAST™,6.3 oz/yd² - 214 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,NaN,NaN,4782.104,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,282.3232,0.03,1.00E-04,NaN,NaN,432321.9,583819.4,1.2
+WOOL FLEECE,FABRICAST™,5.2 oz/yd² - 176 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,5075.073,7809.448,NaN,NaN,NaN,0,NaN,NaN,0,0,269.1919,0.03,1.00E-04,NaN,NaN,127444.8,224299.5,1.295
+WSDC100_106 SP70,FABRICAST™,4.8 oz/yd² - 163 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,173.9502,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,297.9798,0.03,1.00E-04,NaN,NaN,183053.6,287291.2,0.584
+WSFC135_106 SP70,FABRICAST™,5.7 oz/yd² - 193 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,296.0205,778.1982,NaN,NaN,NaN,0,NaN,NaN,0,0,282.8283,0.03,1.00E-04,NaN,NaN,348215.1,129330.4,0.568
+XG-6306(CONDUCTIVE),FABRICAST™,5.9 oz/yd² - 200 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,149.5361,149.5361,NaN,NaN,NaN,0,NaN,NaN,0,0,127.7778,0.03,1.00E-04,NaN,NaN,436228.3,330159.6,0.52
+Y-778,FABRICAST™,5.9 oz/yd² - 200 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,1559.448,827.0264,NaN,NaN,NaN,0,NaN,NaN,0,0,251.5152,0.03,1.00E-04,NaN,NaN,223411.2,390659.7,1.19
+YARN DYED STRIPE,FABRICAST™,5.5 oz/yd² - 187 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,436.4014,6246.948,NaN,NaN,NaN,0,NaN,NaN,0,0,87.37373,0.03,1.00E-04,NaN,NaN,317958.2,327417.3,0.17
+YC409-4(D-LAM),FABRICAST™,6.5 oz/yd² - 220 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,12490.84,1754.761,NaN,NaN,NaN,0,NaN,NaN,0,0,175.2525,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.229
+YH180047,FABRICAST™,6.7 oz/yd² - 227 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,149.5361,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,142.4242,0.03,1.00E-04,NaN,NaN,2783.849,14352.15,0.917
+YNC301-42(PU),FABRICAST™,9.1 oz/yd² - 309 g/m²,,Knits,Twill - Tricot,100% Cotton,,,,,NaN,NaN,1174.927,1370.239,NaN,NaN,NaN,0,NaN,NaN,0,0,127.7778,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.189
+YX-TWILL,FABRICAST™,8.9 oz/yd² - 302 g/m²,,Knits,Twill - Tricot,67% Cotton,29% Polyester,4% Spandex,,,NaN,NaN,1559.448,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,73.23232,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.106
+1050724A_single jersey_100%Polyester_145GSM_FRONT_1364,FABRICAST™,8.0 oz/yd² - 271 g/m²,,Knits,Jacquard Terry Single Knit,68% Cotton,32% Polyester,,,,21.93451,21.93451,18.11981,23.84186,0,0,0,0,0,0,0,0,137.8788,0.03,1.00E-04,5165.15,5165.15,16909.52,13991.05,0.48
+"1060121_Houndstooth,jacquard, interlock_ 60% Cotton 40% Polyester_210GSM_FRONT_1364",FABRICAST™,7.8 oz/yd² - 264 g/m²,,Knits,Jacquard Terry Single Knit,65% Cotton,35% Polyester,,,,594.1391,594.1391,1830.101,266.0751,0,0,0,0,0,0,0,0,210.101,0.03,1.00E-04,48538.9,48538.9,28609.6,30754.23,0.75
+180885-1_Woven plain_100% Cotton_FRONT_1364,FABRICAST™,5.8 oz/yd² - 197 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,3935.814,3935.814,4273.415,1467.705,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.5152,0.03,1.00E-04,214090.3,214090.3,1000000,1000000,0.33
+A17AAPE0001_FRONT_19456,FABRICAST™,5.5 oz/yd² - 187 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,2348.9,2348.9,2745.628,2804.756,0,0,0,0,0,0,0,0,320.202,0.03,1.00E-04,19196.68,19196.68,107700.2,50328.85,1.38
+"APB107078_Jacqaurd, Interlock_80% Polyester 20% Viscose_280GSM_FRONT_1364",FABRICAST™,4.4 oz/yd² - 149 g/m²,,Knits,Jacquard Single Knit,100% Cotton,,,,,609.3979,609.3979,3172.875,1433.373,0,0,0,0,0,0,0,0,279.798,0.03,1.00E-04,10119.37,10119.37,90235.32,46870.45,1.03
+APBA1080302_Fleece_71%Polyester17%Viscose12%Cotton_410GSM_FRONT_1364,FABRICAST™,4.2 oz/yd² - 142 g/m²,,Knits,Embroidery,100% Cotton,,,,,10743.14,10743.14,10743.14,3846.168,0,0,0,0,0,0,0,0,410.101,0.03,1.00E-04,17165.87,17165.87,116388.8,46248.59,2.02
+APBB1081004_Active Jersey_ 88% Polyester 12% Spandex_260GSM_FRONT_1364,FABRICAST™,10.2 oz/yd² - 346 g/m²,,Knits,Embroidery,100% Cotton,,,,,153.5416,153.5416,441.5512,275.6119,0,0,0,0,0,0,0,0,256.0606,0.03,1.00E-04,18932.08,18932.08,44240.92,36449.86,0.64
+APD1070113_1X1 Rib_58% Cotton 37% Polyester 5% Spandex_230GSM_FRONT_1364,,,,,,,,,,,31249.05,31249.05,191405.3,39092.06,0,0,0,0,0,0,0,0,11616.16,0.03,1.00E-04,46211.39,46211.39,125619.7,95242.07,0.77
+"APEB1080132_Jersey,Slub_ 50% Viscose 50% Polyester_201GSM_FRONT_1364",,,,,,,,,,,388.1454,388.1454,565.5289,626.564,0,0,0,0,0,0,0,0,202.0202,0.03,1.00E-04,4030.739,4030.739,29316.82,11514.49,0.63
+BEAA1090716_jersey_60%Cotton40%Polyester_160GSM_FRONT_1364,,,,,,,,,,,302.3148,302.3148,1158.714,267.9825,0,0,0,0,0,0,0,0,160.101,0.03,1.00E-04,18007.09,18007.09,35245.36,13704.26,0.51
+BEBB1071017_interlock Mesh_100%Polyester_140GSM_FRONT_1364,,,,,,,,,,,111.5799,111.5799,281.3339,136.3754,0,0,0,0,0,0,0,0,139.899,0.03,1.00E-04,6912.547,6912.547,44426.11,10260.46,0.64
+"BEC1070151_ Jersey,Pique_60% Cotton 40% Polyester_180GSM_FRONT_1364",,,,,,,,,,,214.5767,214.5767,1555.443,761.9858,0,0,0,0,0,0,0,0,183.8384,0.03,1.00E-04,28503.19,28503.19,26800.16,31737.33,0.65
+"C121CJBYD900-G_Woven,Plain_ 70% Cotton 30% recycled cotton_105GSM_FRONT_1364",,,,,,,,,,,2198.219,2198.219,1708.031,1006.126,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,105.0505,0.03,1.00E-04,160418.4,160418.4,1000000,485442.4,0.28
+"CA16031DB_knit,2x2rib_58% Cotton 39% Polyester 3% Spandex_270GSM_FRONT_1364",,,,,,,,,,,580.7877,580.7877,6834.984,359.5352,0,0,0,0,0,0,0,0,270.202,0.03,1.00E-04,8812.841,8812.841,123054.1,48970.22,0.92
+DMS-TR2001_Woven_Twill_FRONT_1364,,,,,,,,,,,670.433,670.433,1601.219,1702.309,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,208.0808,0.03,1.00E-04,19435.21,19435.21,210451.5,198463,0.45
+ED05306_Poplin_98%Cotton2%Spandex_98GSM_FRONT_1364,,,,,,,,,,,1097.679,1097.679,3905.296,548.3627,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,97.9798,0.03,1.00E-04,17302.05,17302.05,344320.3,1000000,0.19
+ED08183_Corduroy100%Cotton_225GSM_FRONT_1364,,,,,,,,,,,6102.562,6102.562,7811.546,2686.5,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,224.7475,0.03,1.00E-04,128514.5,128514.5,1000000,437556.9,0.6
+ED13078 _Woven_100%Cotton_105GSM_FRONT_1364,,,,,,,,,,,7811.546,7811.546,5370.14,3905.296,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,135.3535,0.03,1.00E-04,143160.1,143160.1,959772.3,1000000,0.9
+ED13078-2_Embroidery_100%Cotton_105GSM_FRONT_1364,,,,,,,,,,,1648.903,1648.903,1952.171,1954.079,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,110.6061,0.03,1.00E-04,11553.48,11553.48,1000000,558956.6,1.1
+ED13777_Corduroy_100%Cotton_300GSM_FRONT_1364,,,,,,,,,,,8299.828,8299.828,7811.546,7811.546,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,300,0.03,1.00E-04,26387.49,26387.49,1000000,588102.1,0.93
+ED15795_Woven_ 100% Viscose_158GSM_FRONT_1364,,,,,,,,,,,975.6088,975.6088,1280.785,975.6088,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,137.8788,0.03,1.00E-04,25567.99,25567.99,358186.9,149936.8,0.36
+ED18743_Embroidery_100%Cotton_145GSM_FRONT_1364,,,,,,,,,,,3905.296,3905.296,855.4459,1954.079,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,118.1818,0.03,1.00E-04,31925.2,31925.2,403578.3,1000000,0.6
+ED49786_Dobby Seersucker _100% Cotton_118GSM_FRONT_1364,,,,,,,,,,,792.5034,792.5034,2699.852,336.647,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,115.1515,0.03,1.00E-04,8068.676,8068.676,802940.3,311956.6,0.52
+"EF-81914_Woven,Print,Dobby_ 100% Cotton_FRONT_1364",,,,,,,,,,,2686.5,2686.5,855.4459,2808.571,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.7273,0.03,1.00E-04,21239.44,21239.44,354701,1000000,0.37
+"EF-8790_Woven,Print,Poplin_100% Cotton_FRONT_1364",,,,,,,,,,,1952.171,1952.171,3905.296,603.6758,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,108.0808,0.03,1.00E-04,27001.84,27001.84,1000000,286371.9,0.22
+EP03030_Ribstop_100%Cotton_240GSM_FRONT_2879,,,,,,,,,,,15624.05,15624.05,9764.672,15624.05,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,239.899,0.03,1.00E-04,270184.2,270184.2,1000000,1000000,0.45
+EP13911_Flocking_100%Polyester_70GSM_FRONT_2879,,,,,,,,,,,611.3052,611.3052,607.4905,458.7173,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,70.20202,0.03,1.00E-04,12391.89,12391.89,1000000,221018.3,0.4
+EP18476_Cordury_100% Cotton_145GSM_FRONT_2987,,,,,,,,,,,4027.367,4027.367,5858.421,1465.797,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,145.9596,0.03,1.00E-04,137373.8,137373.8,1000000,904262.4,0.45
+EP19497_Crinkle_100%Cotton_63GSM_FRONT_2987,,,,,,,,,,,273.7045,273.7045,1463.89,243.187,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,67.67677,0.03,1.00E-04,16141.27,16141.27,1000000,17898.77,0.24
+EP19816_Poplin_100%Cotton_120GSM_FRONT_2987,,,,,,,,,,,1585.96,1585.96,2684.593,1952.171,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,120.202,0.03,1.00E-04,25056.89,25056.89,1000000,764850.9,0.22
+EP19816_Poplin_100%Cotton_120GSM_FRONT_2987,,,,,,,,,,,1585.96,1585.96,7811.546,2196.312,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,120.202,0.03,1.00E-04,19768.59,19768.59,1000000,393714.4,0.3
+EP19817-2_Satin_98%Cotton2%Spandex_135GSM_FRONT_2987,,,,,,,,,,,3418.922,3418.922,4454.613,380.5161,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.0101,0.03,1.00E-04,18976.69,18976.69,1000000,344408.5,0.33
+"EP21640_Woven,Printing,Crepe_100% Viscose_158GSN_FRONT_2987",,,,,,,,,,,639.9155,639.9155,2198.219,1404.762,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,158.0808,0.03,1.00E-04,13098.44,13098.44,256236.5,62437.26,0.35
+EP29687_Crepe_FRONT_2987,,,,,,,,,,,1036.644,1036.644,565.5289,1959.801,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,160.101,0.03,1.00E-04,34235.25,34235.25,227275.8,214102.4,0.45
+"EP38180_Woven,Printing_98% Cotton 2% Spandex_120GSM_FRONT_2987",,,,,,,,,,,5126,5126,5980.492,1709.938,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,120.202,0.03,1.00E-04,42432,42432,1000000,520078.2,0.27
+EP52258_Poplin_98%Rayon2%Spandex_140GSM_FRONT_2987,,,,,,,,,,,426.2924,426.2924,1738.548,718.1168,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,133.8384,0.03,1.00E-04,10686.11,10686.11,1000000,102179,0.27
+"ET-08749_Woven,Twill_97% Cotton 3% Spandex_285GSM_FRONT_2987",,,,,,,,,,,13672.83,13672.83,93262.67,9886.742,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,284.8485,0.03,1.00E-04,307593.4,307593.4,1000000,737901.8,0.51
+"ET-26426_Woven,Satin_88% Polyester 12% Spandex_FRONT_2987",,,,,,,,,,,258.4457,258.4457,374.794,426.2924,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,94.44445,0.03,1.00E-04,12264.29,12264.29,57055.91,156249.5,0.27
+"ET-26829_Woven,plain_100% Polyester_FRONT_2987",,,,,,,,,,,365.2573,365.2573,1235.008,2562.523,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,132.8283,0.03,1.00E-04,8869.867,8869.867,408153.4,562785.2,0.46
+"ET-26953_woven,twill_70% Polyester 30% Cotton_FRONT_2987",,,,,,,,,,,1923.561,1923.561,1221.657,1938.82,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,104.5454,0.03,1.00E-04,164790,164790,1000000,1000000,0.22
+ET-60349_Knit_100% Polyester_FRONT_2987,,,,,,,,,,,44.82269,44.82269,96.32111,90.59906,0,0,0,0,0,0,0,0,146.9697,0.03,1.00E-04,6264.976,6264.976,27874.68,8612.751,0.48
+ET-81736_Woven Twill_98% Cotton 2% Spandex_220GSM_FRONT_2987,,,,,,,,,,,3876.686,3876.686,2442.36,5860.329,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,220.202,0.03,1.00E-04,335865.3,335865.3,1000000,706205,0.37
+"ET-81974_woven,plain_100% Nylon_FRONT_2987",,,,,,,,,,,212.6694,212.6694,487.3276,245.0943,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,39.39394,0.03,1.00E-04,74604.55,74604.55,589410.9,341699.6,0.08
+EY021005_Poplin_100%Linen_125.09GSM_FRONT_4992,,,,,,,,,,,3418.922,3418.922,7811.546,3418.922,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,125.2525,0.03,1.00E-04,10645.36,10645.36,1000000,1000000,0.32
+EY03997_Poplin_100%Cotton_122.04GSM_FRONT_2987,,,,,,,,,,,1206.398,1206.398,3418.922,1465.797,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,39242.28,39242.28,1000000,1000000,0.22
+EY04344_Dobby_78%Poly22%Rayon_195GSM_FRONT_3939,,,,,,,,,,,3905.296,3905.296,4395.485,4393.578,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,183.8384,0.03,1.00E-04,44002.88,44002.88,1000000,1000000,0.33
+EY04403_Jacquard_100%Cotton_122GSM_FRONT_3939,,,,,,,,,,,2196.312,2196.312,3418.922,1341.82,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,19443.77,19443.77,1000000,1000000,0.34
+EY04989_Crinkle_100%Cotton_49.83GSM_FRONT_3939,,,,,,,,,,,548.3627,548.3627,3905.296,107.7652,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,52.52525,0.03,1.00E-04,1000000,1000000,477070.3,601.6288,0.4
+EY05712_Poplin_100%Cotton_122.04GSM_FRONT_3939,,,,,,,,,,,1097.679,1097.679,2427.101,1593.59,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,591.5702,591.5702,1000000,1000000,0.23
+"EY06629_Woven,Jacquard_98% Cotton 2% Spandex_FRONT_3939",,,,,,,,,,,365.2573,365.2573,3905.296,441.5512,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,107.5758,0.03,1.00E-04,25562.25,25562.25,1000000,397175.9,0.22
+EY06925_Oxford_100%Cotton_163GSM_FRONT_3939,,,,,,,,,,,3172.875,3172.875,3905.296,4883.766,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,163.1313,0.03,1.00E-04,229171.7,229171.7,1000000,786676.1,0.38
+EY07158_Woven_ 98% Cotton 2% Spandex_240GSM_FRONT_3939,,,,,,,,,,,15624.05,15624.05,15381.81,3418.922,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,238.8889,0.03,1.00E-04,284845.3,284845.3,1000000,472851.1,0.48
+EY08055_Corduroy_100%Cotton_171GSM_FRONT_3939,,,,,,,,,,,2808.571,2808.571,5003.929,2928.734,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,165.1515,0.03,1.00E-04,141556.2,141556.2,1000000,570764.5,0.47
+"EY08080_Woven,Embroidery_100% Cotton_159GSM_FRONT_3939",,,,,,,,,,,2440.453,2440.453,3447.533,3899.574,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,159.0909,0.03,1.00E-04,32438.78,32438.78,440730.2,562852.9,0.99
+EY08088_Houndstooth Emboridery _100%cotton_320GSM_FRONT_3939,,,,,,,,,,,9644.508,9644.508,2869.606,9764.672,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,320.202,0.03,1.00E-04,24500.75,24500.75,443834.6,1000000,1.68
+EY08416_Dobby_100%Cotton_115GSM_FRONT_3939,,,,,,,,,,,861.1679,861.1679,1954.079,1341.82,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,117.6768,0.03,1.00E-04,11818.66,11818.66,1000000,231867.9,0.29
+EY09112_Slub Poplin_100%Cotton_69.83GSM_FRONT_3939,,,,,,,,,,,746.727,746.727,487.3276,702.858,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,69.69698,0.03,1.00E-04,5937.401,5937.401,898527.8,450445.8,0.19
+"EY10437_Woven,Dobby_100% Cotton_FRONT_3939",,,,,,,,,,,1711.845,1711.845,1160.622,1950.264,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,121.7172,0.03,1.00E-04,14787.31,14787.31,702125.3,1000000,0.3
+"EY10438_Woven,Dobby_100% Cotton_FRONT_3939",,,,,,,,,,,487.3276,487.3276,2959.251,1730.919,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,112.1212,0.03,1.00E-04,7859.318,7859.318,971043.9,375439.8,0.33
+"EY10439_Woven,Dobby_100% Cotton_FRONT_3939",,,,,,,,,,,914.5737,914.5737,1585.96,1952.171,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,109.596,0.03,1.00E-04,21025.96,21025.96,1000000,1000000,0.27
+EY10672_Twill_68%Cotton30%Polyester2%Spandex_132GSM_FRONT_3939,,,,,,,,,,,1708.031,1708.031,1952.171,1832.008,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,139.394,0.03,1.00E-04,22579.61,22579.61,1000000,281044.8,0.37
+EY11206嚗澧orduroy嚗?1%Cotton19%Polyester嚗?73GSM_FRONT_4831,,,,,,,,,,,3905.296,3905.296,1830.101,1708.031,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,173.2323,0.03,1.00E-04,156572.1,156572.1,1000000,839926.9,0.5
+EY11687_Seersucker_65%Poly35%Cotton_100GSM_FRONT_4831,,,,,,,,,,,1341.82,1341.82,426.2924,3905.296,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,100,0.03,1.00E-04,16534.81,16534.81,1000000,1000000,0.32
+EY11905_Dobby_100%Cotton_173GSM_FRONT_4831,,,,,,,,,,,2930.641,2930.641,4151.344,2442.36,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,186.3636,0.03,1.00E-04,26371.49,26371.49,332800.7,347703.1,0.65
+"EY12052_Woven,plain_100% Cotton_FRONT_4992",,,,,,,,,,,1952.171,1952.171,1038.551,609.3979,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,117.6768,0.03,1.00E-04,22927.14,22927.14,1000000,1000000,0.26
+EY12918_Woven_100%Cotton_91GSM_FRONT_4992,,,,,,,,,,,1830.101,1830.101,2440.453,914.5737,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,94.94949,0.03,1.00E-04,13843.49,13843.49,1000000,445614.1,0.28
+EY14970_Woven_100%Cotton_56GSM_FRONT_4992,,,,,,,,,,,596.0464,596.0464,304.2221,855.4459,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,60.60606,0.03,1.00E-04,5293.201,5293.201,1000000,521446.1,0.19
+EY15069_Twill_85%Cotton15%Linen_110GSM_FRONT_4992,,,,,,,,,,,2196.312,2196.312,792.5034,2989.769,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,110.101,0.03,1.00E-04,12124.82,12124.82,917021,234554.3,0.3
+"EY17320_Woven,Dobby_97% Cotton 3% Spandex_FRONT_4992",,,,,,,,,,,975.6088,975.6088,1648.903,851.6312,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,115.1515,0.03,1.00E-04,18021.07,18021.07,1000000,185799.9,0.26
+EY18162_Flannel_100%Cotton_148GSM_FRONT_4992,,,,,,,,,,,731.4682,731.4682,1955.986,1221.657,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,147.9798,0.03,1.00E-04,13627.58,13627.58,384935.5,321772.7,0.49
+"EY18953_Woven,Seersucker_60% Cotton 40% Rayon_135GSM_FRONT_4992",,,,,,,,,,,975.6088,975.6088,3905.296,824.9283,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,134.8485,0.03,1.00E-04,20707.44,20707.44,1000000,1000000,0.34
+EY19094_Plain_100%Cotton_95GSM_FRONT_4992,,,,,,,,,,,1158.714,1158.714,1463.89,1982.689,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,94.94949,0.03,1.00E-04,28312.09,28312.09,1000000,815715.5,0.23
+EY20211_Plain_100%Cotton_139GSM_FRONT_4992,,,,,,,,,,,1708.031,1708.031,1708.031,1893.043,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,124.7475,0.03,1.00E-04,10601.97,10601.97,648150.3,398043.5,0.48
+"EY20509_Woven,Plain_100% Linen_FRONT_4992",,,,,,,,,,,3172.875,3172.875,7811.546,5919.457,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,147.4748,0.03,1.00E-04,10570.88,10570.88,793297.2,1000000,0.3
+EY21421_Herringbone_55%Cotton45%Rayon_121GSM_FRONT_4992,,,,,,,,,,,1235.008,1235.008,718.1168,824.9283,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,136.8687,0.03,1.00E-04,21661.78,21661.78,248604.4,226618.3,0.4
+EY21421_Herringbone_55%Cotton45%Rayon_121GSM_FRONT_4992,,,,,,,,,,,1160.622,1160.622,1709.938,884.0561,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,121.2121,0.03,1.00E-04,10718.19,10718.19,647964.4,243626.6,0.41
+EY21798_Plain_98%Cotton2%Spandex_165GSM_FRONT_4992,,,,,,,,,,,1435.28,1435.28,3905.296,1336.098,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,144.9495,0.03,1.00E-04,4593.539,4593.539,1000000,410862.6,0.4
+EY21825_Corduroy_100%Cotton_168GSM_FRONT_4992,,,,,,,,,,,4912.376,4912.376,7811.546,2684.593,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,163.6364,0.03,1.00E-04,52946.93,52946.93,1000000,1000000,0.46
+EY23966 _Woven_100%Cotton_122GSM_FRONT_5801,,,,,,,,,,,2182.96,2182.96,2900.124,1679.42,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,37256.8,37256.8,824089.8,423265.1,0.28
+EY23966_Dobby_100%Cotton_122.04GSM_FRONT_5801,,,,,,,,,,,2196.312,2196.312,2381.325,1099.586,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,147912.2,147912.2,1000000,1000000,0.24
+EY24801_Dobby_55% Cotton 45% Polyester_115GSM_FRONT_5801,,,,,,,,,,,1128.197,1128.197,2684.593,611.3052,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,115.1515,0.03,1.00E-04,39654.72,39654.72,1000000,950747.5,0.33
+EY24834_Colored Nep Yarn_99%Cotton1%Polyester_117GSM_FRONT_5801,,,,,,,,,,,1709.938,1709.938,1952.171,1160.622,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,123.2323,0.03,1.00E-04,35583.86,35583.86,1000000,384215.5,0.29
+"EY25294_Woven,plain_100% Cotton_FRONT_5801",,,,,,,,,,,1952.171,1952.171,1709.938,1967.43,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.5152,0.03,1.00E-04,8615.945,8615.945,1000000,304959.4,0.5
+EY26124_Dobby_55%Cotton45%Rayon_134GSM_FRONT_5801,,,,,,,,,,,962.2574,962.2574,916.481,884.0561,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,117.6768,0.03,1.00E-04,3459.469,3459.469,539654.5,248070.3,0.43
+EY26125_Dobby_55%Cotton45%Rayon_134GSM_FRONT_5801,,,,,,,,,,,1296.043,1296.043,914.5737,790.596,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,128.2828,0.03,1.00E-04,10414.07,10414.07,490322.1,224581.6,0.45
+EY26126_Dobby_55%Cotton45%Rayon_134GSM_FRONT_5801,,,,,,,,,,,916.481,916.481,1891.136,823.0209,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,134.8485,0.03,1.00E-04,21842.86,21842.86,187427.8,196666.7,0.47
+EY26828 _Woven_100%Cotton_122GSM_FRONT_5801,,,,,,,,,,,1954.079,1954.079,1982.689,1954.079,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,116.1616,0.03,1.00E-04,184324.8,184324.8,1000000,1000000,0.21
+EY28491_Dobby_100%Cotton_153GSM_FRONT_5801,,,,,,,,,,,2928.734,2928.734,2684.593,3540.993,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,148.9899,0.03,1.00E-04,30939.88,30939.88,1000000,784918.5,0.45
+EY30981_Plain_100%Cotton_155GSM_FRONT_5801,,,,,,,,,,,1709.938,1709.938,1494.408,3905.296,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.5152,0.03,1.00E-04,7889.185,7889.185,661132.6,1000000,0.33
+"EY40440_ Woven,Dobby_100% Cotton_104gsm_FRONT_5801",,,,,,,,,,,1954.079,1954.079,1463.89,1524.925,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,104.0404,0.03,1.00E-04,16095.45,16095.45,961197.4,1000000,0.25
+"EY46752_Woven,Plain_64% Cotton 34% Polyester 2% Spandex_FRONT_5801",,,,,,,,,,,3357.887,3357.887,2320.29,1893.043,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,122.2222,0.03,1.00E-04,23701.71,23701.71,1000000,515183.9,0.25
+EY54040_Dobby_65%poly35%Rayon_175GSM_FRONT_5801,,,,,,,,,,,5919.457,5919.457,3296.852,1585.96,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,182.3232,0.03,1.00E-04,17484.43,17484.43,1000000,682129.6,0.38
+EZ09946_Flocking_100% Cotton_125GSM_FRONT_5801,,,,,,,,,,,3905.296,3905.296,2074.242,2076.149,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,125.2525,0.03,1.00E-04,68705.62,68705.62,1000000,1000000,0.3
+EZ15294_Cotton_100%_End on End_FRONT_5801,,,,,,,,,,,1463.89,1463.89,2198.219,1097.679,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,113.1313,0.03,1.00E-04,20771.81,20771.81,1000000,930448.2,0.25
+EZ31086_Plain_100%Cotton_138GSM_FRONT_5801,,,,,,,,,,,1952.171,1952.171,2684.593,794.4107,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,143.9394,0.03,1.00E-04,12429.92,12429.92,631186.5,256518.6,0.4
+"JBTA00014RT-01_Woven,plain_100% Polyester_FRONT_5801",,,,,,,,,,,733.3755,733.3755,1832.008,1404.762,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,145.9596,0.03,1.00E-04,10839.75,10839.75,232229.4,336809.3,0.4
+"JBTA00020ZT-01_Woven,Jacquard_100%Polyester_135GSM_FRONT_5801",,,,,,,,,,,1219.75,1219.75,67.71088,58.17413,0,0,0,0,0,0,0,0,131.3131,0.03,1.00E-04,9363.99,9363.99,1000000,564524.2,0.4
+"JBTA00041ZT-01_Knit,Jacquard_100%Re-Poly_173GSM_FRONT_5801",,,,,,,,,,,487.3276,487.3276,5431.175,718.1168,0,0,0,0,0,0,0,0,171.7172,0.03,1.00E-04,10094.92,10094.92,1000000,47680.36,0.63
+"JBTB00004HA-01_Woven,Plain_100% Nylon_FRONT_5801",,,,,,,,,,,153.5416,153.5416,258.4457,243.187,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,62.62626,0.03,1.00E-04,51745.43,51745.43,1000000,1000000,0.12
+JBTF00005ZX-03_Plain_89Re-poly11%Spandex_178GSM_FRONT_5801,,,,,,,,,,,1221.657,1221.657,975.6088,1343.727,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,178.2828,0.03,1.00E-04,92548.32,92548.32,234253.8,438937.8,0.38
+"JBTF00068ZT-01_ Knit,Jacquard_55% Polyester 42% RecyclePolyeste 3% Spandex_263GSM_FRONT_5801",,,,,,,,,,,792.5034,792.5034,985.1456,824.9283,0,0,0,0,0,0,0,0,217.1717,0.03,1.00E-04,72510.99,72510.99,103764.9,410236.9,0.55
+JBTK00020BY-01_single jersey_57%Nylon30%CinnamonNylon13%Spandex_230GSM_FRONT_5801,,,,,,,,,,,168.8004,168.8004,548.3627,31.47125,0,0,0,0,0,0,0,0,229.798,0.03,1.00E-04,22650.09,22650.09,53030.66,48121.88,0.55
+JBTK00036BG-02_knit Jacquard_72% Polyester 14% Nylon 14% Spandex_FRONT_5801,,,,,,,,,,,914.5737,914.5737,380.5161,12694.36,0,0,0,0,0,0,0,0,350.5051,0.03,1.00E-04,75055.03,75055.03,79005.84,457180.7,1.17
+JBTK00037BG_Knit_Ottoman_ 72% Polyester 14% Nylon 14% Spandex_351GSM_FRONT_5801,,,,,,,,,,,3418.922,3418.922,121.1166,70311.55,0,0,0,0,0,0,0,0,330.8081,0.03,1.00E-04,14314.04,14314.04,153570.2,127093.2,1.06
+JBTL00008BD-01_FRONT_5801,,,,,,,,,,,548.3627,548.3627,159.2636,7872.582,0,0,0,0,0,0,0,0,115.1515,0.03,1.00E-04,2840.703,2840.703,54898.38,21802.65,0.4
+JBTL00025JB-00_Knit_Twill_89%Re-poly11%Poly_FRONT_5801,,,,,,,,,,,363.3499,363.3499,855.4459,147.8195,0,0,0,0,0,0,0,0,272.2222,0.03,1.00E-04,18968.4,18968.4,149307.9,57584.41,0.94
+JBTM00001BE-01_Knit Interlock_70% Polyester 30% Spandex_FRONT_5801,,,,,,,,,,,792.5034,792.5034,1585.96,456.81,0,0,0,0,0,0,0,0,252.5253,0.03,1.00E-04,41516.82,41516.82,153068,139711.7,0.73
+"JBTO00004BG-01_Knit,Jacquard_100% Polyester_182GSM_FRONT_5801",,,,,,,,,,,252.7237,252.7237,56.26678,245.0943,0,0,0,0,0,0,0,0,151.5152,0.03,1.00E-04,11332.83,11332.83,33760.04,24477.11,0.51
+"JBTO00005BG-01_ Knit,Jacquard_88% Polyester 12% Spandex_220gsm_FRONT_5801",,,,,,,,,,,382.4234,382.4234,138.2828,306.1295,0,0,0,0,0,0,0,0,236.8687,0.03,1.00E-04,9510.799,9510.799,32828.82,29676.12,0.62
+"JBTP00028JB-01_knit,Fleece_ 100% Polyester_FRONT_5801",,,,,,,,,,,512.1231,512.1231,1221.657,779.1519,0,0,0,0,0,0,0,0,198.9899,0.03,1.00E-04,12631.23,12631.23,32385.27,89729.56,0.95
+"JBTP00033JB-01_Knit,Fleece_95% Polyester 5% Spandex_280GSM_FRONT_5801",,,,,,,,,,,1587.868,1587.868,334.7397,346.1838,0,0,0,0,0,0,0,0,251.0101,0.03,1.00E-04,14145.99,14145.99,32070.76,34311.75,1.15
+K05-28346A_Knit_97% Polyester 3% Spandex_FRONT_7572,,,,,,,,,,,823.0209,823.0209,2930.641,1173.973,0,0,0,0,0,0,0,0,227.7778,0.03,1.00E-04,29297.44,29297.44,105158.3,55134.93,1.05
+K10727-DD1_Woven_ 95.5% Nylon 4.5% Spandex_FRONT_7572,,,,,,,,,,,2900.124,2900.124,2869.606,5799.293,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,295.4546,0.03,1.00E-04,57730.38,57730.38,17863.2,95397,0.99
+K10937-GP1_Knit_96% Polyester 4% Spandex_FRONT_7572,,,,,,,,,,,739.0976,739.0976,243.187,794.4107,0,0,0,0,0,0,0,0,221.7172,0.03,1.00E-04,11699.59,11699.59,26368.29,26400.59,0.76
+"K11707-DD1_Knit,Jacquard_98% Polyester 2% Spandex_FRONT_7572",,,,,,,,,,,527.3819,527.3819,1036.644,565.5289,0,0,0,0,0,0,0,0,191.4142,0.03,1.00E-04,4520.011,4520.011,125366.6,75500.91,0.99
+K11892_Knit_75% Rayon 22% Polyester 3% Spandex_FRONT_7572,,,,,,,,,,,288.9633,288.9633,61.98883,15624.05,0,0,0,0,0,0,0,0,286.3636,0.03,1.00E-04,2455.332,2455.332,22725.5,16784.48,0.97
+KS0284-A(AD)_FRONT_13734,,,,,,,,,,,92.50641,92.50641,151.6342,86.78436,0,0,0,0,0,0,0,0,142.9293,0.03,1.00E-04,15491.96,15491.96,23529.69,20095.33,0.34
+KTBA1080209_Panteroma_100% Polyester_240GSM_FRONT_7572,,,,,,,,,,,544.548,544.548,573.1583,428.1998,0,0,0,0,0,0,0,0,232.8283,0.03,1.00E-04,38180.96,38180.96,59515.55,30536.54,0.85
+"MC-31001955_Knit,Ponde Roma_36% Nylon 27% TENCEL 27% Rayon 10% Spandex_FRONT_7572",,,,,,,,,,,313.7589,313.7589,92.50641,212.6694,0,0,0,0,0,0,0,0,165.1515,0.03,1.00E-04,20964.57,20964.57,50726.93,77007.24,0.4
+"MC-31003546_Knit,Scubaknittingfabric_88% Polyester 12% Spandex_FRONT_8346",,,,,,,,,,,687.5992,687.5992,702.858,700.9506,0,0,0,0,0,0,0,0,232.3232,0.03,1.00E-04,10060.68,10060.68,20810.26,25994.33,0.72
+"MC-32001254_Knit,Rib_96% Cotton 4% Spandex_FRONT_8346",,,,,,,,,,,807.7621,807.7621,5124.092,161.171,0,0,0,0,0,0,0,0,211.1111,0.03,1.00E-04,13618.76,13618.76,21974.74,109286.4,0.84
+"MC-32001358_Knit,SingleJersey_95% Rayon 5% Spandex_FRONT_8458",,,,,,,,,,,56.26678,56.26678,279.4266,60.08148,0,0,0,0,0,0,0,0,202.0202,0.03,1.00E-04,5901.374,5901.374,9824.144,12005.09,0.54
+"MC-32001551_Knit,JacquardSingleknit_96% Rayon 4% Spandex_FRONT_8458",,,,,,,,,,,155.4489,155.4489,100.1358,344.2764,0,0,0,0,0,0,0,0,219.697,0.03,1.00E-04,7013.749,7013.749,11629.4,9960.121,0.73
+"MC-32002389_knit,DobbySingleKnit_95% Polyester 5% Spandex_FRONT_8458",,,,,,,,,,,250.8163,250.8163,298.5001,178.3371,0,0,0,0,0,0,0,0,175.2525,0.03,1.00E-04,4290.585,4290.585,23036.95,16918.39,0.5
+"MC-32003267_Knit ,interlock_100% Cotton_FRONT_8625",,,,,,,,,,,239.3723,239.3723,611.3052,178.3371,0,0,0,0,0,0,0,0,163.1313,0.03,1.00E-04,8693.169,8693.169,143005,32632.63,0.5
+"MC-32003278-1_Knit,Jacquard rib_95% Rayon 5% Spandex_FRONT_8625",,,,,,,,,,,92.50641,92.50641,126.8387,100.1358,0,0,0,0,0,0,0,0,186.8687,0.03,1.00E-04,3361.658,3361.658,5543.99,10433.07,0.57
+"MC-32003354_Knit,DobbySingleKnit_ 66% Polyester 31% Rayon 3% Spandex_FRONT_8625",,,,,,,,,,,306.1295,306.1295,388.1454,41.008,0,0,0,0,0,0,0,0,219.1919,0.03,1.00E-04,2939.227,2939.227,8308.435,12842.85,0.9
+"MC-32003528-1_Knit,CrinkleSingleKnit_69% Polyester 30% Rayon 1% Spandex_220GSM_FRONT_8625",,,,,,,,,,,164.9857,164.9857,126.8387,132.5607,0,0,0,0,0,0,0,0,220.202,0.03,1.00E-04,5619.494,5619.494,2753.531,20103.06,0.63
+"MC-3200353_ Knit,Jacqurd Single knit_62% Polyester 34% Rayon 4% Spandex_FRONT_7572",,,,,,,,,,,441.5512,441.5512,1023.293,58.17413,0,0,0,0,0,0,0,0,151.0101,0.03,1.00E-04,6884.225,6884.225,17995.69,60316.46,0.95
+"MC-32003552_Knit,DobbySingleKnit_84% Polyester 16% Spandex_FRONT_8625",,,,,,,,,,,121.1166,121.1166,124.9313,102.0432,0,0,0,0,0,0,0,0,201.5152,0.03,1.00E-04,10462.69,10462.69,18070.94,54783.48,0.7
+"MC-32003573_Knit,Slub Single Jersey_55% Rayon 40% Polyester 5% Spandex_FRONT_8625",,,,,,,,,,,130.6534,130.6534,142.0975,401.4969,0,0,0,0,0,0,0,0,244.9495,0.03,1.00E-04,2472.713,2472.713,18211.1,15763.81,0.72
+"MC-32003678_CrinkleSingleKnit,Knit_97% Polyester 3% Spandex_FRONT_8625",,,,,,,,,,,166.893,166.893,420.5704,489.2349,0,0,0,0,0,0,0,0,172.7273,0.03,1.00E-04,6958.878,6958.878,16925.35,53089.03,0.65
+"MC-320036_Knit,FrenchTerry_95% Rayon 5% Spandex_FRONT_7572",,,,,,,,,,,191.6885,191.6885,321.3882,166.893,0,0,0,0,0,0,0,0,288.8889,0.03,1.00E-04,4285.32,4285.32,11707.58,12962.08,0.73
+"MC-32003765_Knit,Dobby_96% Polyester 4% Spandex_FRONT_8625",,,,,,,,,,,580.7877,580.7877,901.2222,1570.702,0,0,0,0,0,0,0,0,292.9293,0.03,1.00E-04,13968.33,13968.33,161961.8,217833.2,0.77
+"MC-32003852_Knit,DobbySingleKnit_ 96% Polyester 4% Spandex_FRONT_8625",,,,,,,,,,,60.08148,60.08148,102.0432,132.5607,0,0,0,0,0,0,0,0,209.0909,0.03,1.00E-04,5005.173,5005.173,8349.416,14412.49,0.62
+MC-32003870_single jersey_90%polyester10%spandex_160GSM_FRONT_8625,,,,,,,,,,,82.96967,82.96967,103.9505,27.65656,0,0,0,0,0,0,0,0,154.5455,0.03,1.00E-04,5423.991,5423.991,14106.22,11616.55,0.42
+"MC-32003891_Knit,Jacquard_ 94% Cotton 6% Spandex_FRONT_8625",,,,,,,,,,,851.6312,851.6312,868.7973,54.35944,0,0,0,0,0,0,0,0,156.5657,0.03,1.00E-04,3463.733,3463.733,22060.86,76259.87,0.95
+"MC-32004432_knit, jacquard_ 58% Cotton 37% Polyester 5% Spandex_180GSM_FRONT_8625",,,,,,,,,,,494.957,494.957,611.3052,344.2764,0,0,0,0,0,0,0,0,186.8687,0.03,1.00E-04,4947.078,4947.078,20112.59,9800.426,0.96
+"MC-32004447_Knit,French Terry_95% Rayon 5% Spandex_FRONT_8625",,,,,,,,,,,306.1295,306.1295,405.3116,313.7589,0,0,0,0,0,0,0,0,227.2727,0.03,1.00E-04,3457.609,3457.609,9143.943,8128.877,2.64
+"MC-3200458_Knit,Dobby Single Knit(Ottoman)_77% Polyester 20% Rayon 3% Spandex_FRONT_7572",,,,,,,,,,,199.3179,199.3179,287.056,245.0943,0,0,0,0,0,0,0,0,187.3737,0.03,1.00E-04,5470.878,5470.878,12223.03,11042.77,0.65
+"MC-3200913 Knit,1x1Rib_93% Rayon 7% Spandex_205GSM_FRONT_7572",,,,,,,,,,,18.11981,18.11981,41.008,42.91534,0,0,0,0,0,0,0,0,205.0505,0.03,1.00E-04,8783.773,8783.773,7869.494,11275.73,0.5
+MC-3300679_Double Knit_98% Polyester 2% Spandex_FRONT_7572,,,,,,,,,,,672.3404,672.3404,761.9858,763.8931,0,0,0,0,0,0,0,0,252.5253,0.03,1.00E-04,20272.76,20272.76,173724.2,39816.35,0.74
+"MC-3300684_Knit,Jacquarddoubleknit_75% Polyester 20% Spandex 5% Rayon_FRONT_7572",,,,,,,,,,,555.9921,555.9921,885.9634,90.59906,0,0,0,0,0,0,0,0,279.2929,0.03,1.00E-04,4053.399,4053.399,124560.4,51409.53,0.87
+"MC-3301133_Knit,DobbySingleKnit_96% Polyester 4% Spandex_FRONT_7572",,,,,,,,,,,153.5416,153.5416,473.9761,20.02716,0,0,0,0,0,0,0,0,241.4142,0.03,1.00E-04,7014.5,7014.5,28811.94,26098.55,0.66
+RD-04-05T2_FRONT_8625,,,,,,,,,,,145.9122,145.9122,105.8578,119.2093,0,0,0,0,0,0,0,0,160.101,0.03,1.00E-04,25730.08,25730.08,48220.1,28356.29,0.5
+su-a0224_knit tricot_100% Polyester_FRONT_8625,,,,,,,,,,,199.3179,199.3179,2013.207,1372.337,0,0,0,0,0,0,0,0,224.2424,0.03,1.00E-04,326434.8,326434.8,33777.02,128182.3,0.42
+SU-D2675S_Knit_100%Recycled Polyester_185GSM_FRONT_8625,,,,,,,,,,,224.1135,224.1135,287.056,212.6694,0,0,0,0,0,0,0,0,184.8485,0.03,1.00E-04,12201.13,12201.13,34247.85,15316.43,0.73
+su-D3011_interlock_100% Polyester_FRONT_8625,,,,,,,,,,,88.69171,88.69171,176.4297,252.7237,0,0,0,0,0,0,0,0,140.404,0.03,1.00E-04,11566.74,11566.74,10480.44,26241.07,0.49
+su-d3028s_pique_100% Recycle Polyester_FRONT_8625,,,,,,,,,,,67.71088,67.71088,82.96967,214.5767,0,0,0,0,0,0,0,0,125.7576,0.03,1.00E-04,4498.432,4498.432,26140.31,17107.76,0.52
+su-s3258rs_jersey_ 45% Polyester 43% Recycle Polyester 12% Spandex_FRONT_9609,,,,,,,,,,,250.8163,250.8163,473.9761,334.7397,0,0,0,0,0,0,0,0,222.2222,0.03,1.00E-04,21499.38,21499.38,81669.03,55791.58,0.69
+SWEA1080412_Jacqaurd Interlock_60% Cotton 40% Polyester_FRONT_9609,,,,,,,,,,,283.2413,283.2413,1191.139,166.893,0,0,0,0,0,0,0,0,202.0202,0.03,1.00E-04,6660.42,6660.42,40038.19,20530.55,0.85
+"T1260TDM_knit,french terry_100%Polyester_171GSM_FRONT_9721",,,,,,,,,,,81.06232,81.06232,321.3882,12.39777,0,0,0,0,0,0,0,0,171.2121,0.03,1.00E-04,26301.26,26301.26,136098.3,68063.61,0.49
+VABC1071233_Interlock_94% Polyester 6% Spandex_275GSM_FRONT_9721,,,,,,,,,,,1297.951,1297.951,899.3149,1435.28,0,0,0,0,0,0,0,0,277.2727,0.03,1.00E-04,17060.07,17060.07,32677.66,32407.08,0.82
+W03823-DMOWoven_FRONT_9829,,,,,,,,,,,2074.242,2074.242,761.9858,31249.05,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,239.899,0.03,1.00E-04,125946,125946,836993.8,1000000,0.57
+"W04760-DM0_Woven,Melange_48% Polyester 27% Rayon 21% Nylon 4% Spandex_FRONT_9829",,,,,,,,,,,10743.14,10743.14,1465.797,15624.05,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,260.606,0.03,1.00E-04,83117.81,83117.81,364239.3,1000000,0.53
+"W10408-DM0_Woven,Jacquard_73% Cotton 24% Polyester 3% Spandex_292GSM_FRONT_10051",,,,,,,,,,,13672.83,13672.83,11719.7,46872.14,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,291.9192,0.03,1.00E-04,182954.3,182954.3,103977.3,1000000,1.05
+"W10551-DMO_Woven,Dobby_71% Cotton 25% Polyester 4% Spandex_FRONT_10106",,,,,,,,,,,8299.828,8299.828,3663.063,13731.96,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,260.101,0.03,1.00E-04,109451.2,109451.2,316734.3,1000000,0.74
+W10713-DD1_Woven_ 97% Polyester 3% Spandex_FRONT_10106,,,,,,,,,,,1404.762,1404.762,1952.171,2928.734,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,236.3636,0.03,1.00E-04,11570.81,11570.81,155243.2,203017.2,0.64
+"W10874-DD0_Woven,Seersuccker_57% Rayon 42% Polyester 1% Spandex_FRONT_10218",,,,,,,,,,,1160.622,1160.622,2869.606,2076.149,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.5152,0.03,1.00E-04,6052.032,6052.032,54012.32,85015.54,0.5
+W10938-DD1_Woven_100% Nylon_FRONT_10278,,,,,,,,,,,2013.207,2013.207,4881.859,6957.054,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,757.5757,0.03,1.00E-04,28607.43,28607.43,394977.6,1000000,29
+"W11048-DM0_Woven,Dobby_66% Rayon 30% Nylon 4% Spandex_FRONT_10297",,,,,,,,,,,1008.034,1008.034,487.3276,4149.437,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,192.4242,0.03,1.00E-04,14059.6,14059.6,165317.2,1000000,0.4
+W112-R106007_Woven_51% Polyester 35% Rayon 10% Nylon 4% Spandex_FRONT_9829,,,,,,,,,,,9032.25,9032.25,1893.043,2686.5,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,284.8485,0.03,1.00E-04,110953.8,110953.8,1000000,1000000,0.66
+W11226-DD0_Woven_ 60% Polyester 39% Rayon 1% Spandex_FRONT_10316,,,,,,,,,,,914.5737,914.5737,975.6088,1952.171,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,143.4343,0.03,1.00E-04,5797.597,5797.597,37277.18,81676.8,0.47
+"W38-YBK2103_Woven,Jacquard_67% Rayon 23% Nylon 5% Spandex 5% Polyester_FRONT_9829",,,,,,,,,,,8055.687,8055.687,4393.578,15624.05,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,267.6768,0.03,1.00E-04,324403.7,324403.7,888711.8,1000000,0.62
+WA1070401嚗熾nit_interlock_100%Polyester_145GSM_FRONT_10335,,,,,,,,,,,77.24762,77.24762,151.6342,212.6694,0,0,0,0,0,0,0,0,144.9495,0.03,1.00E-04,11848.72,11848.72,84582.89,56782.06,0.6
+"WP0001_Woven,Twill_100% Cotton_FRONT_10352",,,,,,,,,,,1585.96,1585.96,1128.197,624.6567,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,125.7576,0.03,1.00E-04,12414.9,12414.9,332913.3,273460.1,0.43
+"WP0002_Woven,Twill_60% Cotton 40% Polyester_152GSM_FRONT_10371",,,,,,,,,,,6836.891,6836.891,7811.546,6348.61,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,152.0202,0.03,1.00E-04,415189.4,415189.4,1000000,1000000,0.47
+"WP0004_WOVEN,PLAIN_97% Polyester 3% Spandex_105GSM_FRONT_10407",,,,,,,,,,,1036.644,1036.644,990.8676,3905.296,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,105.0505,0.03,1.00E-04,26149.83,26149.83,1000000,351941.8,0.22
+WP003_Woven Twill_100%Polyester_115GSM_FRONT_10390,,,,,,,,,,,977.5162,977.5162,731.4682,3905.296,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,115.1515,0.03,1.00E-04,32039.48,32039.48,986246.8,1000000,0.25
+ZC180391-3_twill_ 100% Cotton_FRONT_10424,,,,,,,,,,,4761.696,4761.696,7809.639,7842.064,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,270.7071,0.03,1.00E-04,67671.92,67671.92,771086.3,389626.6,0.84
+1050724A_single jersey_100%Polyester_145GSM_FRONT_1600,,,,,,,,,,,21.93451,21.93451,18.11981,23.84186,0,0,0,0,0,0,0,0,137.8788,0.03,1.00E-04,5165.15,5165.15,16909.52,13991.05,0.48
+"1060121_Houndstooth,jacquard, interlock_ 60% Cotton 40% Polyester_210GSM_FRONT_1658",,,,,,,,,,,594.1391,594.1391,1830.101,266.0751,0,0,0,0,0,0,0,0,210.101,0.03,1.00E-04,48538.9,48538.9,28609.6,30754.23,0.75
+180885-1_Woven plain_100% Cotton_FRONT_1540,,,,,,,,,,,3935.814,3935.814,4273.415,1467.705,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,151.5152,0.03,1.00E-04,214090.3,214090.3,1000000,1000000,0.33
+"APB107078_Jacqaurd, Interlock_80% Polyester 20% Viscose_280GSM_FRONT_1716",,,,,,,,,,,609.3979,609.3979,3172.875,1433.373,0,0,0,0,0,0,0,0,279.798,0.03,1.00E-04,10119.37,10119.37,90235.32,46870.45,1.03
+APBA1080302_Fleece_71%Polyester17%Viscose12%Cotton_410GSM_FRONT_1733,,,,,,,,,,,10743.14,10743.14,10743.14,3846.168,0,0,0,0,0,0,0,0,410.101,0.03,1.00E-04,17165.87,17165.87,116388.8,46248.59,2.02
+APBB1081004_Active Jersey_ 88% Polyester 12% Spandex_260GSM_FRONT_1832,,,,,,,,,,,153.5416,153.5416,441.5512,275.6119,0,0,0,0,0,0,0,0,256.0606,0.03,1.00E-04,18932.08,18932.08,44240.92,36449.86,0.64
+APD1070113_1X1 Rib_58% Cotton 37% Polyester 5% Spandex_230GSM_FRONT_1890,,,,,,,,,,,31249.05,31249.05,191405.3,39092.06,0,0,0,0,0,0,0,0,11616.16,0.03,1.00E-04,46211.39,46211.39,125619.7,95242.07,0.77
+"APEB1080132_Jersey,Slub_ 50% Viscose 50% Polyester_201GSM_FRONT_1907",,,,,,,,,,,388.1454,388.1454,565.5289,626.564,0,0,0,0,0,0,0,0,202.0202,0.03,1.00E-04,4030.739,4030.739,29316.82,11514.49,0.63
+BEAA1090716_jersey_60%Cotton40%Polyester_160GSM_FRONT_2006,,,,,,,,,,,302.3148,302.3148,1158.714,267.9825,0,0,0,0,0,0,0,0,160.101,0.03,1.00E-04,18007.09,18007.09,35245.36,13704.26,0.51
+BEBB1071017_interlock Mesh_100%Polyester_140GSM_FRONT_2064,,,,,,,,,,,111.5799,111.5799,281.3339,136.3754,0,0,0,0,0,0,0,0,139.899,0.03,1.00E-04,6912.547,6912.547,44426.11,10260.46,0.64
+"BEC1070151_ Jersey,Pique_60% Cotton 40% Polyester_180GSM_FRONT_2122",,,,,,,,,,,214.5767,214.5767,1555.443,761.9858,0,0,0,0,0,0,0,0,183.8384,0.03,1.00E-04,28503.19,28503.19,26800.16,31737.33,0.65
+"CA16031DB_knit,2x2rib_58% Cotton 39% Polyester 3% Spandex_270GSM_FRONT_2180",,,,,,,,,,,580.7877,580.7877,6834.984,359.5352,0,0,0,0,0,0,0,0,270.202,0.03,1.00E-04,8812.841,8812.841,123054.1,48970.22,0.92
+DMS-TR2001_Woven_Twill_FRONT_2238,,,,,,,,,,,670.433,670.433,1601.219,1702.309,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.25,208.0808,0.03,1.00E-04,19435.21,19435.21,210451.5,198463,0.45
+#1001 SKIN+CIRE_FRONT_1425,,,,,,,,,,,NaN,NaN,45.77637,27.46582,NaN,NaN,NaN,0,NaN,NaN,0,0,38.88889,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.07
+#1025 SKIN+_FRONT_1508,,,,,,,,,,,NaN,NaN,369.2627,100.708,NaN,NaN,NaN,0,NaN,NaN,0,0,45.9596,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.12
+#1128 C2L_FRONT_1591,,,,,,,,,,,NaN,NaN,344.8486,192.2607,NaN,NaN,NaN,0,NaN,NaN,0,0,43.43435,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.08
+#1754 WR_FRONT_1674,,,,,,,,,,,NaN,NaN,3903.198,1217.651,NaN,NaN,NaN,0,NaN,NaN,0,0,261.1111,0.03,1.00E-04,NaN,NaN,150546.5,649094.1,0.49
+#1840_FRONT_1763,,,,,,,,,,,NaN,NaN,76.29395,76.29395,NaN,NaN,NaN,0,NaN,NaN,0,0,80.80808,0.03,1.00E-04,NaN,NaN,313735.2,183954.4,0.17
+#4509 PU2_FRONT_1846,,,,,,,,,,,NaN,NaN,99996.95,37503.05,NaN,NaN,NaN,0,NaN,NaN,0,0,333.8384,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.536
+#4707 W3L_FRONT_1929,,,,,,,,,,,NaN,NaN,24996.95,18753.05,NaN,NaN,NaN,0,NaN,NaN,0,0,388.3839,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.66
+#4820 PU2_FRONT_2012,,,,,,,,,,,NaN,NaN,26559.45,3121.948,NaN,NaN,NaN,0,NaN,NaN,0,0,347.4748,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.63
+#7123 PU2_FRONT_2095,,,,,,,,,,,NaN,NaN,9378.052,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,161.6162,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.34
+#7172 TEF_FRONT_2178,,,,,,,,,,,NaN,NaN,51559.45,31246.95,NaN,NaN,NaN,0,NaN,NaN,0,0,420.7071,0.03,1.00E-04,NaN,NaN,735024.8,662685.1,0.986
+#8102P_FRONT_2261,,,,,,,,,,,NaN,NaN,686.6455,588.9893,NaN,NaN,NaN,0,NaN,NaN,0,0,94.94949,0.03,1.00E-04,NaN,NaN,1000000,539616.4,0.224
+(G)H170470_FRONT_1342,,,,,,,,,,,NaN,NaN,296.0205,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,253.0303,0.03,1.00E-04,NaN,NaN,264812,53102.39,0.56
+14028A_FRONT_2676,,,,,,,,,,,NaN,NaN,1217.651,1467.896,NaN,NaN,NaN,0,NaN,NaN,0,0,384.8485,0.03,1.00E-04,NaN,NaN,157423.2,176009.1,0.858
+160076-1_FRONT_2759,,,,,,,,,,,NaN,NaN,436.4014,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,171.7172,0.03,1.00E-04,NaN,NaN,254794,134200.4,0.49
+160135_FRONT_2842,,,,,,,,,,,NaN,NaN,7028.198,4879.761,NaN,NaN,NaN,0,NaN,NaN,0,0,333.3333,0.03,1.00E-04,NaN,NaN,624265.1,624018.5,0.774
+17CJS1287_FRONT_2593,,,,,,,,,,,NaN,NaN,997.9248,973.5107,NaN,NaN,NaN,0,NaN,NaN,0,0,192.9293,0.03,1.00E-04,NaN,NaN,1000000,269742.9,0.331
+18399 DTP(PP)_FRONT_8911,,,,,,,,,,,NaN,NaN,4690.552,3317.261,NaN,NaN,NaN,0,NaN,NaN,0,0,387.8788,0.03,1.00E-04,NaN,NaN,330982.3,227408.7,1.37
+518221_FRONT_2925,,,,,,,,,,,NaN,NaN,1516.724,411.9873,NaN,NaN,NaN,0,NaN,NaN,0,0,241.4142,0.03,1.00E-04,NaN,NaN,262675.3,157500.2,0.65
+578244_FRONT_3008,,,,,,,,,,,NaN,NaN,686.6455,387.5732,NaN,NaN,NaN,0,NaN,NaN,0,0,238.8889,0.03,1.00E-04,NaN,NaN,148809.4,83396.73,0.61
+618260_FRONT_3091,,,,,,,,,,,NaN,NaN,778.1982,88.50098,NaN,NaN,NaN,0,NaN,NaN,0,0,60.60606,0.03,1.00E-04,NaN,NaN,1000000,196729,0.07
+627708_FRONT_10666,,,,,,,,,,,NaN,NaN,9378.052,3512.573,NaN,NaN,NaN,0,NaN,NaN,0,0,164.1414,0.03,1.00E-04,NaN,NaN,115365.3,65963.23,0.25
+678122_FRONT_9077,,,,,,,,,,,NaN,NaN,588.9893,1174.927,NaN,NaN,NaN,0,NaN,NaN,0,0,109.596,0.03,1.00E-04,NaN,NaN,803517.6,162517.1,0.16
+SP-6935P_FRONT_3502,,,,,,,,,,,NaN,NaN,1754.761,2737.427,NaN,NaN,NaN,0,NaN,NaN,0,0,202.5253,0.03,1.00E-04,NaN,NaN,338444.8,179429.4,0.61
+7A7542_FRONT_2344,,,,,,,,,,,NaN,NaN,1950.073,1559.448,NaN,NaN,NaN,0,NaN,NaN,0,0,128.2828,0.03,1.00E-04,NaN,NaN,307299.5,202063.8,0.412
+7A7542C_FRONT_2427,,,,,,,,,,,NaN,NaN,12496.95,485.2295,NaN,NaN,NaN,0,NaN,NaN,0,0,137.8788,0.03,1.00E-04,NaN,NaN,528691.1,7449.285,0.416
+7A7557_FRONT_11081,,,,,,,,,,,NaN,NaN,1608.276,4690.552,NaN,NaN,NaN,0,NaN,NaN,0,0,109.0909,0.03,1.00E-04,NaN,NaN,1000000,1000000,0.347
+7A7815_FRONT_2510,,,,,,,,,,,NaN,NaN,759.8877,283.8135,NaN,NaN,NaN,0,NaN,NaN,0,0,51.51515,0.03,1.00E-04,NaN,NaN,301885.6,181213,0.16
