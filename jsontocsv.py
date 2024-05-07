@@ -7,7 +7,7 @@ from nltk.corpus import words
 
 # Define the folder containing the JSON files
 # folder_path = "./KKTA-CLO GLTF/KKTA-CLO GLTF"
-folder_path = "./frontier"
+folder_path = "./all"
 
 # Define the CSV file path
 csv_file_path = "./frontier.csv"
@@ -46,9 +46,9 @@ def replace_non_alpha_with_space(text):
 for filename in os.listdir(folder_path):
     if filename.endswith(".json"):  # Check if the file is a JSON file
         json_file_path = os.path.join(folder_path, filename)
-        filename_no_extension = os.path.splitext(filename)[0]
-        filename_no_extension = replace_non_alpha_with_space(filename_no_extension)
-        filename_no_extension = keep_only_english_words(filename_no_extension)
+        # filename_no_extension = os.path.splitext(filename)[0]
+        # filename_no_extension = replace_non_alpha_with_space(filename_no_extension)
+        # filename_no_extension = keep_only_english_words(filename_no_extension)
         #remove numbers and special chars
         # print(json_file_path)
 
@@ -56,19 +56,30 @@ for filename in os.listdir(folder_path):
         with open(json_file_path, 'r', encoding='utf-8') as json_file:
             # print(json_file)
             json_data = json.load(json_file)  # Load the JSON data
-            data_entry = {
-                "name": filename_no_extension
-            }
-            # Extract the physicalProperty value
-            physical_properties = json_data.get("materials", None)[0]["extensions"]["CLO_materials_fabric_property"]["physicalProperty"]  # Use None if key is not found
+            
+            for materials in json_data.get("materials", None):
+                material_name = materials["name"]
+                material_name = replace_non_alpha_with_space(material_name)
+                material_name = keep_only_english_words(material_name)
+                material_name = ' '.join([word for word in material_name.split() if len(word) > 1])
 
-            all_keys.update(physical_properties.keys())
-            # Append the extracted data to the list
-            # Fill in data for each key found in physicalProperty
-            for key in all_keys:
-                data_entry[key] = physical_properties.get(key, None)  # Fill with None if the key is missing
+                if material_name:
 
-            extracted_data.append(data_entry)
+                    physical_properties = materials["extensions"]["CLO_materials_fabric_property"]["physicalProperty"]  # Use None if key is not found
+                    
+                
+                    data_entry = {
+                        "name": material_name
+                    }
+                # Extract the physicalProperty value
+            
+                    all_keys.update(physical_properties.keys())
+                    # Append the extracted data to the list
+                    # Fill in data for each key found in physicalProperty
+                    for key in all_keys:
+                        data_entry[key] = physical_properties.get(key, None)  # Fill with None if the key is missing
+
+                    extracted_data.append(data_entry)
 
 # Write the extracted data to a CSV file
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
